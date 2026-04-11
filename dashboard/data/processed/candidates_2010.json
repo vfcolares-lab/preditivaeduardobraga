@@ -1,0 +1,154 @@
+{
+  "president": [
+    {
+      "id": 0,
+      "name": "DILMA VANA ROUSSEFF",
+      "office": "Presidente"
+    },
+    {
+      "id": 1,
+      "name": "JOSÉ SERRA",
+      "office": "Presidente"
+    },
+    {
+      "id": 2,
+      "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+      "office": "Presidente"
+    },
+    {
+      "id": 3,
+      "name": "VOTO BRANCO",
+      "office": "Presidente"
+    },
+    {
+      "id": 4,
+      "name": "VOTO NULO",
+      "office": "Presidente"
+    },
+    {
+      "id": 5,
+      "name": "JOSÉ MARIA DE ALMEIDA",
+      "office": "Presidente"
+    },
+    {
+      "id": 6,
+      "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+      "office": "Presidente"
+    },
+    {
+      "id": 7,
+      "name": "JOSE MARIA EYMAEL",
+      "office": "Presidente"
+    },
+    {
+      "id": 8,
+      "name": "JOSE LEVY FIDELIX DA CRUZ",
+      "office": "Presidente"
+    },
+    {
+      "id": 9,
+      "name": "IVAN MARTINS PINHEIRO",
+      "office": "Presidente"
+    },
+    {
+      "id": 10,
+      "name": "RUI COSTA PIMENTA",
+      "office": "Presidente"
+    }
+  ],
+  "governor": [
+    {
+      "id": 0,
+      "name": "ALFREDO PEREIRA DO NASCIMENTO",
+      "office": "Governador"
+    },
+    {
+      "id": 1,
+      "name": "HISSA NAGIB ABRAHAO FILHO",
+      "office": "Governador"
+    },
+    {
+      "id": 2,
+      "name": "OMAR JOSE ABDEL AZIZ",
+      "office": "Governador"
+    },
+    {
+      "id": 3,
+      "name": "VOTO BRANCO",
+      "office": "Governador"
+    },
+    {
+      "id": 4,
+      "name": "VOTO NULO",
+      "office": "Governador"
+    },
+    {
+      "id": 5,
+      "name": "HERBERT AMAZONAS MASSULO",
+      "office": "Governador"
+    },
+    {
+      "id": 6,
+      "name": "LUIZ MANOEL NAVARRO",
+      "office": "Governador"
+    },
+    {
+      "id": 7,
+      "name": "LUIZ CARLOS CARVALHO SENA",
+      "office": "Governador"
+    }
+  ],
+  "senator1": [
+    {
+      "id": 0,
+      "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+      "office": "Senador"
+    },
+    {
+      "id": 1,
+      "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+      "office": "Senador"
+    },
+    {
+      "id": 2,
+      "name": "JEFFERSON PRAIA BEZERRA",
+      "office": "Senador"
+    },
+    {
+      "id": 3,
+      "name": "MARILENE CORREA DA SILVA FREITAS",
+      "office": "Senador"
+    },
+    {
+      "id": 4,
+      "name": "VANESSA GRAZZIOTIN",
+      "office": "Senador"
+    },
+    {
+      "id": 5,
+      "name": "VOTO BRANCO",
+      "office": "Senador"
+    },
+    {
+      "id": 6,
+      "name": "VOTO NULO",
+      "office": "Senador"
+    },
+    {
+      "id": 7,
+      "name": "MARCOS ANTONIO DE QUEIROZ",
+      "office": "Senador"
+    },
+    {
+      "id": 8,
+      "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+      "office": "Senador"
+    },
+    {
+      "id": 9,
+      "name": "#NULO#",
+      "office": "Senador"
+    }
+  ],
+  "senator2": []
+}

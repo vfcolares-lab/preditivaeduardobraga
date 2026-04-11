@@ -4,8 +4,9 @@
       "ALVARÃES": {
         "calha": "Médio Solimões",
         "votos_eb": 4277,
-        "percentual_eb": 41.05,
-        "votos_totais": 10418,
+        "percentual_eb": 41.06,
+        "votos_validos": 10417,
+        "votos_totais": 10417,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -25,6 +26,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 2138,
         "percentual_eb": 35.22,
+        "votos_validos": 6071,
         "votos_totais": 6071,
         "top3_candidatos": [
           {
@@ -44,8 +46,9 @@
       "ANAMÃ": {
         "calha": "Médio Solimões",
         "votos_eb": 3160,
-        "percentual_eb": 40.82,
-        "votos_totais": 7741,
+        "percentual_eb": 40.83,
+        "votos_validos": 7740,
+        "votos_totais": 7740,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -64,8 +67,9 @@
       "ANORI": {
         "calha": "Médio Solimões",
         "votos_eb": 5174,
-        "percentual_eb": 44.18,
-        "votos_totais": 11711,
+        "percentual_eb": 44.19,
+        "votos_validos": 11708,
+        "votos_totais": 11708,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -84,8 +88,9 @@
       "APUÍ": {
         "calha": "Madeira",
         "votos_eb": 2564,
-        "percentual_eb": 23.24,
-        "votos_totais": 11031,
+        "percentual_eb": 23.25,
+        "votos_validos": 11030,
+        "votos_totais": 11030,
         "top3_candidatos": [
           {
             "nome": "JEFFERSON PRAIA BEZERRA",
@@ -104,8 +109,9 @@
       "ATALAIA DO NORTE": {
         "calha": "Alto Solimões",
         "votos_eb": 3070,
-        "percentual_eb": 47.15,
-        "votos_totais": 6511,
+        "percentual_eb": 47.17,
+        "votos_validos": 6508,
+        "votos_totais": 6508,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -124,8 +130,9 @@
       "AUTAZES": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 11361,
-        "percentual_eb": 45.41,
-        "votos_totais": 25016,
+        "percentual_eb": 45.43,
+        "votos_validos": 25005,
+        "votos_totais": 25005,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -144,8 +151,9 @@
       "BARCELOS": {
         "calha": "Rio Negro",
         "votos_eb": 3274,
-        "percentual_eb": 33.45,
-        "votos_totais": 9787,
+        "percentual_eb": 33.46,
+        "votos_validos": 9785,
+        "votos_totais": 9785,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -164,8 +172,9 @@
       "BARREIRINHA": {
         "calha": "Baixo Amazonas",
         "votos_eb": 8178,
-        "percentual_eb": 42.23,
-        "votos_totais": 19365,
+        "percentual_eb": 42.24,
+        "votos_validos": 19361,
+        "votos_totais": 19361,
         "top3_candidatos": [
           {
             "nome": "VOTO NULO",
@@ -185,7 +194,8 @@
         "calha": "Alto Solimões",
         "votos_eb": 10863,
         "percentual_eb": 48.53,
-        "votos_totais": 22386,
+        "votos_validos": 22384,
+        "votos_totais": 22384,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -205,7 +215,8 @@
         "calha": "Médio Solimões",
         "votos_eb": 5007,
         "percentual_eb": 44.99,
-        "votos_totais": 11129,
+        "votos_validos": 11128,
+        "votos_totais": 11128,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -225,7 +236,8 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 5050,
         "percentual_eb": 41.83,
-        "votos_totais": 12074,
+        "votos_validos": 12072,
+        "votos_totais": 12072,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -244,8 +256,9 @@
       "BOCA DO ACRE": {
         "calha": "Purus",
         "votos_eb": 8511,
-        "percentual_eb": 40.88,
-        "votos_totais": 20820,
+        "percentual_eb": 40.89,
+        "votos_validos": 20814,
+        "votos_totais": 20814,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -264,8 +277,9 @@
       "BORBA": {
         "calha": "Madeira",
         "votos_eb": 10635,
-        "percentual_eb": 46.65,
-        "votos_totais": 22796,
+        "percentual_eb": 46.67,
+        "votos_validos": 22789,
+        "votos_totais": 22789,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -285,6 +299,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 3646,
         "percentual_eb": 44.3,
+        "votos_validos": 8231,
         "votos_totais": 8231,
         "top3_candidatos": [
           {
@@ -305,7 +320,8 @@
         "calha": "Purus",
         "votos_eb": 2785,
         "percentual_eb": 36.54,
-        "votos_totais": 7622,
+        "votos_validos": 7621,
+        "votos_totais": 7621,
         "top3_candidatos": [
           {
             "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
@@ -325,7 +341,8 @@
         "calha": "Juruá",
         "votos_eb": 6403,
         "percentual_eb": 37.22,
-        "votos_totais": 17205,
+        "votos_validos": 17204,
+        "votos_totais": 17204,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -345,7 +362,8 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 9751,
         "percentual_eb": 41.19,
-        "votos_totais": 23675,
+        "votos_validos": 23672,
+        "votos_totais": 23672,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -364,8 +382,9 @@
       "CAREIRO DA VÁRZEA": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 8870,
-        "percentual_eb": 45.41,
-        "votos_totais": 19532,
+        "percentual_eb": 45.44,
+        "votos_validos": 19522,
+        "votos_totais": 19522,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -384,8 +403,9 @@
       "COARI": {
         "calha": "Médio Solimões",
         "votos_eb": 19338,
-        "percentual_eb": 36.26,
-        "votos_totais": 53336,
+        "percentual_eb": 36.27,
+        "votos_validos": 53320,
+        "votos_totais": 53320,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -404,8 +424,9 @@
       "CODAJÁS": {
         "calha": "Médio Solimões",
         "votos_eb": 7261,
-        "percentual_eb": 43.12,
-        "votos_totais": 16838,
+        "percentual_eb": 43.13,
+        "votos_validos": 16835,
+        "votos_totais": 16835,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -424,8 +445,9 @@
       "EIRUNEPÉ": {
         "calha": "Juruá",
         "votos_eb": 7782,
-        "percentual_eb": 37.88,
-        "votos_totais": 20545,
+        "percentual_eb": 37.89,
+        "votos_validos": 20541,
+        "votos_totais": 20541,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -445,6 +467,7 @@
         "calha": "Juruá",
         "votos_eb": 3325,
         "percentual_eb": 28.55,
+        "votos_validos": 11647,
         "votos_totais": 11647,
         "top3_candidatos": [
           {
@@ -464,8 +487,9 @@
       "FONTE BOA": {
         "calha": "Médio Solimões",
         "votos_eb": 6942,
-        "percentual_eb": 44.59,
-        "votos_totais": 15569,
+        "percentual_eb": 44.61,
+        "votos_validos": 15563,
+        "votos_totais": 15563,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -485,6 +509,7 @@
         "calha": "Juruá",
         "votos_eb": 3007,
         "percentual_eb": 47.15,
+        "votos_validos": 6377,
         "votos_totais": 6377,
         "top3_candidatos": [
           {
@@ -504,8 +529,9 @@
       "HUMAITÁ": {
         "calha": "Madeira",
         "votos_eb": 11675,
-        "percentual_eb": 36.77,
-        "votos_totais": 31753,
+        "percentual_eb": 36.81,
+        "votos_validos": 31721,
+        "votos_totais": 31721,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -525,7 +551,8 @@
         "calha": "Juruá",
         "votos_eb": 2724,
         "percentual_eb": 32.93,
-        "votos_totais": 8272,
+        "votos_validos": 8271,
+        "votos_totais": 8271,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -544,8 +571,9 @@
       "IRANDUBA": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 16609,
-        "percentual_eb": 45.45,
-        "votos_totais": 36542,
+        "percentual_eb": 45.5,
+        "votos_validos": 36505,
+        "votos_totais": 36505,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -564,8 +592,9 @@
       "ITACOATIARA": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 33376,
-        "percentual_eb": 42.25,
-        "votos_totais": 78996,
+        "percentual_eb": 42.27,
+        "votos_validos": 78965,
+        "votos_totais": 78965,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -585,6 +614,7 @@
         "calha": "Juruá",
         "votos_eb": 2743,
         "percentual_eb": 40.79,
+        "votos_validos": 6724,
         "votos_totais": 6724,
         "top3_candidatos": [
           {
@@ -605,6 +635,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 3979,
         "percentual_eb": 45.79,
+        "votos_validos": 8690,
         "votos_totais": 8690,
         "top3_candidatos": [
           {
@@ -624,8 +655,9 @@
       "JAPURÁ": {
         "calha": "Médio Solimões",
         "votos_eb": 1620,
-        "percentual_eb": 39.06,
-        "votos_totais": 4147,
+        "percentual_eb": 39.09,
+        "votos_validos": 4144,
+        "votos_totais": 4144,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -645,6 +677,7 @@
         "calha": "Juruá",
         "votos_eb": 1729,
         "percentual_eb": 27.05,
+        "votos_validos": 6393,
         "votos_totais": 6393,
         "top3_candidatos": [
           {
@@ -664,8 +697,9 @@
       "JUTAÍ": {
         "calha": "Médio Solimões",
         "votos_eb": 4932,
-        "percentual_eb": 46.09,
-        "votos_totais": 10701,
+        "percentual_eb": 46.12,
+        "votos_validos": 10695,
+        "votos_totais": 10695,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -684,8 +718,9 @@
       "LÁBREA": {
         "calha": "Purus",
         "votos_eb": 10173,
-        "percentual_eb": 42.84,
-        "votos_totais": 23747,
+        "percentual_eb": 42.86,
+        "votos_validos": 23738,
+        "votos_totais": 23738,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -704,8 +739,9 @@
       "MANACAPURU": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 26400,
-        "percentual_eb": 32.6,
-        "votos_totais": 80978,
+        "percentual_eb": 32.61,
+        "votos_validos": 80959,
+        "votos_totais": 80959,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -724,8 +760,9 @@
       "MANAQUIRI": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 6051,
-        "percentual_eb": 40.84,
-        "votos_totais": 14818,
+        "percentual_eb": 40.85,
+        "votos_validos": 14814,
+        "votos_totais": 14814,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -744,8 +781,9 @@
       "MANAUS": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 754309,
-        "percentual_eb": 42.84,
-        "votos_totais": 1760802,
+        "percentual_eb": 42.93,
+        "votos_validos": 1757215,
+        "votos_totais": 1757215,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -764,8 +802,9 @@
       "MANICORÉ": {
         "calha": "Madeira",
         "votos_eb": 10819,
-        "percentual_eb": 36.83,
-        "votos_totais": 29375,
+        "percentual_eb": 36.84,
+        "votos_validos": 29368,
+        "votos_totais": 29368,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -784,8 +823,9 @@
       "MARAÃ": {
         "calha": "Médio Solimões",
         "votos_eb": 2890,
-        "percentual_eb": 35.98,
-        "votos_totais": 8033,
+        "percentual_eb": 36.0,
+        "votos_validos": 8028,
+        "votos_totais": 8028,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -804,8 +844,9 @@
       "MAUÉS": {
         "calha": "Baixo Amazonas",
         "votos_eb": 15223,
-        "percentual_eb": 42.54,
-        "votos_totais": 35784,
+        "percentual_eb": 42.55,
+        "votos_validos": 35773,
+        "votos_totais": 35773,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -824,8 +865,9 @@
       "NHAMUNDÁ": {
         "calha": "Baixo Amazonas",
         "votos_eb": 5716,
-        "percentual_eb": 38.0,
-        "votos_totais": 15042,
+        "percentual_eb": 38.01,
+        "votos_validos": 15040,
+        "votos_totais": 15040,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -844,8 +886,9 @@
       "NOVA OLINDA DO NORTE": {
         "calha": "Madeira",
         "votos_eb": 7562,
-        "percentual_eb": 42.69,
-        "votos_totais": 17712,
+        "percentual_eb": 42.72,
+        "votos_validos": 17703,
+        "votos_totais": 17703,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -865,7 +908,8 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 4050,
         "percentual_eb": 42.03,
-        "votos_totais": 9637,
+        "votos_validos": 9635,
+        "votos_totais": 9635,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -885,7 +929,8 @@
         "calha": "Madeira",
         "votos_eb": 4396,
         "percentual_eb": 34.04,
-        "votos_totais": 12916,
+        "votos_validos": 12914,
+        "votos_totais": 12914,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -904,8 +949,9 @@
       "PARINTINS": {
         "calha": "Baixo Amazonas",
         "votos_eb": 35717,
-        "percentual_eb": 43.53,
-        "votos_totais": 82059,
+        "percentual_eb": 43.54,
+        "votos_validos": 82031,
+        "votos_totais": 82031,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -924,8 +970,9 @@
       "PAUINI": {
         "calha": "Purus",
         "votos_eb": 3574,
-        "percentual_eb": 35.6,
-        "votos_totais": 10038,
+        "percentual_eb": 35.61,
+        "votos_validos": 10037,
+        "votos_totais": 10037,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -944,8 +991,9 @@
       "PRESIDENTE FIGUEIREDO": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 8295,
-        "percentual_eb": 38.26,
-        "votos_totais": 21682,
+        "percentual_eb": 38.3,
+        "votos_validos": 21659,
+        "votos_totais": 21659,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -964,8 +1012,9 @@
       "RIO PRETO DA EVA": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 7677,
-        "percentual_eb": 44.55,
-        "votos_totais": 17231,
+        "percentual_eb": 44.58,
+        "votos_validos": 17220,
+        "votos_totais": 17220,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -985,6 +1034,7 @@
         "calha": "Rio Negro",
         "votos_eb": 2748,
         "percentual_eb": 42.72,
+        "votos_validos": 6433,
         "votos_totais": 6433,
         "top3_candidatos": [
           {
@@ -1004,8 +1054,9 @@
       "SANTO ANTÔNIO DO IÇÁ": {
         "calha": "Alto Solimões",
         "votos_eb": 5208,
-        "percentual_eb": 37.36,
-        "votos_totais": 13939,
+        "percentual_eb": 37.37,
+        "votos_validos": 13938,
+        "votos_totais": 13938,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1024,8 +1075,9 @@
       "SILVES": {
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 3922,
-        "percentual_eb": 45.12,
-        "votos_totais": 8693,
+        "percentual_eb": 45.13,
+        "votos_validos": 8691,
+        "votos_totais": 8691,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1045,7 +1097,8 @@
         "calha": "Rio Negro",
         "votos_eb": 13513,
         "percentual_eb": 47.42,
-        "votos_totais": 28496,
+        "votos_validos": 28495,
+        "votos_totais": 28495,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1064,8 +1117,9 @@
       "SÃO PAULO DE OLIVENÇA": {
         "calha": "Alto Solimões",
         "votos_eb": 8390,
-        "percentual_eb": 47.72,
-        "votos_totais": 17581,
+        "percentual_eb": 47.73,
+        "votos_validos": 17578,
+        "votos_totais": 17578,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1084,8 +1138,9 @@
       "SÃO SEBASTIÃO DO UATUMÃ": {
         "calha": "Baixo Amazonas",
         "votos_eb": 2820,
-        "percentual_eb": 41.18,
-        "votos_totais": 6848,
+        "percentual_eb": 41.19,
+        "votos_validos": 6847,
+        "votos_totais": 6847,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1104,8 +1159,9 @@
       "TABATINGA": {
         "calha": "Alto Solimões",
         "votos_eb": 15957,
-        "percentual_eb": 47.75,
-        "votos_totais": 33420,
+        "percentual_eb": 47.76,
+        "votos_validos": 33410,
+        "votos_totais": 33410,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1125,7 +1181,8 @@
         "calha": "Purus",
         "votos_eb": 4062,
         "percentual_eb": 33.19,
-        "votos_totais": 12240,
+        "votos_validos": 12239,
+        "votos_totais": 12239,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1144,8 +1201,9 @@
       "TEFÉ": {
         "calha": "Médio Solimões",
         "votos_eb": 18894,
-        "percentual_eb": 43.16,
-        "votos_totais": 43774,
+        "percentual_eb": 43.17,
+        "votos_validos": 43762,
+        "votos_totais": 43762,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1165,7 +1223,8 @@
         "calha": "Alto Solimões",
         "votos_eb": 4270,
         "percentual_eb": 45.49,
-        "votos_totais": 9387,
+        "votos_validos": 9386,
+        "votos_totais": 9386,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1185,7 +1244,8 @@
         "calha": "Médio Solimões",
         "votos_eb": 3754,
         "percentual_eb": 48.51,
-        "votos_totais": 7739,
+        "votos_validos": 7738,
+        "votos_totais": 7738,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1204,8 +1264,9 @@
       "URUCARÁ": {
         "calha": "Baixo Amazonas",
         "votos_eb": 3863,
-        "percentual_eb": 30.0,
-        "votos_totais": 12877,
+        "percentual_eb": 30.01,
+        "votos_validos": 12874,
+        "votos_totais": 12874,
         "top3_candidatos": [
           {
             "nome": "VANESSA GRAZZIOTIN",
@@ -1224,8 +1285,9 @@
       "URUCURITUBA": {
         "calha": "Baixo Amazonas",
         "votos_eb": 4958,
-        "percentual_eb": 37.11,
-        "votos_totais": 13360,
+        "percentual_eb": 37.13,
+        "votos_validos": 13353,
+        "votos_totais": 13353,
         "top3_candidatos": [
           {
             "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
@@ -1247,105 +1309,120 @@
         "municipio": "ALVARÃES",
         "zona": 60,
         "votos_eb": 4277,
-        "percentual_eb": 41.05,
-        "votos_totais": 10418
+        "percentual_eb": 41.06,
+        "votos_validos": 10417,
+        "votos_totais": 10417
       },
       "AMATURÁ_22": {
         "municipio": "AMATURÁ",
         "zona": 22,
         "votos_eb": 2138,
         "percentual_eb": 35.22,
+        "votos_validos": 6071,
         "votos_totais": 6071
       },
       "ANAMÃ_53": {
         "municipio": "ANAMÃ",
         "zona": 53,
         "votos_eb": 3160,
-        "percentual_eb": 40.82,
-        "votos_totais": 7741
+        "percentual_eb": 40.83,
+        "votos_validos": 7740,
+        "votos_totais": 7740
       },
       "ANORI_33": {
         "municipio": "ANORI",
         "zona": 33,
         "votos_eb": 5174,
-        "percentual_eb": 44.18,
-        "votos_totais": 11711
+        "percentual_eb": 44.19,
+        "votos_validos": 11708,
+        "votos_totais": 11708
       },
       "APUÍ_67": {
         "municipio": "APUÍ",
         "zona": 67,
         "votos_eb": 2564,
-        "percentual_eb": 23.24,
-        "votos_totais": 11031
+        "percentual_eb": 23.25,
+        "votos_validos": 11030,
+        "votos_totais": 11030
       },
       "ATALAIA DO NORTE_42": {
         "municipio": "ATALAIA DO NORTE",
         "zona": 42,
         "votos_eb": 3070,
-        "percentual_eb": 47.15,
-        "votos_totais": 6511
+        "percentual_eb": 47.17,
+        "votos_validos": 6508,
+        "votos_totais": 6508
       },
       "AUTAZES_35": {
         "municipio": "AUTAZES",
         "zona": 35,
         "votos_eb": 11361,
-        "percentual_eb": 45.41,
-        "votos_totais": 25016
+        "percentual_eb": 45.43,
+        "votos_validos": 25005,
+        "votos_totais": 25005
       },
       "BARCELOS_18": {
         "municipio": "BARCELOS",
         "zona": 18,
         "votos_eb": 3274,
-        "percentual_eb": 33.45,
-        "votos_totais": 9787
+        "percentual_eb": 33.46,
+        "votos_validos": 9785,
+        "votos_totais": 9785
       },
       "BARREIRINHA_26": {
         "municipio": "BARREIRINHA",
         "zona": 26,
         "votos_eb": 8178,
-        "percentual_eb": 42.23,
-        "votos_totais": 19365
+        "percentual_eb": 42.24,
+        "votos_validos": 19361,
+        "votos_totais": 19361
       },
       "BENJAMIN CONSTANT_20": {
         "municipio": "BENJAMIN CONSTANT",
         "zona": 20,
         "votos_eb": 10863,
         "percentual_eb": 48.53,
-        "votos_totais": 22386
+        "votos_validos": 22384,
+        "votos_totais": 22384
       },
       "BERURI_54": {
         "municipio": "BERURI",
         "zona": 54,
         "votos_eb": 5007,
         "percentual_eb": 44.99,
-        "votos_totais": 11129
+        "votos_validos": 11128,
+        "votos_totais": 11128
       },
       "BOA VISTA DO RAMOS_64": {
         "municipio": "BOA VISTA DO RAMOS",
         "zona": 64,
         "votos_eb": 5050,
         "percentual_eb": 41.83,
-        "votos_totais": 12074
+        "votos_validos": 12072,
+        "votos_totais": 12072
       },
       "BOCA DO ACRE_14": {
         "municipio": "BOCA DO ACRE",
         "zona": 14,
         "votos_eb": 8511,
-        "percentual_eb": 40.88,
-        "votos_totais": 20820
+        "percentual_eb": 40.89,
+        "votos_validos": 20814,
+        "votos_totais": 20814
       },
       "BORBA_15": {
         "municipio": "BORBA",
         "zona": 15,
         "votos_eb": 10635,
-        "percentual_eb": 46.65,
-        "votos_totais": 22796
+        "percentual_eb": 46.67,
+        "votos_validos": 22789,
+        "votos_totais": 22789
       },
       "CAAPIRANGA_55": {
         "municipio": "CAAPIRANGA",
         "zona": 55,
         "votos_eb": 3646,
         "percentual_eb": 44.3,
+        "votos_validos": 8231,
         "votos_totais": 8231
       },
       "CANUTAMA_13": {
@@ -1353,104 +1430,119 @@
         "zona": 13,
         "votos_eb": 2785,
         "percentual_eb": 36.54,
-        "votos_totais": 7622
+        "votos_validos": 7621,
+        "votos_totais": 7621
       },
       "CARAUARI_21": {
         "municipio": "CARAUARI",
         "zona": 21,
         "votos_eb": 6403,
         "percentual_eb": 37.22,
-        "votos_totais": 17205
+        "votos_validos": 17204,
+        "votos_totais": 17204
       },
       "CAREIRO_23": {
         "municipio": "CAREIRO",
         "zona": 23,
         "votos_eb": 9751,
         "percentual_eb": 41.19,
-        "votos_totais": 23675
+        "votos_validos": 23672,
+        "votos_totais": 23672
       },
       "CAREIRO DA VÁRZEA_61": {
         "municipio": "CAREIRO DA VÁRZEA",
         "zona": 61,
         "votos_eb": 8870,
-        "percentual_eb": 45.41,
-        "votos_totais": 19532
+        "percentual_eb": 45.44,
+        "votos_validos": 19522,
+        "votos_totais": 19522
       },
       "COARI_8": {
         "municipio": "COARI",
         "zona": 8,
         "votos_eb": 19338,
-        "percentual_eb": 36.26,
-        "votos_totais": 53336
+        "percentual_eb": 36.27,
+        "votos_validos": 53320,
+        "votos_totais": 53320
       },
       "CODAJÁS_7": {
         "municipio": "CODAJÁS",
         "zona": 7,
         "votos_eb": 7261,
-        "percentual_eb": 43.12,
-        "votos_totais": 16838
+        "percentual_eb": 43.13,
+        "votos_validos": 16835,
+        "votos_totais": 16835
       },
       "EIRUNEPÉ_11": {
         "municipio": "EIRUNEPÉ",
         "zona": 11,
         "votos_eb": 7782,
-        "percentual_eb": 37.88,
-        "votos_totais": 20545
+        "percentual_eb": 37.89,
+        "votos_validos": 20541,
+        "votos_totais": 20541
       },
       "ENVIRA_46": {
         "municipio": "ENVIRA",
         "zona": 46,
         "votos_eb": 3325,
         "percentual_eb": 28.55,
+        "votos_validos": 11647,
         "votos_totais": 11647
       },
       "FONTE BOA_10": {
         "municipio": "FONTE BOA",
         "zona": 10,
         "votos_eb": 6942,
-        "percentual_eb": 44.59,
-        "votos_totais": 15569
+        "percentual_eb": 44.61,
+        "votos_validos": 15563,
+        "votos_totais": 15563
       },
       "GUAJARÁ_45": {
         "municipio": "GUAJARÁ",
         "zona": 45,
         "votos_eb": 3007,
         "percentual_eb": 47.15,
+        "votos_validos": 6377,
         "votos_totais": 6377
       },
       "HUMAITÁ_17": {
         "municipio": "HUMAITÁ",
         "zona": 17,
         "votos_eb": 11675,
-        "percentual_eb": 36.77,
-        "votos_totais": 31753
+        "percentual_eb": 36.81,
+        "votos_validos": 31721,
+        "votos_totais": 31721
       },
       "IPIXUNA_45": {
         "municipio": "IPIXUNA",
         "zona": 45,
         "votos_eb": 2724,
         "percentual_eb": 32.93,
-        "votos_totais": 8272
+        "votos_validos": 8271,
+        "votos_totais": 8271
       },
       "IRANDUBA_56": {
         "municipio": "IRANDUBA",
         "zona": 56,
         "votos_eb": 16609,
-        "percentual_eb": 45.45,
-        "votos_totais": 36542
+        "percentual_eb": 45.5,
+        "votos_validos": 36505,
+        "votos_totais": 36505
       },
       "ITACOATIARA_3": {
         "municipio": "ITACOATIARA",
         "zona": 3,
         "votos_eb": 33376,
-        "percentual_eb": 42.25,
-        "votos_totais": 78996
+        "percentual_eb": 42.27,
+        "votos_validos": 78965,
+        "votos_totais": 78965
       },
       "ITAMARATI_69": {
         "municipio": "ITAMARATI",
         "zona": 69,
         "votos_eb": 2743,
         "percentual_eb": 40.79,
+        "votos_validos": 6724,
         "votos_totais": 6724
       },
       "ITAPIRANGA_24": {
@@ -1458,308 +1550,352 @@
         "zona": 24,
         "votos_eb": 3979,
         "percentual_eb": 45.79,
+        "votos_validos": 8690,
         "votos_totais": 8690
       },
       "JAPURÁ_48": {
         "municipio": "JAPURÁ",
         "zona": 48,
         "votos_eb": 1620,
-        "percentual_eb": 39.06,
-        "votos_totais": 4147
+        "percentual_eb": 39.09,
+        "votos_validos": 4144,
+        "votos_totais": 4144
       },
       "JURUÁ_50": {
         "municipio": "JURUÁ",
         "zona": 50,
         "votos_eb": 1729,
         "percentual_eb": 27.05,
+        "votos_validos": 6393,
         "votos_totais": 6393
       },
       "JUTAÍ_41": {
         "municipio": "JUTAÍ",
         "zona": 41,
         "votos_eb": 4932,
-        "percentual_eb": 46.09,
-        "votos_totais": 10701
+        "percentual_eb": 46.12,
+        "votos_validos": 10695,
+        "votos_totais": 10695
       },
       "LÁBREA_12": {
         "municipio": "LÁBREA",
         "zona": 12,
         "votos_eb": 10173,
-        "percentual_eb": 42.84,
-        "votos_totais": 23747
+        "percentual_eb": 42.86,
+        "votos_validos": 23738,
+        "votos_totais": 23738
       },
       "MANACAPURU_6": {
         "municipio": "MANACAPURU",
         "zona": 6,
         "votos_eb": 26400,
-        "percentual_eb": 32.6,
-        "votos_totais": 80978
+        "percentual_eb": 32.61,
+        "votos_validos": 80959,
+        "votos_totais": 80959
       },
       "MANAQUIRI_66": {
         "municipio": "MANAQUIRI",
         "zona": 66,
         "votos_eb": 6051,
-        "percentual_eb": 40.84,
-        "votos_totais": 14818
+        "percentual_eb": 40.85,
+        "votos_validos": 14814,
+        "votos_totais": 14814
       },
       "MANAUS_1": {
         "municipio": "MANAUS",
         "zona": 1,
         "votos_eb": 71039,
-        "percentual_eb": 37.72,
-        "votos_totais": 188347
+        "percentual_eb": 37.8,
+        "votos_validos": 187953,
+        "votos_totais": 187953
       },
       "MANAUS_2": {
         "municipio": "MANAUS",
         "zona": 2,
         "votos_eb": 36132,
-        "percentual_eb": 37.06,
-        "votos_totais": 97498
+        "percentual_eb": 37.17,
+        "votos_validos": 97206,
+        "votos_totais": 97206
       },
       "MANAUS_31": {
         "municipio": "MANAUS",
         "zona": 31,
         "votos_eb": 51401,
-        "percentual_eb": 44.8,
-        "votos_totais": 114742
+        "percentual_eb": 44.88,
+        "votos_validos": 114525,
+        "votos_totais": 114525
       },
       "MANAUS_32": {
         "municipio": "MANAUS",
         "zona": 32,
         "votos_eb": 46189,
-        "percentual_eb": 42.19,
-        "votos_totais": 109475
+        "percentual_eb": 42.28,
+        "votos_validos": 109246,
+        "votos_totais": 109246
       },
       "MANAUS_37": {
         "municipio": "MANAUS",
         "zona": 37,
         "votos_eb": 57043,
-        "percentual_eb": 41.61,
-        "votos_totais": 137074
+        "percentual_eb": 41.7,
+        "votos_validos": 136802,
+        "votos_totais": 136802
       },
       "MANAUS_40": {
         "municipio": "MANAUS",
         "zona": 40,
         "votos_eb": 50949,
-        "percentual_eb": 42.55,
-        "votos_totais": 119751
+        "percentual_eb": 42.64,
+        "votos_validos": 119475,
+        "votos_totais": 119475
       },
       "MANAUS_58": {
         "municipio": "MANAUS",
         "zona": 58,
         "votos_eb": 63533,
-        "percentual_eb": 43.02,
-        "votos_totais": 147666
+        "percentual_eb": 43.11,
+        "votos_validos": 147389,
+        "votos_totais": 147389
       },
       "MANAUS_59": {
         "municipio": "MANAUS",
         "zona": 59,
         "votos_eb": 75383,
-        "percentual_eb": 45.14,
-        "votos_totais": 167014
+        "percentual_eb": 45.23,
+        "votos_validos": 166671,
+        "votos_totais": 166671
       },
       "MANAUS_62": {
         "municipio": "MANAUS",
         "zona": 62,
         "votos_eb": 52820,
-        "percentual_eb": 42.92,
-        "votos_totais": 123065
+        "percentual_eb": 43.01,
+        "votos_validos": 122819,
+        "votos_totais": 122819
       },
       "MANAUS_63": {
         "municipio": "MANAUS",
         "zona": 63,
         "votos_eb": 44283,
-        "percentual_eb": 43.54,
-        "votos_totais": 101716
+        "percentual_eb": 43.63,
+        "votos_validos": 101502,
+        "votos_totais": 101502
       },
       "MANAUS_65": {
         "municipio": "MANAUS",
         "zona": 65,
         "votos_eb": 50384,
-        "percentual_eb": 44.72,
-        "votos_totais": 112662
+        "percentual_eb": 44.8,
+        "votos_validos": 112459,
+        "votos_totais": 112459
       },
       "MANAUS_68": {
         "municipio": "MANAUS",
         "zona": 68,
         "votos_eb": 88791,
-        "percentual_eb": 45.96,
-        "votos_totais": 193179
+        "percentual_eb": 46.05,
+        "votos_validos": 192825,
+        "votos_totais": 192825
       },
       "MANAUS_70": {
         "municipio": "MANAUS",
         "zona": 70,
         "votos_eb": 66362,
-        "percentual_eb": 44.65,
-        "votos_totais": 148613
+        "percentual_eb": 44.74,
+        "votos_validos": 148343,
+        "votos_totais": 148343
       },
       "MANICORÉ_16": {
         "municipio": "MANICORÉ",
         "zona": 16,
         "votos_eb": 10819,
-        "percentual_eb": 36.83,
-        "votos_totais": 29375
+        "percentual_eb": 36.84,
+        "votos_validos": 29368,
+        "votos_totais": 29368
       },
       "MARAÃ_49": {
         "municipio": "MARAÃ",
         "zona": 49,
         "votos_eb": 2890,
-        "percentual_eb": 35.98,
-        "votos_totais": 8033
+        "percentual_eb": 36.0,
+        "votos_validos": 8028,
+        "votos_totais": 8028
       },
       "MAUÉS_5": {
         "municipio": "MAUÉS",
         "zona": 5,
         "votos_eb": 15223,
-        "percentual_eb": 42.54,
-        "votos_totais": 35784
+        "percentual_eb": 42.55,
+        "votos_validos": 35773,
+        "votos_totais": 35773
       },
       "NHAMUNDÁ_43": {
         "municipio": "NHAMUNDÁ",
         "zona": 43,
         "votos_eb": 5716,
-        "percentual_eb": 38.0,
-        "votos_totais": 15042
+        "percentual_eb": 38.01,
+        "votos_validos": 15040,
+        "votos_totais": 15040
       },
       "NOVA OLINDA DO NORTE_28": {
         "municipio": "NOVA OLINDA DO NORTE",
         "zona": 28,
         "votos_eb": 7562,
-        "percentual_eb": 42.69,
-        "votos_totais": 17712
+        "percentual_eb": 42.72,
+        "votos_validos": 17703,
+        "votos_totais": 17703
       },
       "NOVO AIRÃO_34": {
         "municipio": "NOVO AIRÃO",
         "zona": 34,
         "votos_eb": 4050,
         "percentual_eb": 42.03,
-        "votos_totais": 9637
+        "votos_validos": 9635,
+        "votos_totais": 9635
       },
       "NOVO ARIPUANÃ_29": {
         "municipio": "NOVO ARIPUANÃ",
         "zona": 29,
         "votos_eb": 4396,
         "percentual_eb": 34.04,
-        "votos_totais": 12916
+        "votos_validos": 12914,
+        "votos_totais": 12914
       },
       "PARINTINS_4": {
         "municipio": "PARINTINS",
         "zona": 4,
         "votos_eb": 35717,
-        "percentual_eb": 43.53,
-        "votos_totais": 82059
+        "percentual_eb": 43.54,
+        "votos_validos": 82031,
+        "votos_totais": 82031
       },
       "PAUINI_44": {
         "municipio": "PAUINI",
         "zona": 44,
         "votos_eb": 3574,
-        "percentual_eb": 35.6,
-        "votos_totais": 10038
+        "percentual_eb": 35.61,
+        "votos_validos": 10037,
+        "votos_totais": 10037
       },
       "PRESIDENTE FIGUEIREDO_51": {
         "municipio": "PRESIDENTE FIGUEIREDO",
         "zona": 51,
         "votos_eb": 8295,
-        "percentual_eb": 38.26,
-        "votos_totais": 21682
+        "percentual_eb": 38.3,
+        "votos_validos": 21659,
+        "votos_totais": 21659
       },
       "RIO PRETO DA EVA_52": {
         "municipio": "RIO PRETO DA EVA",
         "zona": 52,
         "votos_eb": 7677,
-        "percentual_eb": 44.55,
-        "votos_totais": 17231
+        "percentual_eb": 44.58,
+        "votos_validos": 17220,
+        "votos_totais": 17220
       },
       "SANTA ISABEL DO RIO NEGRO_30": {
         "municipio": "SANTA ISABEL DO RIO NEGRO",
         "zona": 30,
         "votos_eb": 2748,
         "percentual_eb": 42.72,
+        "votos_validos": 6433,
         "votos_totais": 6433
       },
       "SANTO ANTÔNIO DO IÇÁ_47": {
         "municipio": "SANTO ANTÔNIO DO IÇÁ",
         "zona": 47,
         "votos_eb": 5208,
-        "percentual_eb": 37.36,
-        "votos_totais": 13939
+        "percentual_eb": 37.37,
+        "votos_validos": 13938,
+        "votos_totais": 13938
       },
       "SILVES_39": {
         "municipio": "SILVES",
         "zona": 39,
         "votos_eb": 3922,
-        "percentual_eb": 45.12,
-        "votos_totais": 8693
+        "percentual_eb": 45.13,
+        "votos_validos": 8691,
+        "votos_totais": 8691
       },
       "SÃO GABRIEL DA CACHOEIRA_19": {
         "municipio": "SÃO GABRIEL DA CACHOEIRA",
         "zona": 19,
         "votos_eb": 13513,
         "percentual_eb": 47.42,
-        "votos_totais": 28496
+        "votos_validos": 28495,
+        "votos_totais": 28495
       },
       "SÃO PAULO DE OLIVENÇA_22": {
         "municipio": "SÃO PAULO DE OLIVENÇA",
         "zona": 22,
         "votos_eb": 8390,
-        "percentual_eb": 47.72,
-        "votos_totais": 17581
+        "percentual_eb": 47.73,
+        "votos_validos": 17578,
+        "votos_totais": 17578
       },
       "SÃO SEBASTIÃO DO UATUMÃ_57": {
         "municipio": "SÃO SEBASTIÃO DO UATUMÃ",
         "zona": 57,
         "votos_eb": 2820,
-        "percentual_eb": 41.18,
-        "votos_totais": 6848
+        "percentual_eb": 41.19,
+        "votos_validos": 6847,
+        "votos_totais": 6847
       },
       "TABATINGA_36": {
         "municipio": "TABATINGA",
         "zona": 36,
         "votos_eb": 15957,
-        "percentual_eb": 47.75,
-        "votos_totais": 33420
+        "percentual_eb": 47.76,
+        "votos_validos": 33410,
+        "votos_totais": 33410
       },
       "TAPAUÁ_38": {
         "municipio": "TAPAUÁ",
         "zona": 38,
         "votos_eb": 4062,
         "percentual_eb": 33.19,
-        "votos_totais": 12240
+        "votos_validos": 12239,
+        "votos_totais": 12239
       },
       "TEFÉ_9": {
         "municipio": "TEFÉ",
         "zona": 9,
         "votos_eb": 18894,
-        "percentual_eb": 43.16,
-        "votos_totais": 43774
+        "percentual_eb": 43.17,
+        "votos_validos": 43762,
+        "votos_totais": 43762
       },
       "TONANTINS_47": {
         "municipio": "TONANTINS",
         "zona": 47,
         "votos_eb": 4270,
         "percentual_eb": 45.49,
-        "votos_totais": 9387
+        "votos_validos": 9386,
+        "votos_totais": 9386
       },
       "UARINI_9": {
         "municipio": "UARINI",
         "zona": 9,
         "votos_eb": 3754,
         "percentual_eb": 48.51,
-        "votos_totais": 7739
+        "votos_validos": 7738,
+        "votos_totais": 7738
       },
       "URUCARÁ_27": {
         "municipio": "URUCARÁ",
         "zona": 27,
         "votos_eb": 3863,
-        "percentual_eb": 30.0,
-        "votos_totais": 12877
+        "percentual_eb": 30.01,
+        "votos_validos": 12874,
+        "votos_totais": 12874
       },
       "URUCURITUBA_25": {
         "municipio": "URUCURITUBA",
         "zona": 25,
         "votos_eb": 4958,
-        "percentual_eb": 37.11,
-        "votos_totais": 13360
+        "percentual_eb": 37.13,
+        "votos_validos": 13353,
+        "votos_totais": 13353
       }
     }
   },
@@ -1769,6 +1905,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 3574,
         "percentual_eb": 22.19,
+        "votos_validos": 16109,
         "votos_totais": 16109,
         "top3_candidatos": [
           {
@@ -1789,6 +1926,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 40051,
         "percentual_eb": 38.45,
+        "votos_validos": 104164,
         "votos_totais": 104164,
         "top3_candidatos": [
           {
@@ -1809,6 +1947,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 550579,
         "percentual_eb": 26.41,
+        "votos_validos": 2085043,
         "votos_totais": 2085043,
         "top3_candidatos": [
           {
@@ -1829,6 +1968,7 @@
         "calha": "Madeira",
         "votos_eb": 7677,
         "percentual_eb": 44.03,
+        "votos_validos": 17436,
         "votos_totais": 17436,
         "top3_candidatos": [
           {
@@ -1849,6 +1989,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 47772,
         "percentual_eb": 48.03,
+        "votos_validos": 99456,
         "votos_totais": 99456,
         "top3_candidatos": [
           {
@@ -1869,6 +2010,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 8026,
         "percentual_eb": 53.19,
+        "votos_validos": 15089,
         "votos_totais": 15089,
         "top3_candidatos": [
           {
@@ -1889,6 +2031,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 7378,
         "percentual_eb": 41.22,
+        "votos_validos": 17901,
         "votos_totais": 17901,
         "top3_candidatos": [
           {
@@ -1909,6 +2052,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 44223,
         "percentual_eb": 44.07,
+        "votos_validos": 100338,
         "votos_totais": 100338,
         "top3_candidatos": [
           {
@@ -1929,6 +2073,7 @@
         "calha": "Madeira",
         "votos_eb": 11530,
         "percentual_eb": 25.82,
+        "votos_validos": 44663,
         "votos_totais": 44663,
         "top3_candidatos": [
           {
@@ -1949,6 +2094,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 17976,
         "percentual_eb": 28.84,
+        "votos_validos": 62333,
         "votos_totais": 62333,
         "top3_candidatos": [
           {
@@ -1969,6 +2115,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 5952,
         "percentual_eb": 48.77,
+        "votos_validos": 12203,
         "votos_totais": 12203,
         "top3_candidatos": [
           {
@@ -1989,6 +2136,7 @@
         "calha": "Juruá",
         "votos_eb": 4146,
         "percentual_eb": 28.98,
+        "votos_validos": 14305,
         "votos_totais": 14305,
         "top3_candidatos": [
           {
@@ -2009,6 +2157,7 @@
         "calha": "Juruá",
         "votos_eb": 13775,
         "percentual_eb": 50.72,
+        "votos_validos": 27158,
         "votos_totais": 27158,
         "top3_candidatos": [
           {
@@ -2029,6 +2178,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 21772,
         "percentual_eb": 43.02,
+        "votos_validos": 50606,
         "votos_totais": 50606,
         "top3_candidatos": [
           {
@@ -2049,6 +2199,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 8970,
         "percentual_eb": 32.07,
+        "votos_validos": 27966,
         "votos_totais": 27966,
         "top3_candidatos": [
           {
@@ -2069,6 +2220,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 8031,
         "percentual_eb": 54.75,
+        "votos_validos": 14668,
         "votos_totais": 14668,
         "top3_candidatos": [
           {
@@ -2089,6 +2241,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 7602,
         "percentual_eb": 29.86,
+        "votos_validos": 25455,
         "votos_totais": 25455,
         "top3_candidatos": [
           {
@@ -2109,6 +2262,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 9193,
         "percentual_eb": 27.85,
+        "votos_validos": 33013,
         "votos_totais": 33013,
         "top3_candidatos": [
           {
@@ -2129,6 +2283,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 10148,
         "percentual_eb": 51.97,
+        "votos_validos": 19525,
         "votos_totais": 19525,
         "top3_candidatos": [
           {
@@ -2149,6 +2304,7 @@
         "calha": "Juruá",
         "votos_eb": 6958,
         "percentual_eb": 73.65,
+        "votos_validos": 9447,
         "votos_totais": 9447,
         "top3_candidatos": [
           {
@@ -2169,6 +2325,7 @@
         "calha": "Madeira",
         "votos_eb": 12891,
         "percentual_eb": 28.28,
+        "votos_validos": 45591,
         "votos_totais": 45591,
         "top3_candidatos": [
           {
@@ -2189,6 +2346,7 @@
         "calha": "Purus",
         "votos_eb": 7266,
         "percentual_eb": 24.63,
+        "votos_validos": 29501,
         "votos_totais": 29501,
         "top3_candidatos": [
           {
@@ -2209,6 +2367,7 @@
         "calha": "Purus",
         "votos_eb": 6352,
         "percentual_eb": 36.33,
+        "votos_validos": 17484,
         "votos_totais": 17484,
         "top3_candidatos": [
           {
@@ -2229,6 +2388,7 @@
         "calha": "Madeira",
         "votos_eb": 2356,
         "percentual_eb": 16.07,
+        "votos_validos": 14665,
         "votos_totais": 14665,
         "top3_candidatos": [
           {
@@ -2249,6 +2409,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 14333,
         "percentual_eb": 45.85,
+        "votos_validos": 31262,
         "votos_totais": 31262,
         "top3_candidatos": [
           {
@@ -2269,6 +2430,7 @@
         "calha": "Purus",
         "votos_eb": 4174,
         "percentual_eb": 29.53,
+        "votos_validos": 14133,
         "votos_totais": 14133,
         "top3_candidatos": [
           {
@@ -2289,6 +2451,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 13902,
         "percentual_eb": 21.57,
+        "votos_validos": 64461,
         "votos_totais": 64461,
         "top3_candidatos": [
           {
@@ -2309,6 +2472,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 17536,
         "percentual_eb": 31.88,
+        "votos_validos": 54999,
         "votos_totais": 54999,
         "top3_candidatos": [
           {
@@ -2329,6 +2493,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 6992,
         "percentual_eb": 59.03,
+        "votos_validos": 11844,
         "votos_totais": 11844,
         "top3_candidatos": [
           {
@@ -2349,6 +2514,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 8253,
         "percentual_eb": 39.76,
+        "votos_validos": 20759,
         "votos_totais": 20759,
         "top3_candidatos": [
           {
@@ -2369,6 +2535,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 13455,
         "percentual_eb": 43.52,
+        "votos_validos": 30915,
         "votos_totais": 30915,
         "top3_candidatos": [
           {
@@ -2389,6 +2556,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 14828,
         "percentual_eb": 46.7,
+        "votos_validos": 31755,
         "votos_totais": 31755,
         "top3_candidatos": [
           {
@@ -2409,6 +2577,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 3278,
         "percentual_eb": 32.99,
+        "votos_validos": 9935,
         "votos_totais": 9935,
         "top3_candidatos": [
           {
@@ -2429,6 +2598,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 10313,
         "percentual_eb": 26.48,
+        "votos_validos": 38951,
         "votos_totais": 38951,
         "top3_candidatos": [
           {
@@ -2449,6 +2619,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 15856,
         "percentual_eb": 32.09,
+        "votos_validos": 49414,
         "votos_totais": 49414,
         "top3_candidatos": [
           {
@@ -2469,6 +2640,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 6838,
         "percentual_eb": 38.4,
+        "votos_validos": 17806,
         "votos_totais": 17806,
         "top3_candidatos": [
           {
@@ -2489,6 +2661,7 @@
         "calha": "Madeira",
         "votos_eb": 14014,
         "percentual_eb": 53.67,
+        "votos_validos": 26109,
         "votos_totais": 26109,
         "top3_candidatos": [
           {
@@ -2509,6 +2682,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 11204,
         "percentual_eb": 51.75,
+        "votos_validos": 21651,
         "votos_totais": 21651,
         "top3_candidatos": [
           {
@@ -2529,6 +2703,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 4338,
         "percentual_eb": 34.32,
+        "votos_validos": 12639,
         "votos_totais": 12639,
         "top3_candidatos": [
           {
@@ -2549,6 +2724,7 @@
         "calha": "Rio Negro",
         "votos_eb": 21953,
         "percentual_eb": 53.45,
+        "votos_validos": 41075,
         "votos_totais": 41075,
         "top3_candidatos": [
           {
@@ -2569,6 +2745,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 4066,
         "percentual_eb": 35.19,
+        "votos_validos": 11554,
         "votos_totais": 11554,
         "top3_candidatos": [
           {
@@ -2589,6 +2766,7 @@
         "calha": "Madeira",
         "votos_eb": 12512,
         "percentual_eb": 40.45,
+        "votos_validos": 30932,
         "votos_totais": 30932,
         "top3_candidatos": [
           {
@@ -2609,6 +2787,7 @@
         "calha": "Rio Negro",
         "votos_eb": 2990,
         "percentual_eb": 29.86,
+        "votos_validos": 10014,
         "votos_totais": 10014,
         "top3_candidatos": [
           {
@@ -2629,6 +2808,7 @@
         "calha": "Purus",
         "votos_eb": 22259,
         "percentual_eb": 63.16,
+        "votos_validos": 35242,
         "votos_totais": 35242,
         "top3_candidatos": [
           {
@@ -2649,6 +2829,7 @@
         "calha": "Juruá",
         "votos_eb": 13743,
         "percentual_eb": 49.79,
+        "votos_validos": 27603,
         "votos_totais": 27603,
         "top3_candidatos": [
           {
@@ -2669,6 +2850,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 3305,
         "percentual_eb": 20.59,
+        "votos_validos": 16048,
         "votos_totais": 16048,
         "top3_candidatos": [
           {
@@ -2689,6 +2871,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 3646,
         "percentual_eb": 33.82,
+        "votos_validos": 10781,
         "votos_totais": 10781,
         "top3_candidatos": [
           {
@@ -2709,6 +2892,7 @@
         "calha": "Rio Negro",
         "votos_eb": 6592,
         "percentual_eb": 46.65,
+        "votos_validos": 14132,
         "votos_totais": 14132,
         "top3_candidatos": [
           {
@@ -2729,6 +2913,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 3449,
         "percentual_eb": 34.71,
+        "votos_validos": 9937,
         "votos_totais": 9937,
         "top3_candidatos": [
           {
@@ -2749,6 +2934,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 3778,
         "percentual_eb": 17.58,
+        "votos_validos": 21485,
         "votos_totais": 21485,
         "top3_candidatos": [
           {
@@ -2769,6 +2955,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 4750,
         "percentual_eb": 40.37,
+        "votos_validos": 11765,
         "votos_totais": 11765,
         "top3_candidatos": [
           {
@@ -2789,6 +2976,7 @@
         "calha": "Juruá",
         "votos_eb": 4407,
         "percentual_eb": 46.24,
+        "votos_validos": 9530,
         "votos_totais": 9530,
         "top3_candidatos": [
           {
@@ -2809,6 +2997,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 9250,
         "percentual_eb": 40.16,
+        "votos_validos": 23032,
         "votos_totais": 23032,
         "top3_candidatos": [
           {
@@ -2829,6 +3018,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 3196,
         "percentual_eb": 17.59,
+        "votos_validos": 18173,
         "votos_totais": 18173,
         "top3_candidatos": [
           {
@@ -2849,6 +3039,7 @@
         "calha": "Alto Solimões",
         "votos_eb": 13526,
         "percentual_eb": 57.15,
+        "votos_validos": 23667,
         "votos_totais": 23667,
         "top3_candidatos": [
           {
@@ -2869,6 +3060,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 9643,
         "percentual_eb": 54.86,
+        "votos_validos": 17576,
         "votos_totais": 17576,
         "top3_candidatos": [
           {
@@ -2889,6 +3081,7 @@
         "calha": "Região Metropolitana de Manaus",
         "votos_eb": 6015,
         "percentual_eb": 50.43,
+        "votos_validos": 11928,
         "votos_totais": 11928,
         "top3_candidatos": [
           {
@@ -2909,6 +3102,7 @@
         "calha": "Purus",
         "votos_eb": 4038,
         "percentual_eb": 31.42,
+        "votos_validos": 12852,
         "votos_totais": 12852,
         "top3_candidatos": [
           {
@@ -2929,6 +3123,7 @@
         "calha": "Médio Solimões",
         "votos_eb": 1088,
         "percentual_eb": 18.12,
+        "votos_validos": 6006,
         "votos_totais": 6006,
         "top3_candidatos": [
           {
@@ -2949,6 +3144,7 @@
         "calha": "Juruá",
         "votos_eb": 7836,
         "percentual_eb": 55.88,
+        "votos_validos": 14023,
         "votos_totais": 14023,
         "top3_candidatos": [
           {
@@ -2969,6 +3165,7 @@
         "calha": "Juruá",
         "votos_eb": 5549,
         "percentual_eb": 39.4,
+        "votos_validos": 14085,
         "votos_totais": 14085,
         "top3_candidatos": [
           {
@@ -2989,6 +3186,7 @@
         "calha": "Baixo Amazonas",
         "votos_eb": 5812,
         "percentual_eb": 35.23,
+        "votos_validos": 16498,
         "votos_totais": 16498,
         "top3_candidatos": [
           {
@@ -3012,6 +3210,7 @@
         "zona": 60,
         "votos_eb": 3574,
         "percentual_eb": 22.19,
+        "votos_validos": 16109,
         "votos_totais": 16109
       },
       "MANACAPURU_6": {
@@ -3019,6 +3218,7 @@
         "zona": 6,
         "votos_eb": 40051,
         "percentual_eb": 38.45,
+        "votos_validos": 104164,
         "votos_totais": 104164
       },
       "MANAUS_2": {
@@ -3026,6 +3226,7 @@
         "zona": 2,
         "votos_eb": 31235,
         "percentual_eb": 23.05,
+        "votos_validos": 135515,
         "votos_totais": 135515
       },
       "MANAUS_40": {
@@ -3033,6 +3234,7 @@
         "zona": 40,
         "votos_eb": 44093,
         "percentual_eb": 23.86,
+        "votos_validos": 184770,
         "votos_totais": 184770
       },
       "MANAUS_32": {
@@ -3040,6 +3242,7 @@
         "zona": 32,
         "votos_eb": 49788,
         "percentual_eb": 27.66,
+        "votos_validos": 179994,
         "votos_totais": 179994
       },
       "MANAUS_31": {
@@ -3047,6 +3250,7 @@
         "zona": 31,
         "votos_eb": 35178,
         "percentual_eb": 29.43,
+        "votos_validos": 119513,
         "votos_totais": 119513
       },
       "MANAUS_62": {
@@ -3054,6 +3258,7 @@
         "zona": 62,
         "votos_eb": 49129,
         "percentual_eb": 25.24,
+        "votos_validos": 194643,
         "votos_totais": 194643
       },
       "MANAUS_65": {
@@ -3061,6 +3266,7 @@
         "zona": 65,
         "votos_eb": 49455,
         "percentual_eb": 27.91,
+        "votos_validos": 177211,
         "votos_totais": 177211
       },
       "MANAUS_70": {
@@ -3068,6 +3274,7 @@
         "zona": 70,
         "votos_eb": 40517,
         "percentual_eb": 25.34,
+        "votos_validos": 159895,
         "votos_totais": 159895
       },
       "MANAUS_1": {
@@ -3075,6 +3282,7 @@
         "zona": 1,
         "votos_eb": 39884,
         "percentual_eb": 27.12,
+        "votos_validos": 147080,
         "votos_totais": 147080
       },
       "MANAUS_63": {
@@ -3082,6 +3290,7 @@
         "zona": 63,
         "votos_eb": 51948,
         "percentual_eb": 27.38,
+        "votos_validos": 189760,
         "votos_totais": 189760
       },
       "MANAUS_37": {
@@ -3089,6 +3298,7 @@
         "zona": 37,
         "votos_eb": 37561,
         "percentual_eb": 26.38,
+        "votos_validos": 142387,
         "votos_totais": 142387
       },
       "MANAUS_68": {
@@ -3096,6 +3306,7 @@
         "zona": 68,
         "votos_eb": 36013,
         "percentual_eb": 28.67,
+        "votos_validos": 125617,
         "votos_totais": 125617
       },
       "MANAUS_58": {
@@ -3103,6 +3314,7 @@
         "zona": 58,
         "votos_eb": 40705,
         "percentual_eb": 23.44,
+        "votos_validos": 173641,
         "votos_totais": 173641
       },
       "MANAUS_59": {
@@ -3110,6 +3322,7 @@
         "zona": 59,
         "votos_eb": 45073,
         "percentual_eb": 29.08,
+        "votos_validos": 155017,
         "votos_totais": 155017
       },
       "NOVO ARIPUANÃ_29": {
@@ -3117,6 +3330,7 @@
         "zona": 29,
         "votos_eb": 7677,
         "percentual_eb": 44.03,
+        "votos_validos": 17436,
         "votos_totais": 17436
       },
       "ITACOATIARA_3": {
@@ -3124,6 +3338,7 @@
         "zona": 3,
         "votos_eb": 47772,
         "percentual_eb": 48.03,
+        "votos_validos": 99456,
         "votos_totais": 99456
       },
       "TONANTINS_47": {
@@ -3131,6 +3346,7 @@
         "zona": 47,
         "votos_eb": 8026,
         "percentual_eb": 53.19,
+        "votos_validos": 15089,
         "votos_totais": 15089
       },
       "BOA VISTA DO RAMOS_5": {
@@ -3138,6 +3354,7 @@
         "zona": 5,
         "votos_eb": 7378,
         "percentual_eb": 41.22,
+        "votos_validos": 17901,
         "votos_totais": 17901
       },
       "PARINTINS_4": {
@@ -3145,6 +3362,7 @@
         "zona": 4,
         "votos_eb": 44223,
         "percentual_eb": 44.07,
+        "votos_validos": 100338,
         "votos_totais": 100338
       },
       "HUMAITÁ_17": {
@@ -3152,6 +3370,7 @@
         "zona": 17,
         "votos_eb": 11530,
         "percentual_eb": 25.82,
+        "votos_validos": 44663,
         "votos_totais": 44663
       },
       "TEFÉ_9": {
@@ -3159,6 +3378,7 @@
         "zona": 9,
         "votos_eb": 17976,
         "percentual_eb": 28.84,
+        "votos_validos": 62333,
         "votos_totais": 62333
       },
       "UARINI_60": {
@@ -3166,6 +3386,7 @@
         "zona": 60,
         "votos_eb": 5952,
         "percentual_eb": 48.77,
+        "votos_validos": 12203,
         "votos_totais": 12203
       },
       "GUAJARÁ_45": {
@@ -3173,6 +3394,7 @@
         "zona": 45,
         "votos_eb": 4146,
         "percentual_eb": 28.98,
+        "votos_validos": 14305,
         "votos_totais": 14305
       },
       "CARAUARI_21": {
@@ -3180,6 +3402,7 @@
         "zona": 21,
         "votos_eb": 13775,
         "percentual_eb": 50.72,
+        "votos_validos": 27158,
         "votos_totais": 27158
       },
       "TABATINGA_36": {
@@ -3187,6 +3410,7 @@
         "zona": 36,
         "votos_eb": 21772,
         "percentual_eb": 43.02,
+        "votos_validos": 50606,
         "votos_totais": 50606
       },
       "SÃO PAULO DE OLIVENÇA_22": {
@@ -3194,6 +3418,7 @@
         "zona": 22,
         "votos_eb": 8970,
         "percentual_eb": 32.07,
+        "votos_validos": 27966,
         "votos_totais": 27966
       },
       "ANORI_33": {
@@ -3201,6 +3426,7 @@
         "zona": 33,
         "votos_eb": 8031,
         "percentual_eb": 54.75,
+        "votos_validos": 14668,
         "votos_totais": 14668
       },
       "RIO PRETO DA EVA_68": {
@@ -3208,6 +3434,7 @@
         "zona": 68,
         "votos_eb": 7602,
         "percentual_eb": 29.86,
+        "votos_validos": 25455,
         "votos_totais": 25455
       },
       "PRESIDENTE FIGUEIREDO_51": {
@@ -3215,6 +3442,7 @@
         "zona": 51,
         "votos_eb": 9193,
         "percentual_eb": 27.85,
+        "votos_validos": 33013,
         "votos_totais": 33013
       },
       "MANAQUIRI_23": {
@@ -3222,6 +3450,7 @@
         "zona": 23,
         "votos_eb": 10148,
         "percentual_eb": 51.97,
+        "votos_validos": 19525,
         "votos_totais": 19525
       },
       "ITAMARATI_69": {
@@ -3229,6 +3458,7 @@
         "zona": 69,
         "votos_eb": 6958,
         "percentual_eb": 73.65,
+        "votos_validos": 9447,
         "votos_totais": 9447
       },
       "MANICORÉ_16": {
@@ -3236,6 +3466,7 @@
         "zona": 16,
         "votos_eb": 12891,
         "percentual_eb": 28.28,
+        "votos_validos": 45591,
         "votos_totais": 45591
       },
       "BOCA DO ACRE_14": {
@@ -3243,6 +3474,7 @@
         "zona": 14,
         "votos_eb": 7266,
         "percentual_eb": 24.63,
+        "votos_validos": 29501,
         "votos_totais": 29501
       },
       "TAPAUÁ_38": {
@@ -3250,6 +3482,7 @@
         "zona": 38,
         "votos_eb": 6352,
         "percentual_eb": 36.33,
+        "votos_validos": 17484,
         "votos_totais": 17484
       },
       "APUÍ_67": {
@@ -3257,6 +3490,7 @@
         "zona": 67,
         "votos_eb": 2356,
         "percentual_eb": 16.07,
+        "votos_validos": 14665,
         "votos_totais": 14665
       },
       "CAREIRO_23": {
@@ -3264,6 +3498,7 @@
         "zona": 23,
         "votos_eb": 14333,
         "percentual_eb": 45.85,
+        "votos_validos": 31262,
         "votos_totais": 31262
       },
       "PAUINI_44": {
@@ -3271,6 +3506,7 @@
         "zona": 44,
         "votos_eb": 4174,
         "percentual_eb": 29.53,
+        "votos_validos": 14133,
         "votos_totais": 14133
       },
       "COARI_8": {
@@ -3278,6 +3514,7 @@
         "zona": 8,
         "votos_eb": 13902,
         "percentual_eb": 21.57,
+        "votos_validos": 64461,
         "votos_totais": 64461
       },
       "IRANDUBA_56": {
@@ -3285,6 +3522,7 @@
         "zona": 56,
         "votos_eb": 17536,
         "percentual_eb": 31.88,
+        "votos_validos": 54999,
         "votos_totais": 54999
       },
       "SILVES_24": {
@@ -3292,6 +3530,7 @@
         "zona": 24,
         "votos_eb": 6992,
         "percentual_eb": 59.03,
+        "votos_validos": 11844,
         "votos_totais": 11844
       },
       "NHAMUNDÁ_43": {
@@ -3299,6 +3538,7 @@
         "zona": 43,
         "votos_eb": 8253,
         "percentual_eb": 39.76,
+        "votos_validos": 20759,
         "votos_totais": 20759
       },
       "BARREIRINHA_26": {
@@ -3306,6 +3546,7 @@
         "zona": 26,
         "votos_eb": 13455,
         "percentual_eb": 43.52,
+        "votos_validos": 30915,
         "votos_totais": 30915
       },
       "BENJAMIN CONSTANT_20": {
@@ -3313,6 +3554,7 @@
         "zona": 20,
         "votos_eb": 14828,
         "percentual_eb": 46.7,
+        "votos_validos": 31755,
         "votos_totais": 31755
       },
       "AMATURÁ_22": {
@@ -3320,6 +3562,7 @@
         "zona": 22,
         "votos_eb": 3278,
         "percentual_eb": 32.99,
+        "votos_validos": 9935,
         "votos_totais": 9935
       },
       "AUTAZES_35": {
@@ -3327,6 +3570,7 @@
         "zona": 35,
         "votos_eb": 10313,
         "percentual_eb": 26.48,
+        "votos_validos": 38951,
         "votos_totais": 38951
       },
       "MAUÉS_5": {
@@ -3334,6 +3578,7 @@
         "zona": 5,
         "votos_eb": 15856,
         "percentual_eb": 32.09,
+        "votos_validos": 49414,
         "votos_totais": 49414
       },
       "URUCURITUBA_3": {
@@ -3341,6 +3586,7 @@
         "zona": 3,
         "votos_eb": 6838,
         "percentual_eb": 38.4,
+        "votos_validos": 17806,
         "votos_totais": 17806
       },
       "NOVA OLINDA DO NORTE_35": {
@@ -3348,6 +3594,7 @@
         "zona": 35,
         "votos_eb": 14014,
         "percentual_eb": 53.67,
+        "votos_validos": 26109,
         "votos_totais": 26109
       },
       "FONTE BOA_10": {
@@ -3355,6 +3602,7 @@
         "zona": 10,
         "votos_eb": 11204,
         "percentual_eb": 51.75,
+        "votos_validos": 21651,
         "votos_totais": 21651
       },
       "CAAPIRANGA_6": {
@@ -3362,6 +3610,7 @@
         "zona": 6,
         "votos_eb": 4338,
         "percentual_eb": 34.32,
+        "votos_validos": 12639,
         "votos_totais": 12639
       },
       "SÃO GABRIEL DA CACHOEIRA_19": {
@@ -3369,6 +3618,7 @@
         "zona": 19,
         "votos_eb": 21953,
         "percentual_eb": 53.45,
+        "votos_validos": 41075,
         "votos_totais": 41075
       },
       "ATALAIA DO NORTE_42": {
@@ -3376,6 +3626,7 @@
         "zona": 42,
         "votos_eb": 4066,
         "percentual_eb": 35.19,
+        "votos_validos": 11554,
         "votos_totais": 11554
       },
       "BORBA_15": {
@@ -3383,6 +3634,7 @@
         "zona": 15,
         "votos_eb": 12512,
         "percentual_eb": 40.45,
+        "votos_validos": 30932,
         "votos_totais": 30932
       },
       "SANTA ISABEL DO RIO NEGRO_30": {
@@ -3390,6 +3642,7 @@
         "zona": 30,
         "votos_eb": 2990,
         "percentual_eb": 29.86,
+        "votos_validos": 10014,
         "votos_totais": 10014
       },
       "LÁBREA_12": {
@@ -3397,6 +3650,7 @@
         "zona": 12,
         "votos_eb": 22259,
         "percentual_eb": 63.16,
+        "votos_validos": 35242,
         "votos_totais": 35242
       },
       "EIRUNEPÉ_11": {
@@ -3404,6 +3658,7 @@
         "zona": 11,
         "votos_eb": 13743,
         "percentual_eb": 49.79,
+        "votos_validos": 27603,
         "votos_totais": 27603
       },
       "NOVO AIRÃO_34": {
@@ -3411,6 +3666,7 @@
         "zona": 34,
         "votos_eb": 3305,
         "percentual_eb": 20.59,
+        "votos_validos": 16048,
         "votos_totais": 16048
       },
       "MARAÃ_49": {
@@ -3418,6 +3674,7 @@
         "zona": 49,
         "votos_eb": 3646,
         "percentual_eb": 33.82,
+        "votos_validos": 10781,
         "votos_totais": 10781
       },
       "BARCELOS_18": {
@@ -3425,6 +3682,7 @@
         "zona": 18,
         "votos_eb": 6592,
         "percentual_eb": 46.65,
+        "votos_validos": 14132,
         "votos_totais": 14132
       },
       "SÃO SEBASTIÃO DO UATUMÃ_27": {
@@ -3432,6 +3690,7 @@
         "zona": 27,
         "votos_eb": 3449,
         "percentual_eb": 34.71,
+        "votos_validos": 9937,
         "votos_totais": 9937
       },
       "CODAJÁS_7": {
@@ -3439,6 +3698,7 @@
         "zona": 7,
         "votos_eb": 3778,
         "percentual_eb": 17.58,
+        "votos_validos": 21485,
         "votos_totais": 21485
       },
       "ANAMÃ_6": {
@@ -3446,6 +3706,7 @@
         "zona": 6,
         "votos_eb": 4750,
         "percentual_eb": 40.37,
+        "votos_validos": 11765,
         "votos_totais": 11765
       },
       "JURUÁ_50": {
@@ -3453,6 +3714,7 @@
         "zona": 50,
         "votos_eb": 4407,
         "percentual_eb": 46.24,
+        "votos_validos": 9530,
         "votos_totais": 9530
       },
       "CAREIRO DA VÁRZEA_31": {
@@ -3460,6 +3722,7 @@
         "zona": 31,
         "votos_eb": 9250,
         "percentual_eb": 40.16,
+        "votos_validos": 23032,
         "votos_totais": 23032
       },
       "BERURI_54": {
@@ -3467,6 +3730,7 @@
         "zona": 54,
         "votos_eb": 3196,
         "percentual_eb": 17.59,
+        "votos_validos": 18173,
         "votos_totais": 18173
       },
       "SANTO ANTÔNIO DO IÇÁ_47": {
@@ -3474,6 +3738,7 @@
         "zona": 47,
         "votos_eb": 13526,
         "percentual_eb": 57.15,
+        "votos_validos": 23667,
         "votos_totais": 23667
       },
       "JUTAÍ_41": {
@@ -3481,6 +3746,7 @@
         "zona": 41,
         "votos_eb": 9643,
         "percentual_eb": 54.86,
+        "votos_validos": 17576,
         "votos_totais": 17576
       },
       "ITAPIRANGA_24": {
@@ -3488,6 +3754,7 @@
         "zona": 24,
         "votos_eb": 6015,
         "percentual_eb": 50.43,
+        "votos_validos": 11928,
         "votos_totais": 11928
       },
       "CANUTAMA_13": {
@@ -3495,6 +3762,7 @@
         "zona": 13,
         "votos_eb": 4038,
         "percentual_eb": 31.42,
+        "votos_validos": 12852,
         "votos_totais": 12852
       },
       "JAPURÁ_48": {
@@ -3502,6 +3770,7 @@
         "zona": 48,
         "votos_eb": 1088,
         "percentual_eb": 18.12,
+        "votos_validos": 6006,
         "votos_totais": 6006
       },
       "IPIXUNA_45": {
@@ -3509,6 +3778,7 @@
         "zona": 45,
         "votos_eb": 7836,
         "percentual_eb": 55.88,
+        "votos_validos": 14023,
         "votos_totais": 14023
       },
       "ENVIRA_46": {
@@ -3516,6 +3786,7 @@
         "zona": 46,
         "votos_eb": 5549,
         "percentual_eb": 39.4,
+        "votos_validos": 14085,
         "votos_totais": 14085
       },
       "URUCARÁ_27": {
@@ -3523,6 +3794,7 @@
         "zona": 27,
         "votos_eb": 5812,
         "percentual_eb": 35.23,
+        "votos_validos": 16498,
         "votos_totais": 16498
       }
     }

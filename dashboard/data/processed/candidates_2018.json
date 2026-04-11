@@ -1,0 +1,179 @@
+{
+  "president": [
+    {
+      "id": 0,
+      "name": "JOÃO DIONISIO FILGUEIRA BARRETO AMOEDO",
+      "office": "Presidente"
+    },
+    {
+      "id": 1,
+      "name": "FERNANDO HADDAD",
+      "office": "Presidente"
+    },
+    {
+      "id": 2,
+      "name": "VOTO NULO",
+      "office": "Presidente"
+    },
+    {
+      "id": 3,
+      "name": "JAIR MESSIAS BOLSONARO",
+      "office": "Presidente"
+    },
+    {
+      "id": 4,
+      "name": "GUILHERME CASTRO BOULOS",
+      "office": "Presidente"
+    },
+    {
+      "id": 5,
+      "name": "VOTO BRANCO",
+      "office": "Presidente"
+    },
+    {
+      "id": 6,
+      "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+      "office": "Presidente"
+    },
+    {
+      "id": 7,
+      "name": "CIRO FERREIRA GOMES",
+      "office": "Presidente"
+    },
+    {
+      "id": 8,
+      "name": "BENEVENUTO DACIOLO FONSECA DOS SANTOS",
+      "office": "Presidente"
+    },
+    {
+      "id": 9,
+      "name": "ALVARO FERNANDES DIAS",
+      "office": "Presidente"
+    },
+    {
+      "id": 10,
+      "name": "HENRIQUE DE CAMPOS MEIRELLES",
+      "office": "Presidente"
+    },
+    {
+      "id": 11,
+      "name": "GERALDO JOSÉ RODRIGUES ALCKMIN FILHO",
+      "office": "Presidente"
+    },
+    {
+      "id": 12,
+      "name": "JOSE MARIA EYMAEL",
+      "office": "Presidente"
+    },
+    {
+      "id": 13,
+      "name": "VERA LUCIA PEREIRA DA SILVA SALGADO",
+      "office": "Presidente"
+    },
+    {
+      "id": 14,
+      "name": "JOÃO VICENTE FONTELLA GOULART",
+      "office": "Presidente"
+    }
+  ],
+  "governor": [
+    {
+      "id": 0,
+      "name": "WILSON MIRANDA LIMA",
+      "office": "Governador"
+    },
+    {
+      "id": 1,
+      "name": "DAVID ANTONIO ABISAI PEREIRA DE ALMEIDA",
+      "office": "Governador"
+    },
+    {
+      "id": 2,
+      "name": "AMAZONINO ARMANDO MENDES",
+      "office": "Governador"
+    },
+    {
+      "id": 3,
+      "name": "VOTO BRANCO",
+      "office": "Governador"
+    },
+    {
+      "id": 4,
+      "name": "VOTO NULO",
+      "office": "Governador"
+    },
+    {
+      "id": 5,
+      "name": "OMAR JOSÉ ABDEL AZIZ",
+      "office": "Governador"
+    },
+    {
+      "id": 6,
+      "name": "SIDNEY VEIGA CABRAL",
+      "office": "Governador"
+    },
+    {
+      "id": 7,
+      "name": "LUCIA REGINA ANTONY",
+      "office": "Governador"
+    },
+    {
+      "id": 8,
+      "name": "NINDBERG BARBOSA DOS SANTOS",
+      "office": "Governador"
+    }
+  ],
+  "senator1": [
+    {
+      "id": 0,
+      "name": "VOTO NULO",
+      "office": "Senador"
+    },
+    {
+      "id": 1,
+      "name": "LUIZ FERNANDO DE SOUZA SANTOS",
+      "office": "Senador"
+    },
+    {
+      "id": 2,
+      "name": "FRANCISCO PLINIO VALERIO TOMAZ",
+      "office": "Senador"
+    },
+    {
+      "id": 3,
+      "name": "LUIZ CASTRO ANDRADE NETO",
+      "office": "Senador"
+    },
+    {
+      "id": 4,
+      "name": "VOTO BRANCO",
+      "office": "Senador"
+    },
+    {
+      "id": 5,
+      "name": "RONDINELY FONSECA DA SILVEIRA",
+      "office": "Senador"
+    },
+    {
+      "id": 6,
+      "name": "HISSA NAGIB ABRAHAO FILHO",
+      "office": "Senador"
+    },
+    {
+      "id": 7,
+      "name": "ALFREDO PEREIRA DO NASCIMENTO",
+      "office": "Senador"
+    },
+    {
+      "id": 8,
+      "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+      "office": "Senador"
+    },
+    {
+      "id": 9,
+      "name": "VANESSA GRAZZIOTIN",
+      "office": "Senador"
+    }
+  ],
+  "senator2": []
+}

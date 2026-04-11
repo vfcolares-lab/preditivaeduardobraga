@@ -1,0 +1,7534 @@
+{
+  "municipalities": [
+    {
+      "id": "ALVARÃES_2010",
+      "name": "ALVARÃES",
+      "region": "Outros",
+      "sections_count": 21,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 9197
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 729
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 237
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 53
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 464
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 5
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2534
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 41
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2700
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 20
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 455
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3457
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4277
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 496
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 449
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1732
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 127
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 963
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 3
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "AMATURÁ_2010",
+      "name": "AMATURÁ",
+      "region": "Outros",
+      "sections_count": 17,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 5201
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 852
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 236
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 448
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 37
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1387
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 24
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 1654
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 13
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 344
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1568
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2138
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 626
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 263
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1474
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 66
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 717
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ANAMÃ_2010",
+      "name": "ANAMÃ",
+      "region": "Outros",
+      "sections_count": 19,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 5736
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1041
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 622
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 6
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 50
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 306
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1078
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2758
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 34
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 366
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 39
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1479
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3160
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 132
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 299
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2669
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 152
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 665
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ANORI_2010",
+      "name": "ANORI",
+      "region": "Outros",
+      "sections_count": 25,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 8567
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1752
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 577
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 435
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 65
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 5
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1801
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 93
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3898
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 37
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 473
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 5
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 3
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3536
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 5174
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 496
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 229
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2272
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 128
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 783
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "APUÍ_2010",
+      "name": "APUÍ",
+      "region": "Outros",
+      "sections_count": 27,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 8462
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2901
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 109
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 25
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 139
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 541
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 4
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3129
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2450
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 110
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 556
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 23
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 5
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2695
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2564
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 2706
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 764
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2299
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 422
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1101
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ATALAIA DO NORTE_2010",
+      "name": "ATALAIA DO NORTE",
+      "region": "Outros",
+      "sections_count": 16,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 3681
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2264
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 411
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 8
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 349
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 25
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 890
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 16
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2286
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 357
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 18
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2086
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3070
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 269
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 158
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 921
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 62
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 565
+          },
+          {
+            "name": "#NULO#",
+            "votes": 3
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "AUTAZES_2010",
+      "name": "AUTAZES",
+      "region": "Outros",
+      "sections_count": 53,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 20737
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1994
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1386
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 183
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1060
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 27
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 10
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 4259
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 12
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 187
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 8072
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 76
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1026
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 7
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4738
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 11361
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1418
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 681
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 6795
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 253
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2013
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 9
+          },
+          {
+            "name": "#NULO#",
+            "votes": 11
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BARCELOS_2010",
+      "name": "BARCELOS",
+      "region": "Outros",
+      "sections_count": 24,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 6620
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1898
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 922
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 11
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 420
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 72
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1971
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 129
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2797
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 56
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 442
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2113
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3274
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1261
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 853
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2275
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 177
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 832
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 3
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BARREIRINHA_2010",
+      "name": "BARREIRINHA",
+      "region": "Outros",
+      "sections_count": 46,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 17403
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1373
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 509
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 13
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 104
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1459
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3321
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 123
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 11
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 6272
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 70
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1354
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 6
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2722
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 8178
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1123
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 641
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 4
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 6687
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 195
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2758
+          },
+          {
+            "name": "#NULO#",
+            "votes": 4
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BENJAMIN CONSTANT_2010",
+      "name": "BENJAMIN CONSTANT",
+      "region": "Outros",
+      "sections_count": 48,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 20056
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 5
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2243
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 757
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 139
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1261
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 23
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 8
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3496
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 7735
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 80
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1130
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 23
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 5
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3551
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 10863
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 468
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 422
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 7
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 7071
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 310
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2252
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BERURI_2010",
+      "name": "BERURI",
+      "region": "Outros",
+      "sections_count": 25,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 8199
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1922
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 307
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 42
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 500
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1374
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 43
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4178
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 462
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 28
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2427
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 5007
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 432
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 198
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3064
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 82
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 975
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BOA VISTA DO RAMOS_2010",
+      "name": "BOA VISTA DO RAMOS",
+      "region": "Outros",
+      "sections_count": 28,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 10105
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 918
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 658
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 12
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 65
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 540
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2598
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 59
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3357
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 38
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 541
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2238
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 5050
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 755
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 801
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3223
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 156
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 974
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 4
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BOCA DO ACRE_2010",
+      "name": "BOCA DO ACRE",
+      "region": "Outros",
+      "sections_count": 57,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 11540
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 9683
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 541
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 44
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 274
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1430
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 7
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 4554
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 6237
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 210
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1223
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 40
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 8
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 5
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 6
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4495
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 8511
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1144
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1426
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 5221
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 930
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2808
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 11
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 6
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "BORBA_2010",
+      "name": "BORBA",
+      "region": "Outros",
+      "sections_count": 51,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 19060
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1654
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1154
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 22
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 114
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1098
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3770
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 129
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 7490
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 77
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1073
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 4
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3866
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 10635
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 614
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 776
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 6896
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 223
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2079
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2
+          },
+          {
+            "name": "#NULO#",
+            "votes": 7
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CAAPIRANGA_2010",
+      "name": "CAAPIRANGA",
+      "region": "Outros",
+      "sections_count": 18,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 6682
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 520
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 392
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 2
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 65
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 323
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1158
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2911
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 35
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 361
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 35
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2211
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3646
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 182
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 388
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1794
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 136
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 643
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 9
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CANUTAMA_2010",
+      "name": "CANUTAMA",
+      "region": "Outros",
+      "sections_count": 23,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 4738
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2270
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 217
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 7
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 75
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 489
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 7
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1450
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 14
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2343
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 40
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 413
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2918
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2785
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 939
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 156
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 817
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 144
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 764
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 5
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CARAUARI_2010",
+      "name": "CARAUARI",
+      "region": "Outros",
+      "sections_count": 59,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 13462
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2821
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 539
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1072
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 124
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 13
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2399
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 35
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 6107
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 964
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 99
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 9
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3499
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 6403
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1102
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1697
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4498
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 360
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1669
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 2
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CAREIRO_2010",
+      "name": "CAREIRO",
+      "region": "Outros",
+      "sections_count": 57,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 20192
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1496
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 779
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 202
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1209
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 30
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 8
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 4287
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 284
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 7171
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 124
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1292
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 10
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 7
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3746
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 9751
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1711
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1716
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 6731
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 384
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2295
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 9
+          },
+          {
+            "name": "#NULO#",
+            "votes": 3
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 8
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CAREIRO DA VÁRZEA_2010",
+      "name": "CAREIRO DA VÁRZEA",
+      "region": "Outros",
+      "sections_count": 50,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 16633
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 5
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1233
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 805
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 32
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 807
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 130
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2380
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 266
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 7038
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 858
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 15
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 91
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 4
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 10
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3217
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 8870
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 998
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 865
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 5564
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1508
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 270
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "COARI_2010",
+      "name": "COARI",
+      "region": "Outros",
+      "sections_count": 133,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 42035
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 5682
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 4647
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 526
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2345
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 71
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 7
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 9
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 10
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 6
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 10792
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 742
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 15488
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 342
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2367
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 14
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 26
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 13
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 14450
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 19338
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 5056
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 4640
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 9793
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 1306
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 4926
+          },
+          {
+            "name": "#NULO#",
+            "votes": 16
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 33
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 10
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "CODAJÁS_2010",
+      "name": "CODAJÁS",
+      "region": "Outros",
+      "sections_count": 43,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 12210
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2089
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1652
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 40
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 631
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 102
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 6
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3785
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 201
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 12
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4518
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 612
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 59
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4488
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 7261
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1139
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 7
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 953
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2987
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 203
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1339
+          },
+          {
+            "name": "#NULO#",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "EIRUNEPÉ_2010",
+      "name": "EIRUNEPÉ",
+      "region": "Outros",
+      "sections_count": 56,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 18039
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1780
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 423
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 176
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1494
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 26
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 5
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 5391
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 75
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4988
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 127
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1281
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4562
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 7782
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1995
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1578
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4618
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 582
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2619
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 3
+          },
+          {
+            "name": "#NULO#",
+            "votes": 4
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ENVIRA_2010",
+      "name": "ENVIRA",
+      "region": "Outros",
+      "sections_count": 33,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 8552
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 3
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2074
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 286
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 11
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 569
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 46
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2807
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 34
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3013
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 471
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 29
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2982
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3325
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 2481
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2813
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 94
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 979
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 45
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "FONTE BOA_2010",
+      "name": "FONTE BOA",
+      "region": "Outros",
+      "sections_count": 35,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 13044
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1779
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 346
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 960
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 26
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 74
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1728
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 71
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 6012
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 54
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 813
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 6
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2296
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 6942
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 351
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 449
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 5521
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 173
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1628
+          },
+          {
+            "name": "#NULO#",
+            "votes": 6
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "GUAJARÁ_2010",
+      "name": "GUAJARÁ",
+      "region": "Outros",
+      "sections_count": 30,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 4357
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2780
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 166
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 66
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 506
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 7
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 176
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3008
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 71
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 453
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 7
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1220
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3007
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 186
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 78
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1885
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 231
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 836
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "HUMAITÁ_2010",
+      "name": "HUMAITÁ",
+      "region": "Outros",
+      "sections_count": 77,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 26008
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 9
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 5786
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1066
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 335
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1208
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 95
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 6
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 8
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 5
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 7512
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 89
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 8798
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 336
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1240
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 6
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 19
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 6424
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 11675
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 2814
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 909
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 9836
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 1566
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2687
+          },
+          {
+            "name": "#NULO#",
+            "votes": 32
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 33
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 30
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "IPIXUNA_2010",
+      "name": "IPIXUNA",
+      "region": "Outros",
+      "sections_count": 26,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 5414
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2711
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 136
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 18
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 106
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 804
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1780
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 4
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2397
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 101
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 676
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 11
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2546
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2724
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1184
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1032
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 784
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 420
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1256
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "IRANDUBA_2010",
+      "name": "IRANDUBA",
+      "region": "Outros",
+      "sections_count": 93,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 30885
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2348
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 2635
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 49
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 334
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1451
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 4979
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 21
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 609
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 38
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 12540
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 194
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1455
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 26
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 6998
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 16609
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 2070
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1866
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 33
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 8906
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 570
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2612
+          },
+          {
+            "name": "#NULO#",
+            "votes": 37
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 23
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ITACOATIARA_2010",
+      "name": "ITACOATIARA",
+      "region": "Outros",
+      "sections_count": 184,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 59694
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 10437
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 7306
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 734
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2481
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 195
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 8
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 26
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 7
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 13
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 9924
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 1984
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 34
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 27632
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 431
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2622
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 12
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 36
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 13348
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 33376
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 5148
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 95
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 3007
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 23971
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 1449
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 4905
+          },
+          {
+            "name": "#NULO#",
+            "votes": 31
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 20
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ITAMARATI_2010",
+      "name": "ITAMARATI",
+      "region": "Outros",
+      "sections_count": 14,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 5057
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 746
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 107
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 389
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 22
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 808
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2517
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 343
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 4
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 7
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3049
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2743
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 603
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 293
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 590
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 36
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 44
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "ITAPIRANGA_2010",
+      "name": "ITAPIRANGA",
+      "region": "Outros",
+      "sections_count": 18,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 6619
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 932
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 555
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 45
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 204
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 6
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 935
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 94
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 3
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3299
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 18
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 244
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2413
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3979
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 286
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 244
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1766
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 72
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 428
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "JAPURÁ_2010",
+      "name": "JAPURÁ",
+      "region": "Outros",
+      "sections_count": 11,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 3408
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 448
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 87
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 146
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 3
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 12
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 663
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 1420
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 11
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 142
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 10
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 3
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 756
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 1620
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 275
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 141
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1352
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 48
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 297
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "JURUÁ_2010",
+      "name": "JURUÁ",
+      "region": "Outros",
+      "sections_count": 25,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 3112
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 3063
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 40
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 35
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 356
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 4
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 593
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2547
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 23
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 333
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 8
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1930
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 1729
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 39
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1423
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1272
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 55
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 564
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "JUTAÍ_2010",
+      "name": "JUTAÍ",
+      "region": "Outros",
+      "sections_count": 27,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 8606
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1777
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 217
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 13
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 44
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 795
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1123
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 47
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4126
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 17
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 733
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 18
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1788
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4932
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 207
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 622
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3144
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 99
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1332
+          },
+          {
+            "name": "#NULO#",
+            "votes": 6
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "LÁBREA_2010",
+      "name": "LÁBREA",
+      "region": "Outros",
+      "sections_count": 64,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 19048
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 3574
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 713
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 78
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1267
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 152
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 5
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 6994
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 5048
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1072
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 10
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 74
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 44
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 5
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 6026
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 10173
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1349
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1566
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4619
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2417
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 334
+          },
+          {
+            "name": "#NULO#",
+            "votes": 9
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 4
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MANACAPURU_2010",
+      "name": "MANACAPURU",
+      "region": "Outros",
+      "sections_count": 176,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 61870
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 20
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 9329
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 6785
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 163
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 799
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 3447
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 17
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 12
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 6
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 12755
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 1120
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 26307
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 514
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 3531
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 29
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 25
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 35
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 20323
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 26400
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 11915
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 41
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 2391
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 19870
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 1544
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 6110
+          },
+          {
+            "name": "#NULO#",
+            "votes": 19
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 19
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MANAQUIRI_2010",
+      "name": "MANAQUIRI",
+      "region": "Outros",
+      "sections_count": 30,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 12485
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 685
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 665
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 69
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 648
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 7
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2882
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 81
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4397
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 41
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 629
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 5
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2218
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 6051
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 448
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1468
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 13
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4611
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 142
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1116
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 5
+          },
+          {
+            "name": "#NULO#",
+            "votes": 4
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MANAUS_2010",
+      "name": "MANAUS",
+      "region": "Outros",
+      "sections_count": 2940,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 1195651
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 490
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1105
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 240661
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 329297
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 7294
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 42587
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 58235
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 837
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 49
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 345
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 182767
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4047
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 126955
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 5292
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 562448
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 23943
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 60606
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2469
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 3587
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 391088
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 754309
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 162931
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 4171
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 78639
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 363473
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 72357
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 103895
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2604
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MANICORÉ_2010",
+      "name": "MANICORÉ",
+      "region": "Outros",
+      "sections_count": 84,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 21876
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 7142
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 504
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 151
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1260
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 29
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 6
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3628
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 374
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 10778
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1325
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 143
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 13
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 6864
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 10819
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 2826
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 22
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 453
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 8370
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 442
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2723
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 14
+          },
+          {
+            "name": "#NULO#",
+            "votes": 7
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MARAÃ_2010",
+      "name": "MARAÃ",
+      "region": "Outros",
+      "sections_count": 22,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 5901
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 977
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 211
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 22
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 465
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 5
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1937
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2069
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 488
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 18
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 13
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 5
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2072
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2890
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 234
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 867
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 39
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1925
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 96
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 937
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "MAUÉS_2010",
+      "name": "MAUÉS",
+      "region": "Outros",
+      "sections_count": 83,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 31088
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 12
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2303
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1909
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 50
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 258
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1482
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 9
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 5429
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 204
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 5
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 12371
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 191
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1496
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 13
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 9
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4711
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 15223
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1723
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 13
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1078
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 23
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 13002
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 629
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 3023
+          },
+          {
+            "name": "#NULO#",
+            "votes": 11
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "NHAMUNDÁ_2010",
+      "name": "NHAMUNDÁ",
+      "region": "Outros",
+      "sections_count": 38,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 11901
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2170
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 385
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 71
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 496
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 3
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3065
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 39
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4458
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 43
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 479
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3444
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 5716
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1545
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 133
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4202
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 142
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 992
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "NOVA OLINDA DO NORTE_2010",
+      "name": "NOVA OLINDA DO NORTE",
+      "region": "Outros",
+      "sections_count": 38,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 14986
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1339
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 711
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 86
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 800
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 10
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3103
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 148
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 5569
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 42
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 793
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 2
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 9
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2514
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 7562
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 582
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1299
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 5745
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 123
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1495
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "NOVO AIRÃO_2010",
+      "name": "NOVO AIRÃO",
+      "region": "Outros",
+      "sections_count": 23,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 7411
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 6
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1415
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 537
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 16
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 73
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 406
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1788
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 500
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 6
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2488
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 34
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 431
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2145
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4050
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 551
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 338
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 4
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2536
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 140
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 725
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 11
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "NOVO ARIPUANÃ_2010",
+      "name": "NOVO ARIPUANÃ",
+      "region": "Outros",
+      "sections_count": 37,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 10795
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1381
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 477
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 8
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 642
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 90
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2141
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 74
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4260
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 62
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 642
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 5
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 2
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2681
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4396
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1831
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 739
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3260
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 240
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1218
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 4
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "PARINTINS_2010",
+      "name": "PARINTINS",
+      "region": "Outros",
+      "sections_count": 195,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 65303
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 9
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 20
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 10853
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 5492
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 616
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2157
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 140
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 11
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 7
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 15221
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 1197
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 24410
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 459
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2636
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 14
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 25
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 17
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 19628
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 35717
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 3755
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1968
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 20931
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 1444
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 4455
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 23
+          },
+          {
+            "name": "#NULO#",
+            "votes": 28
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 9
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "PAUINI_2010",
+      "name": "PAUINI",
+      "region": "Outros",
+      "sections_count": 25,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 7828
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1876
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 327
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 606
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 49
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 6
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1032
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 30
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4033
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 40
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 502
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 5
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1986
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3574
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 850
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 372
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3254
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 144
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1104
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "PRESIDENTE FIGUEIREDO_2010",
+      "name": "PRESIDENTE FIGUEIREDO",
+      "region": "Outros",
+      "sections_count": 60,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 17475
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2419
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1917
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 59
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 238
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 911
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 6
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 4506
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 9
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 361
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 5975
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 173
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 962
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 17
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 11
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3997
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 8295
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1262
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 2377
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 11
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 5714
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 590
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1756
+          },
+          {
+            "name": "#NULO#",
+            "votes": 23
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "RIO PRETO DA EVA_2010",
+      "name": "RIO PRETO DA EVA",
+      "region": "Outros",
+      "sections_count": 35,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 13324
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 5
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2023
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1513
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 27
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 200
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 611
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 22
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 6
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2666
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 322
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 5551
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 119
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 737
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 7
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 3
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 6
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4015
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 7677
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1026
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 628
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3863
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 359
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1232
+          },
+          {
+            "name": "#NULO#",
+            "votes": 11
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 6
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 5
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SANTA ISABEL DO RIO NEGRO_2010",
+      "name": "SANTA ISABEL DO RIO NEGRO",
+      "region": "Outros",
+      "sections_count": 15,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 3879
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2241
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 292
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 337
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 2
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 35
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 5
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 910
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 31
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2275
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 27
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 326
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1474
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2748
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 150
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 189
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 7
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1865
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 85
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 624
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SANTO ANTÔNIO DO IÇÁ_2010",
+      "name": "SANTO ANTÔNIO DO IÇÁ",
+      "region": "Outros",
+      "sections_count": 33,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 10189
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 3734
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 671
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 129
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 924
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 9
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 8
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3016
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 49
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 4030
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 66
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 811
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3217
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 5208
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1036
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1797
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2677
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 280
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1731
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SILVES_2010",
+      "name": "SILVES",
+      "region": "Outros",
+      "sections_count": 19,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 7128
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 562
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 444
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 228
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 35
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 5
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 1
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1026
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 69
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3214
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 33
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 287
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1307
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3922
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 286
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 289
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2886
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 97
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 486
+          },
+          {
+            "name": "#NULO#",
+            "votes": 2
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SÃO GABRIEL DA CACHOEIRA_2010",
+      "name": "SÃO GABRIEL DA CACHOEIRA",
+      "region": "Outros",
+      "sections_count": 74,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 23031
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 4208
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1242
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1020
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 7
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 178
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 47
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3715
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 10400
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1045
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 182
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 8
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 178
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 7
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4145
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 13513
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 752
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 748
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 9160
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2093
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 489
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 9
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 168
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SÃO PAULO DE OLIVENÇA_2010",
+      "name": "SÃO PAULO DE OLIVENÇA",
+      "region": "Outros",
+      "sections_count": 39,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 13954
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 3945
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 394
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 9
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 134
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1098
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 5
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1040
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 25
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 7666
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 85
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1004
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 7
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 2
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 4201
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 8390
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 390
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 205
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 4392
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 278
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1799
+          },
+          {
+            "name": "#NULO#",
+            "votes": 3
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "SÃO SEBASTIÃO DO UATUMÃ_2010",
+      "name": "SÃO SEBASTIÃO DO UATUMÃ",
+      "region": "Outros",
+      "sections_count": 13,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 4707
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1269
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 562
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 18
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 46
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 236
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1438
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 1
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 69
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 1910
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 21
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 247
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1691
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 2820
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 330
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 566
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1439
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 82
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 444
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 1
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "TABATINGA_2010",
+      "name": "TABATINGA",
+      "region": "Outros",
+      "sections_count": 71,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 27083
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 5344
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 1902
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 58
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2300
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 6
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 298
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 10
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 5
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3588
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 205
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 12779
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 176
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 2067
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 16
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 4
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 7
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 6154
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 15957
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1065
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 846
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 9378
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 581
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 3683
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          },
+          {
+            "name": "#NULO#",
+            "votes": 10
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 4
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "TAPAUÁ_2010",
+      "name": "TAPAUÁ",
+      "region": "Outros",
+      "sections_count": 32,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 9101
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 2444
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 250
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 846
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 15
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 135
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 3
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3313
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 33
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2849
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 89
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 756
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3626
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4062
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1008
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 997
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2531
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 342
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1510
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 9
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "TEFÉ_2010",
+      "name": "TEFÉ",
+      "region": "Outros",
+      "sections_count": 102,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 37605
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 3911
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 2460
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 87
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1853
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 345
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 7
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 8
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 14
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 6
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 6030
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 350
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 15497
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1814
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 12
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 212
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 5
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 9
+          }
+        ],
+        "senator1": [
+          {
+            "name": "#NULO#",
+            "votes": 12
+          },
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 10043
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 18894
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1938
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 29
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1517
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 11331
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 784
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 3300
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 10
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "TONANTINS_2010",
+      "name": "TONANTINS",
+      "region": "Outros",
+      "sections_count": 22,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 7516
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 4
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 4
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1871
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 98
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 50
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 558
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 8
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 1694
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 4
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 2989
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 36
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 495
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 20
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 3284
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4270
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 416
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 215
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 1200
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 149
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 942
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "UARINI_2010",
+      "name": "UARINI",
+      "region": "Outros",
+      "sections_count": 18,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 6648
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 644
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 138
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 7
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 33
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 403
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "IVAN MARTINS PINHEIRO",
+            "votes": 3
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 4
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 680
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 3
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3182
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 22
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 356
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 13
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 1128
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3754
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 103
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 99
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 2653
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 50
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 729
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          },
+          {
+            "name": "#NULO#",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "URUCARÁ_2010",
+      "name": "URUCARÁ",
+      "region": "Outros",
+      "sections_count": 27,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 10857
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1064
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 577
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 95
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 395
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 8
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 2
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 2
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 2711
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 96
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3651
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 54
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 435
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 3
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2268
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 3863
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 1670
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 16
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1796
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3260
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 221
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 806
+          },
+          {
+            "name": "#NULO#",
+            "votes": 3
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 1
+          }
+        ],
+        "senator2": []
+      }
+    },
+    {
+      "id": "URUCURITUBA_2010",
+      "name": "URUCURITUBA",
+      "region": "Outros",
+      "sections_count": 32,
+      "results": {
+        "president": [
+          {
+            "name": "DILMA VANA ROUSSEFF",
+            "votes": 10784
+          },
+          {
+            "name": "JOSE MARIA EYMAEL",
+            "votes": 2
+          },
+          {
+            "name": "JOSÉ SERRA",
+            "votes": 1143
+          },
+          {
+            "name": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+            "votes": 870
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 92
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 485
+          },
+          {
+            "name": "PLÍNIO SOARES DE ARRUDA SAMPAIO",
+            "votes": 8
+          },
+          {
+            "name": "JOSE LEVY FIDELIX DA CRUZ",
+            "votes": 3
+          },
+          {
+            "name": "JOSÉ MARIA DE ALMEIDA",
+            "votes": 1
+          },
+          {
+            "name": "RUI COSTA PIMENTA",
+            "votes": 1
+          }
+        ],
+        "governor": [
+          {
+            "name": "ALFREDO PEREIRA DO NASCIMENTO",
+            "votes": 3028
+          },
+          {
+            "name": "HISSA NAGIB ABRAHAO FILHO",
+            "votes": 83
+          },
+          {
+            "name": "OMAR JOSE ABDEL AZIZ",
+            "votes": 3594
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 57
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 530
+          },
+          {
+            "name": "LUIZ CARLOS CARVALHO SENA",
+            "votes": 4
+          },
+          {
+            "name": "HERBERT AMAZONAS MASSULO",
+            "votes": 5
+          },
+          {
+            "name": "LUIZ MANOEL NAVARRO",
+            "votes": 1
+          }
+        ],
+        "senator1": [
+          {
+            "name": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votes": 2278
+          },
+          {
+            "name": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votes": 4958
+          },
+          {
+            "name": "JEFFERSON PRAIA BEZERRA",
+            "votes": 620
+          },
+          {
+            "name": "MARILENE CORREA DA SILVA FREITAS",
+            "votes": 1660
+          },
+          {
+            "name": "VANESSA GRAZZIOTIN",
+            "votes": 3829
+          },
+          {
+            "name": "VOTO BRANCO",
+            "votes": 198
+          },
+          {
+            "name": "VOTO NULO",
+            "votes": 1046
+          },
+          {
+            "name": "TARCÍSIO LUIZ LEÃO E SOUZA",
+            "votes": 2
+          },
+          {
+            "name": "MARCOS ANTONIO DE QUEIROZ",
+            "votes": 6
+          },
+          {
+            "name": "#NULO#",
+            "votes": 7
+          }
+        ],
+        "senator2": []
+      }
+    }
+  ]
+}

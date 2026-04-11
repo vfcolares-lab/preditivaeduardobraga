@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "data_processamento": "2026-04-08T21:02:40.964290",
+    "anos_disponíveis": [
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "municipios_processados": 62,
+    "calhas": [
+      "Purus",
+      "Alto Solimões",
+      "Médio Solimões",
+      "Baixo Amazonas",
+      "Região Metropolitana",
+      "Madeira",
+      "Juruá",
+      "Rio Negro"
+    ]
+  },
+  "classificacoes_2026": {
+    "Bastião Lulista": 38,
+    "Tendência Lulista": 3,
+    "Swing / Dividido": 9,
+    "Tendência Bolsonarista": 5,
+    "Bastião Bolsonarista": 5,
+    "Volátil": 2
+  }
+}

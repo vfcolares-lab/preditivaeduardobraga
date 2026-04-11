@@ -1,0 +1,3040 @@
+{
+  "ALVARÃES": {
+    "nome": "ALVARÃES",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 86.03,
+        "bolsonarismo": 6.82,
+        "terceira_via": 7.16,
+        "branco_nulo": 517,
+        "saldo": 79.21,
+        "total_validos": 10691
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.09,
+        "terceira_via": 84.91,
+        "branco_nulo": 775,
+        "saldo": -15.09,
+        "total_validos": 13291
+      },
+      "2018": {
+        "petismo": 72.3,
+        "bolsonarismo": 18.33,
+        "terceira_via": 9.37,
+        "branco_nulo": 608,
+        "saldo": 53.98,
+        "total_validos": 14275
+      },
+      "2022": {
+        "petismo": 70.12,
+        "bolsonarismo": 23.97,
+        "terceira_via": 5.91,
+        "branco_nulo": 528,
+        "saldo": 46.15,
+        "total_validos": 17102
+      }
+    },
+    "projecao_2026": {
+      "petismo": 63.26,
+      "bolsonarismo": 29.72,
+      "saldo": 33.53,
+      "intervalo_confianca": 33.42
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "AMATURÁ": {
+    "nome": "AMATURÁ",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 76.68,
+        "bolsonarismo": 12.56,
+        "terceira_via": 10.76,
+        "branco_nulo": 485,
+        "saldo": 64.12,
+        "total_validos": 6783
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.02,
+        "terceira_via": 84.98,
+        "branco_nulo": 604,
+        "saldo": -15.02,
+        "total_validos": 7828
+      },
+      "2018": {
+        "petismo": 70.53,
+        "bolsonarismo": 17.12,
+        "terceira_via": 12.35,
+        "branco_nulo": 618,
+        "saldo": 53.41,
+        "total_validos": 9287
+      },
+      "2022": {
+        "petismo": 71.73,
+        "bolsonarismo": 21.6,
+        "terceira_via": 6.67,
+        "branco_nulo": 442,
+        "saldo": 50.13,
+        "total_validos": 10786
+      }
+    },
+    "projecao_2026": {
+      "petismo": 68.66,
+      "bolsonarismo": 23.88,
+      "saldo": 44.78,
+      "intervalo_confianca": 31.07
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ANAMÃ": {
+    "nome": "ANAMÃ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 73.86,
+        "bolsonarismo": 13.4,
+        "terceira_via": 12.73,
+        "branco_nulo": 356,
+        "saldo": 60.46,
+        "total_validos": 7766
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.88,
+        "terceira_via": 84.12,
+        "branco_nulo": 551,
+        "saldo": -15.88,
+        "total_validos": 9711
+      },
+      "2018": {
+        "petismo": 63.51,
+        "bolsonarismo": 26.75,
+        "terceira_via": 9.74,
+        "branco_nulo": 513,
+        "saldo": 36.77,
+        "total_validos": 11755
+      },
+      "2022": {
+        "petismo": 61.36,
+        "bolsonarismo": 32.78,
+        "terceira_via": 5.86,
+        "branco_nulo": 333,
+        "saldo": 28.58,
+        "total_validos": 12484
+      }
+    },
+    "projecao_2026": {
+      "petismo": 56.19,
+      "bolsonarismo": 39.46,
+      "saldo": 16.73,
+      "intervalo_confianca": 28.93
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ANORI": {
+    "nome": "ANORI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 75.08,
+        "bolsonarismo": 15.35,
+        "terceira_via": 9.57,
+        "branco_nulo": 500,
+        "saldo": 59.72,
+        "total_validos": 11411
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 26.16,
+        "terceira_via": 73.84,
+        "branco_nulo": 702,
+        "saldo": -26.16,
+        "total_validos": 13133
+      },
+      "2018": {
+        "petismo": 56.15,
+        "bolsonarismo": 33.46,
+        "terceira_via": 10.39,
+        "branco_nulo": 683,
+        "saldo": 22.69,
+        "total_validos": 13599
+      },
+      "2022": {
+        "petismo": 55.03,
+        "bolsonarismo": 39.12,
+        "terceira_via": 5.86,
+        "branco_nulo": 465,
+        "saldo": 15.91,
+        "total_validos": 15600
+      }
+    },
+    "projecao_2026": {
+      "petismo": 45.57,
+      "bolsonarismo": 48.18,
+      "saldo": -2.61,
+      "intervalo_confianca": 28.04
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "APUÍ": {
+    "nome": "APUÍ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 69.45,
+        "bolsonarismo": 23.81,
+        "terceira_via": 6.74,
+        "branco_nulo": 680,
+        "saldo": 45.64,
+        "total_validos": 12184
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 30.78,
+        "terceira_via": 69.22,
+        "branco_nulo": 820,
+        "saldo": -30.78,
+        "total_validos": 12539
+      },
+      "2018": {
+        "petismo": 42.97,
+        "bolsonarismo": 45.96,
+        "terceira_via": 11.07,
+        "branco_nulo": 804,
+        "saldo": -2.99,
+        "total_validos": 13696
+      },
+      "2022": {
+        "petismo": 35.68,
+        "bolsonarismo": 59.67,
+        "terceira_via": 4.65,
+        "branco_nulo": 423,
+        "saldo": -24.0,
+        "total_validos": 15960
+      }
+    },
+    "projecao_2026": {
+      "petismo": 22.44,
+      "bolsonarismo": 70.75,
+      "saldo": -48.31,
+      "intervalo_confianca": 23.92
+    },
+    "classificacao_2026": "Bastião Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ATALAIA DO NORTE": {
+    "nome": "ATALAIA DO NORTE",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 54.6,
+        "bolsonarismo": 33.58,
+        "terceira_via": 11.82,
+        "branco_nulo": 374,
+        "saldo": 21.02,
+        "total_validos": 6742
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 23.3,
+        "terceira_via": 76.7,
+        "branco_nulo": 601,
+        "saldo": -23.3,
+        "total_validos": 9202
+      },
+      "2018": {
+        "petismo": 73.85,
+        "bolsonarismo": 14.89,
+        "terceira_via": 11.26,
+        "branco_nulo": 472,
+        "saldo": 58.95,
+        "total_validos": 10581
+      },
+      "2022": {
+        "petismo": 76.49,
+        "bolsonarismo": 17.83,
+        "terceira_via": 5.68,
+        "branco_nulo": 409,
+        "saldo": 58.66,
+        "total_validos": 12268
+      }
+    },
+    "projecao_2026": {
+      "petismo": 86.12,
+      "bolsonarismo": 8.48,
+      "saldo": 77.63,
+      "intervalo_confianca": 26.52
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "decrescente"
+    }
+  },
+  "AUTAZES": {
+    "nome": "AUTAZES",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 81.63,
+        "bolsonarismo": 7.85,
+        "terceira_via": 10.53,
+        "branco_nulo": 1243,
+        "saldo": 73.78,
+        "total_validos": 25405
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 13.46,
+        "terceira_via": 86.54,
+        "branco_nulo": 1828,
+        "saldo": -13.46,
+        "total_validos": 31703
+      },
+      "2018": {
+        "petismo": 66.39,
+        "bolsonarismo": 24.2,
+        "terceira_via": 9.41,
+        "branco_nulo": 1911,
+        "saldo": 42.2,
+        "total_validos": 37958
+      },
+      "2022": {
+        "petismo": 61.53,
+        "bolsonarismo": 32.52,
+        "terceira_via": 5.95,
+        "branco_nulo": 1540,
+        "saldo": 29.01,
+        "total_validos": 42106
+      }
+    },
+    "projecao_2026": {
+      "petismo": 53.91,
+      "bolsonarismo": 40.7,
+      "saldo": 13.22,
+      "intervalo_confianca": 31.13
+    },
+    "classificacao_2026": "Volátil",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BARCELOS": {
+    "nome": "BARCELOS",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "petismo": 66.54,
+        "bolsonarismo": 19.08,
+        "terceira_via": 14.38,
+        "branco_nulo": 492,
+        "saldo": 47.46,
+        "total_validos": 9949
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 34.02,
+        "terceira_via": 65.98,
+        "branco_nulo": 758,
+        "saldo": -34.02,
+        "total_validos": 11371
+      },
+      "2018": {
+        "petismo": 57.24,
+        "bolsonarismo": 29.67,
+        "terceira_via": 13.09,
+        "branco_nulo": 594,
+        "saldo": 27.57,
+        "total_validos": 12468
+      },
+      "2022": {
+        "petismo": 61.66,
+        "bolsonarismo": 31.73,
+        "terceira_via": 6.61,
+        "branco_nulo": 582,
+        "saldo": 29.92,
+        "total_validos": 15069
+      }
+    },
+    "projecao_2026": {
+      "petismo": 57.01,
+      "bolsonarismo": 37.02,
+      "saldo": 19.99,
+      "intervalo_confianca": 26.54
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BARREIRINHA": {
+    "nome": "BARREIRINHA",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 83.38,
+        "bolsonarismo": 6.58,
+        "terceira_via": 10.04,
+        "branco_nulo": 1563,
+        "saldo": 76.8,
+        "total_validos": 20872
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 7.89,
+        "terceira_via": 92.11,
+        "branco_nulo": 1287,
+        "saldo": -7.89,
+        "total_validos": 23667
+      },
+      "2018": {
+        "petismo": 85.93,
+        "bolsonarismo": 6.81,
+        "terceira_via": 7.26,
+        "branco_nulo": 1158,
+        "saldo": 79.12,
+        "total_validos": 27313
+      },
+      "2022": {
+        "petismo": 87.8,
+        "bolsonarismo": 7.73,
+        "terceira_via": 4.47,
+        "branco_nulo": 891,
+        "saldo": 80.07,
+        "total_validos": 32768
+      }
+    },
+    "projecao_2026": {
+      "petismo": 89.08,
+      "bolsonarismo": 7.84,
+      "saldo": 81.23,
+      "intervalo_confianca": 35.45
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "estável"
+    }
+  },
+  "BENJAMIN CONSTANT": {
+    "nome": "BENJAMIN CONSTANT",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 81.86,
+        "bolsonarismo": 9.16,
+        "terceira_via": 8.98,
+        "branco_nulo": 1400,
+        "saldo": 72.71,
+        "total_validos": 24500
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 10.09,
+        "terceira_via": 89.91,
+        "branco_nulo": 1737,
+        "saldo": -10.09,
+        "total_validos": 28616
+      },
+      "2018": {
+        "petismo": 79.37,
+        "bolsonarismo": 12.36,
+        "terceira_via": 8.28,
+        "branco_nulo": 1418,
+        "saldo": 67.01,
+        "total_validos": 30972
+      },
+      "2022": {
+        "petismo": 79.98,
+        "bolsonarismo": 14.78,
+        "terceira_via": 5.24,
+        "branco_nulo": 1151,
+        "saldo": 65.21,
+        "total_validos": 33801
+      }
+    },
+    "projecao_2026": {
+      "petismo": 78.74,
+      "bolsonarismo": 16.38,
+      "saldo": 62.36,
+      "intervalo_confianca": 33.84
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BERURI": {
+    "nome": "BERURI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 74.69,
+        "bolsonarismo": 17.51,
+        "terceira_via": 7.8,
+        "branco_nulo": 542,
+        "saldo": 57.18,
+        "total_validos": 10977
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 10.75,
+        "terceira_via": 89.25,
+        "branco_nulo": 823,
+        "saldo": -10.75,
+        "total_validos": 15167
+      },
+      "2018": {
+        "petismo": 69.18,
+        "bolsonarismo": 21.52,
+        "terceira_via": 9.3,
+        "branco_nulo": 761,
+        "saldo": 47.67,
+        "total_validos": 16816
+      },
+      "2022": {
+        "petismo": 60.79,
+        "bolsonarismo": 33.91,
+        "terceira_via": 5.29,
+        "branco_nulo": 613,
+        "saldo": 26.88,
+        "total_validos": 19417
+      }
+    },
+    "projecao_2026": {
+      "petismo": 58.04,
+      "bolsonarismo": 35.92,
+      "saldo": 22.12,
+      "intervalo_confianca": 29.79
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BOA VISTA DO RAMOS": {
+    "nome": "BOA VISTA DO RAMOS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 82.12,
+        "bolsonarismo": 7.46,
+        "terceira_via": 10.42,
+        "branco_nulo": 605,
+        "saldo": 74.66,
+        "total_validos": 12305
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 9.7,
+        "terceira_via": 90.3,
+        "branco_nulo": 594,
+        "saldo": -9.7,
+        "total_validos": 13149
+      },
+      "2018": {
+        "petismo": 83.33,
+        "bolsonarismo": 9.53,
+        "terceira_via": 7.14,
+        "branco_nulo": 596,
+        "saldo": 73.8,
+        "total_validos": 15819
+      },
+      "2022": {
+        "petismo": 85.1,
+        "bolsonarismo": 10.87,
+        "terceira_via": 4.04,
+        "branco_nulo": 452,
+        "saldo": 74.23,
+        "total_validos": 18927
+      }
+    },
+    "projecao_2026": {
+      "petismo": 85.71,
+      "bolsonarismo": 11.91,
+      "saldo": 73.8,
+      "intervalo_confianca": 34.68
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BOCA DO ACRE": {
+    "nome": "BOCA DO ACRE",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "petismo": 49.04,
+        "bolsonarismo": 41.15,
+        "terceira_via": 9.81,
+        "branco_nulo": 1704,
+        "saldo": 7.89,
+        "total_validos": 23531
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 26.73,
+        "terceira_via": 73.27,
+        "branco_nulo": 2110,
+        "saldo": -26.73,
+        "total_validos": 27002
+      },
+      "2018": {
+        "petismo": 44.62,
+        "bolsonarismo": 41.19,
+        "terceira_via": 14.19,
+        "branco_nulo": 2261,
+        "saldo": 3.43,
+        "total_validos": 28962
+      },
+      "2022": {
+        "petismo": 43.63,
+        "bolsonarismo": 49.3,
+        "terceira_via": 7.07,
+        "branco_nulo": 1454,
+        "saldo": -5.67,
+        "total_validos": 32737
+      }
+    },
+    "projecao_2026": {
+      "petismo": 41.42,
+      "bolsonarismo": 49.32,
+      "saldo": -7.9,
+      "intervalo_confianca": 19.67
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "BORBA": {
+    "nome": "BORBA",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 82.46,
+        "bolsonarismo": 7.16,
+        "terceira_via": 10.38,
+        "branco_nulo": 1212,
+        "saldo": 75.31,
+        "total_validos": 23113
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 12.91,
+        "terceira_via": 87.09,
+        "branco_nulo": 1475,
+        "saldo": -12.91,
+        "total_validos": 26124
+      },
+      "2018": {
+        "petismo": 76.25,
+        "bolsonarismo": 15.45,
+        "terceira_via": 8.3,
+        "branco_nulo": 1345,
+        "saldo": 60.8,
+        "total_validos": 28253
+      },
+      "2022": {
+        "petismo": 75.26,
+        "bolsonarismo": 19.77,
+        "terceira_via": 4.97,
+        "branco_nulo": 1025,
+        "saldo": 55.49,
+        "total_validos": 32942
+      }
+    },
+    "projecao_2026": {
+      "petismo": 72.16,
+      "bolsonarismo": 23.92,
+      "saldo": 48.24,
+      "intervalo_confianca": 33.33
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CAAPIRANGA": {
+    "nome": "CAAPIRANGA",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 83.63,
+        "bolsonarismo": 6.51,
+        "terceira_via": 9.86,
+        "branco_nulo": 388,
+        "saldo": 77.12,
+        "total_validos": 7990
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 9.71,
+        "terceira_via": 90.29,
+        "branco_nulo": 592,
+        "saldo": -9.71,
+        "total_validos": 10156
+      },
+      "2018": {
+        "petismo": 63.34,
+        "bolsonarismo": 26.13,
+        "terceira_via": 10.54,
+        "branco_nulo": 579,
+        "saldo": 37.21,
+        "total_validos": 11066
+      },
+      "2022": {
+        "petismo": 64.15,
+        "bolsonarismo": 30.74,
+        "terceira_via": 5.11,
+        "branco_nulo": 348,
+        "saldo": 33.4,
+        "total_validos": 13352
+      }
+    },
+    "projecao_2026": {
+      "petismo": 54.01,
+      "bolsonarismo": 40.55,
+      "saldo": 13.46,
+      "intervalo_confianca": 31.53
+    },
+    "classificacao_2026": "Volátil",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CANUTAMA": {
+    "nome": "CANUTAMA",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "petismo": 60.7,
+        "bolsonarismo": 29.08,
+        "terceira_via": 10.22,
+        "branco_nulo": 564,
+        "saldo": 31.62,
+        "total_validos": 7806
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 17.62,
+        "terceira_via": 82.38,
+        "branco_nulo": 700,
+        "saldo": -17.62,
+        "total_validos": 9447
+      },
+      "2018": {
+        "petismo": 57.99,
+        "bolsonarismo": 29.65,
+        "terceira_via": 12.35,
+        "branco_nulo": 679,
+        "saldo": 28.34,
+        "total_validos": 11024
+      },
+      "2022": {
+        "petismo": 53.3,
+        "bolsonarismo": 40.53,
+        "terceira_via": 6.17,
+        "branco_nulo": 518,
+        "saldo": 12.76,
+        "total_validos": 13836
+      }
+    },
+    "projecao_2026": {
+      "petismo": 51.95,
+      "bolsonarismo": 40.82,
+      "saldo": 11.13,
+      "intervalo_confianca": 24.64
+    },
+    "classificacao_2026": "Tendência Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CARAUARI": {
+    "nome": "CARAUARI",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 74.6,
+        "bolsonarismo": 15.63,
+        "terceira_via": 9.76,
+        "branco_nulo": 1196,
+        "saldo": 58.97,
+        "total_validos": 18045
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 14.46,
+        "terceira_via": 85.54,
+        "branco_nulo": 1312,
+        "saldo": -14.46,
+        "total_validos": 22712
+      },
+      "2018": {
+        "petismo": 71.09,
+        "bolsonarismo": 18.21,
+        "terceira_via": 10.7,
+        "branco_nulo": 1325,
+        "saldo": 52.88,
+        "total_validos": 24784
+      },
+      "2022": {
+        "petismo": 73.57,
+        "bolsonarismo": 19.54,
+        "terceira_via": 6.89,
+        "branco_nulo": 1091,
+        "saldo": 54.03,
+        "total_validos": 28793
+      }
+    },
+    "projecao_2026": {
+      "petismo": 71.82,
+      "bolsonarismo": 20.83,
+      "saldo": 50.99,
+      "intervalo_confianca": 30.75
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CAREIRO": {
+    "nome": "CAREIRO",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 84.39,
+        "bolsonarismo": 6.25,
+        "terceira_via": 9.36,
+        "branco_nulo": 1411,
+        "saldo": 78.13,
+        "total_validos": 23928
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.07,
+        "terceira_via": 84.93,
+        "branco_nulo": 2282,
+        "saldo": -15.07,
+        "total_validos": 29957
+      },
+      "2018": {
+        "petismo": 61.36,
+        "bolsonarismo": 27.13,
+        "terceira_via": 11.51,
+        "branco_nulo": 2095,
+        "saldo": 34.23,
+        "total_validos": 30934
+      },
+      "2022": {
+        "petismo": 59.97,
+        "bolsonarismo": 32.46,
+        "terceira_via": 7.57,
+        "branco_nulo": 1446,
+        "saldo": 27.51,
+        "total_validos": 34015
+      }
+    },
+    "projecao_2026": {
+      "petismo": 48.46,
+      "bolsonarismo": 42.9,
+      "saldo": 5.56,
+      "intervalo_confianca": 31.21
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CAREIRO DA VÁRZEA": {
+    "nome": "CAREIRO DA VÁRZEA",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 84.63,
+        "bolsonarismo": 6.27,
+        "terceira_via": 9.09,
+        "branco_nulo": 937,
+        "saldo": 78.36,
+        "total_validos": 19653
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.12,
+        "terceira_via": 84.88,
+        "branco_nulo": 1304,
+        "saldo": -15.12,
+        "total_validos": 21404
+      },
+      "2018": {
+        "petismo": 64.5,
+        "bolsonarismo": 24.59,
+        "terceira_via": 10.91,
+        "branco_nulo": 1283,
+        "saldo": 39.91,
+        "total_validos": 23040
+      },
+      "2022": {
+        "petismo": 59.26,
+        "bolsonarismo": 33.9,
+        "terceira_via": 6.83,
+        "branco_nulo": 832,
+        "saldo": 25.36,
+        "total_validos": 24802
+      }
+    },
+    "projecao_2026": {
+      "petismo": 49.2,
+      "bolsonarismo": 43.06,
+      "saldo": 6.14,
+      "intervalo_confianca": 31.51
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "COARI": {
+    "nome": "COARI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 75.96,
+        "bolsonarismo": 10.27,
+        "terceira_via": 13.77,
+        "branco_nulo": 2871,
+        "saldo": 65.69,
+        "total_validos": 55338
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 23.26,
+        "terceira_via": 76.74,
+        "branco_nulo": 4112,
+        "saldo": -23.26,
+        "total_validos": 63965
+      },
+      "2018": {
+        "petismo": 60.02,
+        "bolsonarismo": 27.36,
+        "terceira_via": 12.62,
+        "branco_nulo": 3863,
+        "saldo": 32.65,
+        "total_validos": 69124
+      },
+      "2022": {
+        "petismo": 57.56,
+        "bolsonarismo": 36.5,
+        "terceira_via": 5.94,
+        "branco_nulo": 2245,
+        "saldo": 21.07,
+        "total_validos": 69991
+      }
+    },
+    "projecao_2026": {
+      "petismo": 49.59,
+      "bolsonarismo": 45.05,
+      "saldo": 4.55,
+      "intervalo_confianca": 28.81
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "CODAJÁS": {
+    "nome": "CODAJÁS",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 72.94,
+        "bolsonarismo": 12.48,
+        "terceira_via": 14.58,
+        "branco_nulo": 733,
+        "saldo": 60.46,
+        "total_validos": 16739
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.76,
+        "terceira_via": 84.24,
+        "branco_nulo": 1053,
+        "saldo": -15.76,
+        "total_validos": 18996
+      },
+      "2018": {
+        "petismo": 57.14,
+        "bolsonarismo": 32.81,
+        "terceira_via": 10.05,
+        "branco_nulo": 843,
+        "saldo": 24.32,
+        "total_validos": 18837
+      },
+      "2022": {
+        "petismo": 57.91,
+        "bolsonarismo": 37.19,
+        "terceira_via": 4.9,
+        "branco_nulo": 683,
+        "saldo": 20.72,
+        "total_validos": 22962
+      }
+    },
+    "projecao_2026": {
+      "petismo": 50.01,
+      "bolsonarismo": 47.36,
+      "saldo": 2.66,
+      "intervalo_confianca": 27.82
+    },
+    "classificacao_2026": "Tendência Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "EIRUNEPÉ": {
+    "nome": "EIRUNEPÉ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 82.19,
+        "bolsonarismo": 8.11,
+        "terceira_via": 9.7,
+        "branco_nulo": 1670,
+        "saldo": 74.08,
+        "total_validos": 21948
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 17.64,
+        "terceira_via": 82.36,
+        "branco_nulo": 2020,
+        "saldo": -17.64,
+        "total_validos": 24320
+      },
+      "2018": {
+        "petismo": 64.15,
+        "bolsonarismo": 23.65,
+        "terceira_via": 12.2,
+        "branco_nulo": 1929,
+        "saldo": 40.5,
+        "total_validos": 26123
+      },
+      "2022": {
+        "petismo": 68.86,
+        "bolsonarismo": 23.24,
+        "terceira_via": 7.91,
+        "branco_nulo": 1522,
+        "saldo": 45.62,
+        "total_validos": 29678
+      }
+    },
+    "projecao_2026": {
+      "petismo": 59.84,
+      "bolsonarismo": 31.01,
+      "saldo": 28.83,
+      "intervalo_confianca": 31.64
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ENVIRA": {
+    "nome": "ENVIRA",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 74.05,
+        "bolsonarismo": 17.96,
+        "terceira_via": 7.99,
+        "branco_nulo": 615,
+        "saldo": 56.09,
+        "total_validos": 11549
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 11.49,
+        "terceira_via": 88.51,
+        "branco_nulo": 914,
+        "saldo": -11.49,
+        "total_validos": 13513
+      },
+      "2018": {
+        "petismo": 67.34,
+        "bolsonarismo": 18.16,
+        "terceira_via": 14.5,
+        "branco_nulo": 918,
+        "saldo": 49.18,
+        "total_validos": 13464
+      },
+      "2022": {
+        "petismo": 66.95,
+        "bolsonarismo": 24.08,
+        "terceira_via": 8.97,
+        "branco_nulo": 782,
+        "saldo": 42.87,
+        "total_validos": 15110
+      }
+    },
+    "projecao_2026": {
+      "petismo": 63.6,
+      "bolsonarismo": 24.18,
+      "saldo": 39.42,
+      "intervalo_confianca": 29.76
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "FONTE BOA": {
+    "nome": "FONTE BOA",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 80.33,
+        "bolsonarismo": 10.96,
+        "terceira_via": 8.72,
+        "branco_nulo": 1034,
+        "saldo": 69.37,
+        "total_validos": 16239
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 10.9,
+        "terceira_via": 89.1,
+        "branco_nulo": 1126,
+        "saldo": -10.9,
+        "total_validos": 19214
+      },
+      "2018": {
+        "petismo": 75.2,
+        "bolsonarismo": 16.07,
+        "terceira_via": 8.73,
+        "branco_nulo": 924,
+        "saldo": 59.12,
+        "total_validos": 20094
+      },
+      "2022": {
+        "petismo": 73.21,
+        "bolsonarismo": 21.33,
+        "terceira_via": 5.45,
+        "branco_nulo": 765,
+        "saldo": 51.88,
+        "total_validos": 23090
+      }
+    },
+    "projecao_2026": {
+      "petismo": 70.65,
+      "bolsonarismo": 23.89,
+      "saldo": 46.76,
+      "intervalo_confianca": 32.57
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "GUAJARÁ": {
+    "nome": "GUAJARÁ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 55.25,
+        "bolsonarismo": 35.25,
+        "terceira_via": 9.5,
+        "branco_nulo": 572,
+        "saldo": 20.0,
+        "total_validos": 7886
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 21.77,
+        "terceira_via": 78.23,
+        "branco_nulo": 780,
+        "saldo": -21.77,
+        "total_validos": 10497
+      },
+      "2018": {
+        "petismo": 42.9,
+        "bolsonarismo": 42.73,
+        "terceira_via": 14.37,
+        "branco_nulo": 909,
+        "saldo": 0.17,
+        "total_validos": 12522
+      },
+      "2022": {
+        "petismo": 38.48,
+        "bolsonarismo": 54.67,
+        "terceira_via": 6.85,
+        "branco_nulo": 601,
+        "saldo": -16.19,
+        "total_validos": 15659
+      }
+    },
+    "projecao_2026": {
+      "petismo": 32.31,
+      "bolsonarismo": 58.41,
+      "saldo": -26.1,
+      "intervalo_confianca": 20.64
+    },
+    "classificacao_2026": "Bastião Bolsonarista",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "HUMAITÁ": {
+    "nome": "HUMAITÁ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 75.33,
+        "bolsonarismo": 16.76,
+        "terceira_via": 7.91,
+        "branco_nulo": 1543,
+        "saldo": 58.57,
+        "total_validos": 34526
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 21.95,
+        "terceira_via": 78.05,
+        "branco_nulo": 2108,
+        "saldo": -21.95,
+        "total_validos": 38586
+      },
+      "2018": {
+        "petismo": 51.3,
+        "bolsonarismo": 37.41,
+        "terceira_via": 11.3,
+        "branco_nulo": 2215,
+        "saldo": 13.89,
+        "total_validos": 39304
+      },
+      "2022": {
+        "petismo": 51.43,
+        "bolsonarismo": 42.72,
+        "terceira_via": 5.85,
+        "branco_nulo": 1340,
+        "saldo": 8.72,
+        "total_validos": 48626
+      }
+    },
+    "projecao_2026": {
+      "petismo": 39.42,
+      "bolsonarismo": 53.05,
+      "saldo": -13.63,
+      "intervalo_confianca": 27.41
+    },
+    "classificacao_2026": "Tendência Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "IPIXUNA": {
+    "nome": "IPIXUNA",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 58.84,
+        "bolsonarismo": 29.46,
+        "terceira_via": 11.7,
+        "branco_nulo": 910,
+        "saldo": 29.37,
+        "total_validos": 9202
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 12.27,
+        "terceira_via": 87.73,
+        "branco_nulo": 1062,
+        "saldo": -12.27,
+        "total_validos": 12602
+      },
+      "2018": {
+        "petismo": 69.68,
+        "bolsonarismo": 17.06,
+        "terceira_via": 13.25,
+        "branco_nulo": 1070,
+        "saldo": 52.62,
+        "total_validos": 13982
+      },
+      "2022": {
+        "petismo": 62.25,
+        "bolsonarismo": 27.99,
+        "terceira_via": 9.76,
+        "branco_nulo": 916,
+        "saldo": 34.25,
+        "total_validos": 15450
+      }
+    },
+    "projecao_2026": {
+      "petismo": 67.67,
+      "bolsonarismo": 21.79,
+      "saldo": 45.88,
+      "intervalo_confianca": 26.34
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "estável"
+    }
+  },
+  "IRANDUBA": {
+    "nome": "IRANDUBA",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 81.88,
+        "bolsonarismo": 6.22,
+        "terceira_via": 11.9,
+        "branco_nulo": 1785,
+        "saldo": 75.65,
+        "total_validos": 37720
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.2,
+        "terceira_via": 84.8,
+        "branco_nulo": 2522,
+        "saldo": -15.2,
+        "total_validos": 38243
+      },
+      "2018": {
+        "petismo": 54.95,
+        "bolsonarismo": 32.54,
+        "terceira_via": 12.5,
+        "branco_nulo": 3280,
+        "saldo": 22.41,
+        "total_validos": 51460
+      },
+      "2022": {
+        "petismo": 52.72,
+        "bolsonarismo": 40.63,
+        "terceira_via": 6.65,
+        "branco_nulo": 2042,
+        "saldo": 12.09,
+        "total_validos": 60103
+      }
+    },
+    "projecao_2026": {
+      "petismo": 39.26,
+      "bolsonarismo": 53.79,
+      "saldo": -14.53,
+      "intervalo_confianca": 29.44
+    },
+    "classificacao_2026": "Tendência Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ITACOATIARA": {
+    "nome": "ITACOATIARA",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 73.79,
+        "bolsonarismo": 12.9,
+        "terceira_via": 13.31,
+        "branco_nulo": 3215,
+        "saldo": 60.89,
+        "total_validos": 80901
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 19.96,
+        "terceira_via": 80.04,
+        "branco_nulo": 4915,
+        "saldo": -19.96,
+        "total_validos": 93875
+      },
+      "2018": {
+        "petismo": 58.29,
+        "bolsonarismo": 30.28,
+        "terceira_via": 11.42,
+        "branco_nulo": 5008,
+        "saldo": 28.01,
+        "total_validos": 98907
+      },
+      "2022": {
+        "petismo": 61.13,
+        "bolsonarismo": 32.69,
+        "terceira_via": 6.18,
+        "branco_nulo": 3031,
+        "saldo": 28.44,
+        "total_validos": 106422
+      }
+    },
+    "projecao_2026": {
+      "petismo": 53.38,
+      "bolsonarismo": 41.38,
+      "saldo": 12.0,
+      "intervalo_confianca": 28.4
+    },
+    "classificacao_2026": "Tendência Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ITAMARATI": {
+    "nome": "ITAMARATI",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 79.91,
+        "bolsonarismo": 11.79,
+        "terceira_via": 8.3,
+        "branco_nulo": 411,
+        "saldo": 68.13,
+        "total_validos": 6328
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 24.1,
+        "terceira_via": 75.9,
+        "branco_nulo": 533,
+        "saldo": -24.1,
+        "total_validos": 8231
+      },
+      "2018": {
+        "petismo": 73.82,
+        "bolsonarismo": 14.91,
+        "terceira_via": 11.27,
+        "branco_nulo": 524,
+        "saldo": 58.92,
+        "total_validos": 8996
+      },
+      "2022": {
+        "petismo": 71.74,
+        "bolsonarismo": 21.96,
+        "terceira_via": 6.3,
+        "branco_nulo": 417,
+        "saldo": 49.79,
+        "total_validos": 10157
+      }
+    },
+    "projecao_2026": {
+      "petismo": 68.7,
+      "bolsonarismo": 23.52,
+      "saldo": 45.18,
+      "intervalo_confianca": 32.21
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "ITAPIRANGA": {
+    "nome": "ITAPIRANGA",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 79.12,
+        "bolsonarismo": 11.14,
+        "terceira_via": 9.74,
+        "branco_nulo": 249,
+        "saldo": 67.98,
+        "total_validos": 8366
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 16.55,
+        "terceira_via": 83.45,
+        "branco_nulo": 392,
+        "saldo": -16.55,
+        "total_validos": 10211
+      },
+      "2018": {
+        "petismo": 54.98,
+        "bolsonarismo": 36.11,
+        "terceira_via": 8.91,
+        "branco_nulo": 383,
+        "saldo": 18.87,
+        "total_validos": 10366
+      },
+      "2022": {
+        "petismo": 56.89,
+        "bolsonarismo": 38.68,
+        "terceira_via": 4.44,
+        "branco_nulo": 332,
+        "saldo": 18.21,
+        "total_validos": 12687
+      }
+    },
+    "projecao_2026": {
+      "petismo": 44.82,
+      "bolsonarismo": 51.17,
+      "saldo": -6.34,
+      "intervalo_confianca": 29.13
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "JAPURÁ": {
+    "nome": "JAPURÁ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 83.02,
+        "bolsonarismo": 10.91,
+        "terceira_via": 6.07,
+        "branco_nulo": 158,
+        "saldo": 72.11,
+        "total_validos": 4105
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 23.13,
+        "terceira_via": 76.87,
+        "branco_nulo": 256,
+        "saldo": -23.13,
+        "total_validos": 5283
+      },
+      "2018": {
+        "petismo": 58.99,
+        "bolsonarismo": 21.45,
+        "terceira_via": 19.56,
+        "branco_nulo": 227,
+        "saldo": 37.54,
+        "total_validos": 5599
+      },
+      "2022": {
+        "petismo": 56.4,
+        "bolsonarismo": 35.27,
+        "terceira_via": 8.32,
+        "branco_nulo": 240,
+        "saldo": 21.13,
+        "total_validos": 6464
+      }
+    },
+    "projecao_2026": {
+      "petismo": 44.39,
+      "bolsonarismo": 40.54,
+      "saldo": 3.85,
+      "intervalo_confianca": 30.37
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "JURUÁ": {
+    "nome": "JURUÁ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "petismo": 47.04,
+        "bolsonarismo": 46.3,
+        "terceira_via": 6.67,
+        "branco_nulo": 391,
+        "saldo": 0.74,
+        "total_validos": 6616
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 31.34,
+        "terceira_via": 68.66,
+        "branco_nulo": 575,
+        "saldo": -31.34,
+        "total_validos": 8425
+      },
+      "2018": {
+        "petismo": 58.65,
+        "bolsonarismo": 25.72,
+        "terceira_via": 15.63,
+        "branco_nulo": 663,
+        "saldo": 32.93,
+        "total_validos": 8876
+      },
+      "2022": {
+        "petismo": 56.93,
+        "bolsonarismo": 33.9,
+        "terceira_via": 9.17,
+        "branco_nulo": 529,
+        "saldo": 23.03,
+        "total_validos": 10345
+      }
+    },
+    "projecao_2026": {
+      "petismo": 62.74,
+      "bolsonarismo": 23.61,
+      "saldo": 39.13,
+      "intervalo_confianca": 21.75
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "decrescente"
+    }
+  },
+  "JUTAÍ": {
+    "nome": "JUTAÍ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 75.11,
+        "bolsonarismo": 15.51,
+        "terceira_via": 9.38,
+        "branco_nulo": 839,
+        "saldo": 59.6,
+        "total_validos": 11458
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 9.05,
+        "terceira_via": 90.95,
+        "branco_nulo": 1231,
+        "saldo": -9.05,
+        "total_validos": 14428
+      },
+      "2018": {
+        "petismo": 72.09,
+        "bolsonarismo": 15.96,
+        "terceira_via": 11.94,
+        "branco_nulo": 1052,
+        "saldo": 56.13,
+        "total_validos": 16100
+      },
+      "2022": {
+        "petismo": 69.29,
+        "bolsonarismo": 22.37,
+        "terceira_via": 8.35,
+        "branco_nulo": 914,
+        "saldo": 46.92,
+        "total_validos": 19233
+      }
+    },
+    "projecao_2026": {
+      "petismo": 67.78,
+      "bolsonarismo": 22.6,
+      "saldo": 45.19,
+      "intervalo_confianca": 30.71
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "LÁBREA": {
+    "nome": "LÁBREA",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "petismo": 76.67,
+        "bolsonarismo": 14.39,
+        "terceira_via": 8.94,
+        "branco_nulo": 1419,
+        "saldo": 62.29,
+        "total_validos": 24843
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.24,
+        "terceira_via": 84.76,
+        "branco_nulo": 1962,
+        "saldo": -15.24,
+        "total_validos": 28543
+      },
+      "2018": {
+        "petismo": 68.46,
+        "bolsonarismo": 21.28,
+        "terceira_via": 10.26,
+        "branco_nulo": 1853,
+        "saldo": 47.18,
+        "total_validos": 32634
+      },
+      "2022": {
+        "petismo": 62.3,
+        "bolsonarismo": 31.62,
+        "terceira_via": 6.08,
+        "branco_nulo": 1295,
+        "saldo": 30.67,
+        "total_validos": 38033
+      }
+    },
+    "projecao_2026": {
+      "petismo": 58.2,
+      "bolsonarismo": 35.07,
+      "saldo": 23.13,
+      "intervalo_confianca": 30.24
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MANACAPURU": {
+    "nome": "MANACAPURU",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 75.04,
+        "bolsonarismo": 11.32,
+        "terceira_via": 13.64,
+        "branco_nulo": 4246,
+        "saldo": 63.73,
+        "total_validos": 82448
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 21.31,
+        "terceira_via": 78.69,
+        "branco_nulo": 5561,
+        "saldo": -21.31,
+        "total_validos": 89405
+      },
+      "2018": {
+        "petismo": 53.14,
+        "bolsonarismo": 34.77,
+        "terceira_via": 12.1,
+        "branco_nulo": 5985,
+        "saldo": 18.37,
+        "total_validos": 101029
+      },
+      "2022": {
+        "petismo": 52.5,
+        "bolsonarismo": 41.53,
+        "terceira_via": 5.97,
+        "branco_nulo": 3735,
+        "saldo": 10.97,
+        "total_validos": 112224
+      }
+    },
+    "projecao_2026": {
+      "petismo": 41.55,
+      "bolsonarismo": 53.26,
+      "saldo": -11.7,
+      "intervalo_confianca": 27.56
+    },
+    "classificacao_2026": "Tendência Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MANAQUIRI": {
+    "nome": "MANAQUIRI",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 85.73,
+        "bolsonarismo": 4.7,
+        "terceira_via": 9.57,
+        "branco_nulo": 717,
+        "saldo": 81.03,
+        "total_validos": 14563
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 10.49,
+        "terceira_via": 89.51,
+        "branco_nulo": 996,
+        "saldo": -10.49,
+        "total_validos": 17230
+      },
+      "2018": {
+        "petismo": 69.65,
+        "bolsonarismo": 19.52,
+        "terceira_via": 10.84,
+        "branco_nulo": 1095,
+        "saldo": 50.13,
+        "total_validos": 18272
+      },
+      "2022": {
+        "petismo": 65.74,
+        "bolsonarismo": 28.32,
+        "terceira_via": 5.94,
+        "branco_nulo": 740,
+        "saldo": 37.42,
+        "total_validos": 20945
+      }
+    },
+    "projecao_2026": {
+      "petismo": 57.7,
+      "bolsonarismo": 35.73,
+      "saldo": 21.97,
+      "intervalo_confianca": 32.77
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MANAUS": {
+    "nome": "MANAUS",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 63.72,
+        "bolsonarismo": 12.82,
+        "terceira_via": 23.46,
+        "branco_nulo": 100822,
+        "saldo": 50.89,
+        "total_validos": 1876551
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 30.65,
+        "terceira_via": 69.35,
+        "branco_nulo": 161094,
+        "saldo": -30.65,
+        "total_validos": 2091128
+      },
+      "2018": {
+        "petismo": 26.38,
+        "bolsonarismo": 56.88,
+        "terceira_via": 16.74,
+        "branco_nulo": 170641,
+        "saldo": -30.5,
+        "total_validos": 2298280
+      },
+      "2022": {
+        "petismo": 36.27,
+        "bolsonarismo": 54.96,
+        "terceira_via": 8.77,
+        "branco_nulo": 100217,
+        "saldo": -18.68,
+        "total_validos": 2393585
+      }
+    },
+    "projecao_2026": {
+      "petismo": 17.6,
+      "bolsonarismo": 76.99,
+      "saldo": -59.39,
+      "intervalo_confianca": 21.92
+    },
+    "classificacao_2026": "Bastião Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MANICORÉ": {
+    "nome": "MANICORÉ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 70.62,
+        "bolsonarismo": 23.06,
+        "terceira_via": 6.33,
+        "branco_nulo": 1411,
+        "saldo": 47.56,
+        "total_validos": 30978
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 21.48,
+        "terceira_via": 78.52,
+        "branco_nulo": 1872,
+        "saldo": -21.48,
+        "total_validos": 35821
+      },
+      "2018": {
+        "petismo": 64.64,
+        "bolsonarismo": 24.51,
+        "terceira_via": 10.85,
+        "branco_nulo": 1655,
+        "saldo": 40.13,
+        "total_validos": 37759
+      },
+      "2022": {
+        "petismo": 63.14,
+        "bolsonarismo": 32.02,
+        "terceira_via": 4.84,
+        "branco_nulo": 1093,
+        "saldo": 31.13,
+        "total_validos": 48541
+      }
+    },
+    "projecao_2026": {
+      "petismo": 60.15,
+      "bolsonarismo": 32.75,
+      "saldo": 27.41,
+      "intervalo_confianca": 28.38
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MARAÃ": {
+    "nome": "MARAÃ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 77.79,
+        "bolsonarismo": 12.88,
+        "terceira_via": 9.33,
+        "branco_nulo": 487,
+        "saldo": 64.91,
+        "total_validos": 7586
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 8.04,
+        "terceira_via": 91.96,
+        "branco_nulo": 638,
+        "saldo": -8.04,
+        "total_validos": 11045
+      },
+      "2018": {
+        "petismo": 75.97,
+        "bolsonarismo": 15.34,
+        "terceira_via": 8.69,
+        "branco_nulo": 497,
+        "saldo": 60.63,
+        "total_validos": 10860
+      },
+      "2022": {
+        "petismo": 68.92,
+        "bolsonarismo": 25.67,
+        "terceira_via": 5.41,
+        "branco_nulo": 372,
+        "saldo": 43.25,
+        "total_validos": 11562
+      }
+    },
+    "projecao_2026": {
+      "petismo": 68.01,
+      "bolsonarismo": 26.9,
+      "saldo": 41.11,
+      "intervalo_confianca": 31.84
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "MAUÉS": {
+    "nome": "MAUÉS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 83.75,
+        "bolsonarismo": 6.2,
+        "terceira_via": 10.04,
+        "branco_nulo": 1740,
+        "saldo": 77.55,
+        "total_validos": 37118
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 11.34,
+        "terceira_via": 88.66,
+        "branco_nulo": 2253,
+        "saldo": -11.34,
+        "total_validos": 40254
+      },
+      "2018": {
+        "petismo": 77.7,
+        "bolsonarismo": 14.02,
+        "terceira_via": 8.28,
+        "branco_nulo": 1710,
+        "saldo": 63.68,
+        "total_validos": 42597
+      },
+      "2022": {
+        "petismo": 81.71,
+        "bolsonarismo": 13.98,
+        "terceira_via": 4.31,
+        "branco_nulo": 1416,
+        "saldo": 67.73,
+        "total_validos": 52977
+      }
+    },
+    "projecao_2026": {
+      "petismo": 78.69,
+      "bolsonarismo": 17.89,
+      "saldo": 60.8,
+      "intervalo_confianca": 34.24
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "NHAMUNDÁ": {
+    "nome": "NHAMUNDÁ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 79.16,
+        "bolsonarismo": 14.43,
+        "terceira_via": 6.41,
+        "branco_nulo": 567,
+        "saldo": 64.73,
+        "total_validos": 15034
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.07,
+        "terceira_via": 84.93,
+        "branco_nulo": 719,
+        "saldo": -15.07,
+        "total_validos": 17496
+      },
+      "2018": {
+        "petismo": 80.21,
+        "bolsonarismo": 13.06,
+        "terceira_via": 6.73,
+        "branco_nulo": 636,
+        "saldo": 67.15,
+        "total_validos": 18606
+      },
+      "2022": {
+        "petismo": 83.13,
+        "bolsonarismo": 13.25,
+        "terceira_via": 3.63,
+        "branco_nulo": 465,
+        "saldo": 69.88,
+        "total_validos": 21871
+      }
+    },
+    "projecao_2026": {
+      "petismo": 83.66,
+      "bolsonarismo": 12.56,
+      "saldo": 71.09,
+      "intervalo_confianca": 33.48
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "estável"
+    }
+  },
+  "NOVA OLINDA DO NORTE": {
+    "nome": "NOVA OLINDA DO NORTE",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 83.54,
+        "bolsonarismo": 7.46,
+        "terceira_via": 9.0,
+        "branco_nulo": 886,
+        "saldo": 76.07,
+        "total_validos": 17939
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 12.83,
+        "terceira_via": 87.17,
+        "branco_nulo": 1245,
+        "saldo": -12.83,
+        "total_validos": 21501
+      },
+      "2018": {
+        "petismo": 73.66,
+        "bolsonarismo": 16.49,
+        "terceira_via": 9.86,
+        "branco_nulo": 1239,
+        "saldo": 57.17,
+        "total_validos": 23143
+      },
+      "2022": {
+        "petismo": 75.4,
+        "bolsonarismo": 18.75,
+        "terceira_via": 5.85,
+        "branco_nulo": 904,
+        "saldo": 56.65,
+        "total_validos": 27754
+      }
+    },
+    "projecao_2026": {
+      "petismo": 70.46,
+      "bolsonarismo": 23.27,
+      "saldo": 47.2,
+      "intervalo_confianca": 33.33
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "NOVO AIRÃO": {
+    "nome": "NOVO AIRÃO",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 75.07,
+        "bolsonarismo": 14.33,
+        "terceira_via": 10.6,
+        "branco_nulo": 479,
+        "saldo": 60.74,
+        "total_validos": 9872
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 25.93,
+        "terceira_via": 74.07,
+        "branco_nulo": 841,
+        "saldo": -25.93,
+        "total_validos": 12592
+      },
+      "2018": {
+        "petismo": 51.61,
+        "bolsonarismo": 36.33,
+        "terceira_via": 12.06,
+        "branco_nulo": 926,
+        "saldo": 15.28,
+        "total_validos": 15494
+      },
+      "2022": {
+        "petismo": 50.66,
+        "bolsonarismo": 43.26,
+        "terceira_via": 6.09,
+        "branco_nulo": 515,
+        "saldo": 7.4,
+        "total_validos": 17117
+      }
+    },
+    "projecao_2026": {
+      "petismo": 38.93,
+      "bolsonarismo": 54.26,
+      "saldo": -15.33,
+      "intervalo_confianca": 27.29
+    },
+    "classificacao_2026": "Tendência Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "NOVO ARIPUANÃ": {
+    "nome": "NOVO ARIPUANÃ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "petismo": 80.58,
+        "bolsonarismo": 10.31,
+        "terceira_via": 9.11,
+        "branco_nulo": 732,
+        "saldo": 70.27,
+        "total_validos": 13396
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 13.29,
+        "terceira_via": 86.71,
+        "branco_nulo": 905,
+        "saldo": -13.29,
+        "total_validos": 14700
+      },
+      "2018": {
+        "petismo": 73.3,
+        "bolsonarismo": 16.52,
+        "terceira_via": 10.19,
+        "branco_nulo": 851,
+        "saldo": 56.78,
+        "total_validos": 16051
+      },
+      "2022": {
+        "petismo": 72.57,
+        "bolsonarismo": 22.1,
+        "terceira_via": 5.33,
+        "branco_nulo": 603,
+        "saldo": 50.47,
+        "total_validos": 18673
+      }
+    },
+    "projecao_2026": {
+      "petismo": 68.93,
+      "bolsonarismo": 25.21,
+      "saldo": 43.73,
+      "intervalo_confianca": 32.37
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "PARINTINS": {
+    "nome": "PARINTINS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 77.18,
+        "bolsonarismo": 12.83,
+        "terceira_via": 9.99,
+        "branco_nulo": 2773,
+        "saldo": 64.35,
+        "total_validos": 84610
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 16.92,
+        "terceira_via": 83.08,
+        "branco_nulo": 4128,
+        "saldo": -16.92,
+        "total_validos": 91019
+      },
+      "2018": {
+        "petismo": 74.6,
+        "bolsonarismo": 15.53,
+        "terceira_via": 9.88,
+        "branco_nulo": 4265,
+        "saldo": 59.07,
+        "total_validos": 101271
+      },
+      "2022": {
+        "petismo": 79.08,
+        "bolsonarismo": 15.59,
+        "terceira_via": 5.33,
+        "branco_nulo": 2538,
+        "saldo": 63.49,
+        "total_validos": 107372
+      }
+    },
+    "projecao_2026": {
+      "petismo": 77.79,
+      "bolsonarismo": 16.94,
+      "saldo": 60.85,
+      "intervalo_confianca": 32.13
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "estável"
+    }
+  },
+  "PAUINI": {
+    "nome": "PAUINI",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "petismo": 73.16,
+        "bolsonarismo": 17.53,
+        "terceira_via": 9.31,
+        "branco_nulo": 655,
+        "saldo": 55.63,
+        "total_validos": 10700
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 16.64,
+        "terceira_via": 83.36,
+        "branco_nulo": 730,
+        "saldo": -16.64,
+        "total_validos": 11518
+      },
+      "2018": {
+        "petismo": 66.85,
+        "bolsonarismo": 22.24,
+        "terceira_via": 10.91,
+        "branco_nulo": 672,
+        "saldo": 44.6,
+        "total_validos": 13010
+      },
+      "2022": {
+        "petismo": 66.33,
+        "bolsonarismo": 28.28,
+        "terceira_via": 5.4,
+        "branco_nulo": 492,
+        "saldo": 38.05,
+        "total_validos": 15143
+      }
+    },
+    "projecao_2026": {
+      "petismo": 63.18,
+      "bolsonarismo": 30.64,
+      "saldo": 32.54,
+      "intervalo_confianca": 29.45
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "PRESIDENTE FIGUEIREDO": {
+    "nome": "PRESIDENTE FIGUEIREDO",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 75.87,
+        "bolsonarismo": 10.5,
+        "terceira_via": 13.63,
+        "branco_nulo": 1149,
+        "saldo": 65.37,
+        "total_validos": 23033
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 18.12,
+        "terceira_via": 81.88,
+        "branco_nulo": 1816,
+        "saldo": -18.12,
+        "total_validos": 28217
+      },
+      "2018": {
+        "petismo": 49.64,
+        "bolsonarismo": 36.67,
+        "terceira_via": 13.69,
+        "branco_nulo": 2016,
+        "saldo": 12.98,
+        "total_validos": 33231
+      },
+      "2022": {
+        "petismo": 50.78,
+        "bolsonarismo": 42.67,
+        "terceira_via": 6.55,
+        "branco_nulo": 1133,
+        "saldo": 8.11,
+        "total_validos": 36210
+      }
+    },
+    "projecao_2026": {
+      "petismo": 37.67,
+      "bolsonarismo": 55.76,
+      "saldo": -18.09,
+      "intervalo_confianca": 27.37
+    },
+    "classificacao_2026": "Bastião Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "RIO PRETO DA EVA": {
+    "nome": "RIO PRETO DA EVA",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 75.13,
+        "bolsonarismo": 11.41,
+        "terceira_via": 13.46,
+        "branco_nulo": 811,
+        "saldo": 63.73,
+        "total_validos": 17734
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 21.73,
+        "terceira_via": 78.27,
+        "branco_nulo": 1548,
+        "saldo": -21.73,
+        "total_validos": 20289
+      },
+      "2018": {
+        "petismo": 46.65,
+        "bolsonarismo": 40.88,
+        "terceira_via": 12.47,
+        "branco_nulo": 1445,
+        "saldo": 5.77,
+        "total_validos": 22685
+      },
+      "2022": {
+        "petismo": 50.45,
+        "bolsonarismo": 42.79,
+        "terceira_via": 6.76,
+        "branco_nulo": 967,
+        "saldo": 7.66,
+        "total_validos": 27879
+      }
+    },
+    "projecao_2026": {
+      "petismo": 36.21,
+      "bolsonarismo": 57.53,
+      "saldo": -21.31,
+      "intervalo_confianca": 26.98
+    },
+    "classificacao_2026": "Bastião Bolsonarista",
+    "tendencia": {
+      "petismo": "decrescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "SANTA ISABEL DO RIO NEGRO": {
+    "nome": "SANTA ISABEL DO RIO NEGRO",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "petismo": 57.1,
+        "bolsonarismo": 32.99,
+        "terceira_via": 9.91,
+        "branco_nulo": 372,
+        "saldo": 24.11,
+        "total_validos": 6793
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 23.45,
+        "terceira_via": 76.55,
+        "branco_nulo": 532,
+        "saldo": -23.45,
+        "total_validos": 7977
+      },
+      "2018": {
+        "petismo": 56.64,
+        "bolsonarismo": 28.97,
+        "terceira_via": 14.39,
+        "branco_nulo": 490,
+        "saldo": 27.67,
+        "total_validos": 8886
+      },
+      "2022": {
+        "petismo": 69.32,
+        "bolsonarismo": 23.56,
+        "terceira_via": 7.13,
+        "branco_nulo": 463,
+        "saldo": 45.76,
+        "total_validos": 10859
+      }
+    },
+    "projecao_2026": {
+      "petismo": 69.09,
+      "bolsonarismo": 21.55,
+      "saldo": 47.54,
+      "intervalo_confianca": 24.8
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "decrescente"
+    }
+  },
+  "SANTO ANTÔNIO DO IÇÁ": {
+    "nome": "SANTO ANTÔNIO DO IÇÁ",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 65.03,
+        "bolsonarismo": 23.83,
+        "terceira_via": 11.13,
+        "branco_nulo": 1053,
+        "saldo": 41.2,
+        "total_validos": 15667
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.78,
+        "terceira_via": 84.22,
+        "branco_nulo": 1396,
+        "saldo": -15.78,
+        "total_validos": 17899
+      },
+      "2018": {
+        "petismo": 74.52,
+        "bolsonarismo": 14.11,
+        "terceira_via": 11.38,
+        "branco_nulo": 1111,
+        "saldo": 60.41,
+        "total_validos": 20970
+      },
+      "2022": {
+        "petismo": 70.08,
+        "bolsonarismo": 24.38,
+        "terceira_via": 5.54,
+        "branco_nulo": 877,
+        "saldo": 45.7,
+        "total_validos": 25335
+      }
+    },
+    "projecao_2026": {
+      "petismo": 74.83,
+      "bolsonarismo": 19.52,
+      "saldo": 55.31,
+      "intervalo_confianca": 28.75
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "estável"
+    }
+  },
+  "SILVES": {
+    "nome": "SILVES",
+    "calha": "Região Metropolitana",
+    "historico": {
+      "2010": {
+        "petismo": 84.8,
+        "bolsonarismo": 6.69,
+        "terceira_via": 8.52,
+        "branco_nulo": 263,
+        "saldo": 78.11,
+        "total_validos": 8406
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 8.82,
+        "terceira_via": 91.18,
+        "branco_nulo": 424,
+        "saldo": -8.82,
+        "total_validos": 9801
+      },
+      "2018": {
+        "petismo": 77.3,
+        "bolsonarismo": 15.42,
+        "terceira_via": 7.27,
+        "branco_nulo": 430,
+        "saldo": 61.88,
+        "total_validos": 10600
+      },
+      "2022": {
+        "petismo": 78.8,
+        "bolsonarismo": 16.87,
+        "terceira_via": 4.33,
+        "branco_nulo": 291,
+        "saldo": 61.93,
+        "total_validos": 12591
+      }
+    },
+    "projecao_2026": {
+      "petismo": 75.05,
+      "bolsonarismo": 21.24,
+      "saldo": 53.82,
+      "intervalo_confianca": 34.25
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "SÃO GABRIEL DA CACHOEIRA": {
+    "nome": "SÃO GABRIEL DA CACHOEIRA",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "petismo": 77.44,
+        "bolsonarismo": 14.15,
+        "terceira_via": 8.41,
+        "branco_nulo": 1198,
+        "saldo": 63.29,
+        "total_validos": 29739
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 12.9,
+        "terceira_via": 87.1,
+        "branco_nulo": 1572,
+        "saldo": -12.9,
+        "total_validos": 36195
+      },
+      "2018": {
+        "petismo": 72.54,
+        "bolsonarismo": 19.87,
+        "terceira_via": 7.6,
+        "branco_nulo": 1198,
+        "saldo": 52.67,
+        "total_validos": 36898
+      },
+      "2022": {
+        "petismo": 78.05,
+        "bolsonarismo": 18.02,
+        "terceira_via": 3.93,
+        "branco_nulo": 994,
+        "saldo": 60.04,
+        "total_validos": 43497
+      }
+    },
+    "projecao_2026": {
+      "petismo": 75.6,
+      "bolsonarismo": 20.88,
+      "saldo": 54.72,
+      "intervalo_confianca": 31.92
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "SÃO PAULO DE OLIVENÇA": {
+    "nome": "SÃO PAULO DE OLIVENÇA",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 71.39,
+        "bolsonarismo": 20.18,
+        "terceira_via": 8.43,
+        "branco_nulo": 1232,
+        "saldo": 51.2,
+        "total_validos": 19547
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 13.01,
+        "terceira_via": 86.99,
+        "branco_nulo": 1866,
+        "saldo": -13.01,
+        "total_validos": 23499
+      },
+      "2018": {
+        "petismo": 78.64,
+        "bolsonarismo": 9.55,
+        "terceira_via": 11.81,
+        "branco_nulo": 1405,
+        "saldo": 69.08,
+        "total_validos": 26918
+      },
+      "2022": {
+        "petismo": 80.01,
+        "bolsonarismo": 14.3,
+        "terceira_via": 5.69,
+        "branco_nulo": 1003,
+        "saldo": 65.7,
+        "total_validos": 29738
+      }
+    },
+    "projecao_2026": {
+      "petismo": 83.64,
+      "bolsonarismo": 8.99,
+      "saldo": 74.65,
+      "intervalo_confianca": 31.25
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "decrescente"
+    }
+  },
+  "SÃO SEBASTIÃO DO UATUMÃ": {
+    "nome": "SÃO SEBASTIÃO DO UATUMÃ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 68.79,
+        "bolsonarismo": 18.54,
+        "terceira_via": 12.67,
+        "branco_nulo": 282,
+        "saldo": 50.24,
+        "total_validos": 6843
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 19.83,
+        "terceira_via": 80.17,
+        "branco_nulo": 397,
+        "saldo": -19.83,
+        "total_validos": 7933
+      },
+      "2018": {
+        "petismo": 51.57,
+        "bolsonarismo": 36.89,
+        "terceira_via": 11.53,
+        "branco_nulo": 547,
+        "saldo": 14.68,
+        "total_validos": 9462
+      },
+      "2022": {
+        "petismo": 50.13,
+        "bolsonarismo": 42.88,
+        "terceira_via": 6.99,
+        "branco_nulo": 395,
+        "saldo": 7.25,
+        "total_validos": 10732
+      }
+    },
+    "projecao_2026": {
+      "petismo": 41.52,
+      "bolsonarismo": 52.06,
+      "saldo": -10.53,
+      "intervalo_confianca": 25.68
+    },
+    "classificacao_2026": "Tendência Bolsonarista",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "TABATINGA": {
+    "nome": "TABATINGA",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 73.18,
+        "bolsonarismo": 14.44,
+        "terceira_via": 12.38,
+        "branco_nulo": 2598,
+        "saldo": 58.74,
+        "total_validos": 37010
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.68,
+        "terceira_via": 84.32,
+        "branco_nulo": 3636,
+        "saldo": -15.68,
+        "total_validos": 42502
+      },
+      "2018": {
+        "petismo": 61.59,
+        "bolsonarismo": 27.01,
+        "terceira_via": 11.41,
+        "branco_nulo": 3067,
+        "saldo": 34.58,
+        "total_validos": 50139
+      },
+      "2022": {
+        "petismo": 63.26,
+        "bolsonarismo": 29.77,
+        "terceira_via": 6.97,
+        "branco_nulo": 2212,
+        "saldo": 33.5,
+        "total_validos": 55015
+      }
+    },
+    "projecao_2026": {
+      "petismo": 57.47,
+      "bolsonarismo": 36.06,
+      "saldo": 21.41,
+      "intervalo_confianca": 28.7
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "TAPAUÁ": {
+    "nome": "TAPAUÁ",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "petismo": 71.1,
+        "bolsonarismo": 19.09,
+        "terceira_via": 9.8,
+        "branco_nulo": 981,
+        "saldo": 52.01,
+        "total_validos": 12800
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 17.87,
+        "terceira_via": 82.13,
+        "branco_nulo": 976,
+        "saldo": -17.87,
+        "total_validos": 14945
+      },
+      "2018": {
+        "petismo": 59.81,
+        "bolsonarismo": 29.19,
+        "terceira_via": 10.99,
+        "branco_nulo": 785,
+        "saldo": 30.62,
+        "total_validos": 16774
+      },
+      "2022": {
+        "petismo": 49.97,
+        "bolsonarismo": 43.46,
+        "terceira_via": 6.57,
+        "branco_nulo": 699,
+        "saldo": 6.51,
+        "total_validos": 18801
+      }
+    },
+    "projecao_2026": {
+      "petismo": 44.33,
+      "bolsonarismo": 48.51,
+      "saldo": -4.18,
+      "intervalo_confianca": 27.15
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "TEFÉ": {
+    "nome": "TEFÉ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 81.23,
+        "bolsonarismo": 8.45,
+        "terceira_via": 10.32,
+        "branco_nulo": 2198,
+        "saldo": 72.78,
+        "total_validos": 46296
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 17.82,
+        "terceira_via": 82.18,
+        "branco_nulo": 3144,
+        "saldo": -17.82,
+        "total_validos": 53874
+      },
+      "2018": {
+        "petismo": 62.64,
+        "bolsonarismo": 27.3,
+        "terceira_via": 10.06,
+        "branco_nulo": 2951,
+        "saldo": 35.33,
+        "total_validos": 58987
+      },
+      "2022": {
+        "petismo": 61.46,
+        "bolsonarismo": 33.22,
+        "terceira_via": 5.32,
+        "branco_nulo": 2033,
+        "saldo": 28.24,
+        "total_validos": 66819
+      }
+    },
+    "projecao_2026": {
+      "petismo": 52.17,
+      "bolsonarismo": 42.65,
+      "saldo": 9.52,
+      "intervalo_confianca": 30.65
+    },
+    "classificacao_2026": "Swing / Dividido",
+    "tendencia": {
+      "petismo": "estável",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "TONANTINS": {
+    "nome": "TONANTINS",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 74.33,
+        "bolsonarismo": 18.5,
+        "terceira_via": 7.16,
+        "branco_nulo": 608,
+        "saldo": 55.83,
+        "total_validos": 10111
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 14.02,
+        "terceira_via": 85.98,
+        "branco_nulo": 691,
+        "saldo": -14.02,
+        "total_validos": 12120
+      },
+      "2018": {
+        "petismo": 78.03,
+        "bolsonarismo": 13.47,
+        "terceira_via": 8.5,
+        "branco_nulo": 607,
+        "saldo": 64.57,
+        "total_validos": 13634
+      },
+      "2022": {
+        "petismo": 78.9,
+        "bolsonarismo": 15.79,
+        "terceira_via": 5.32,
+        "branco_nulo": 522,
+        "saldo": 63.11,
+        "total_validos": 16059
+      }
+    },
+    "projecao_2026": {
+      "petismo": 80.75,
+      "bolsonarismo": 13.28,
+      "saldo": 67.48,
+      "intervalo_confianca": 31.81
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "decrescente"
+    }
+  },
+  "UARINI": {
+    "nome": "UARINI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "petismo": 84.34,
+        "bolsonarismo": 8.17,
+        "terceira_via": 7.49,
+        "branco_nulo": 436,
+        "saldo": 76.17,
+        "total_validos": 7882
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 15.32,
+        "terceira_via": 84.68,
+        "branco_nulo": 553,
+        "saldo": -15.32,
+        "total_validos": 10269
+      },
+      "2018": {
+        "petismo": 69.97,
+        "bolsonarismo": 19.7,
+        "terceira_via": 10.33,
+        "branco_nulo": 498,
+        "saldo": 50.27,
+        "total_validos": 10499
+      },
+      "2022": {
+        "petismo": 64.79,
+        "bolsonarismo": 29.19,
+        "terceira_via": 6.02,
+        "branco_nulo": 384,
+        "saldo": 35.6,
+        "total_validos": 12999
+      }
+    },
+    "projecao_2026": {
+      "petismo": 57.61,
+      "bolsonarismo": 34.96,
+      "saldo": 22.65,
+      "intervalo_confianca": 32.4
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "URUCARÁ": {
+    "nome": "URUCARÁ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 83.51,
+        "bolsonarismo": 8.18,
+        "terceira_via": 8.31,
+        "branco_nulo": 490,
+        "saldo": 75.32,
+        "total_validos": 13001
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 10.21,
+        "terceira_via": 89.79,
+        "branco_nulo": 725,
+        "saldo": -10.21,
+        "total_validos": 15874
+      },
+      "2018": {
+        "petismo": 71.95,
+        "bolsonarismo": 19.91,
+        "terceira_via": 8.13,
+        "branco_nulo": 700,
+        "saldo": 52.04,
+        "total_validos": 16165
+      },
+      "2022": {
+        "petismo": 74.04,
+        "bolsonarismo": 20.91,
+        "terceira_via": 5.05,
+        "branco_nulo": 514,
+        "saldo": 53.13,
+        "total_validos": 17562
+      }
+    },
+    "projecao_2026": {
+      "petismo": 68.26,
+      "bolsonarismo": 26.78,
+      "saldo": 41.49,
+      "intervalo_confianca": 33.05
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  },
+  "URUCURITUBA": {
+    "nome": "URUCURITUBA",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "petismo": 80.54,
+        "bolsonarismo": 8.54,
+        "terceira_via": 10.92,
+        "branco_nulo": 577,
+        "saldo": 72.01,
+        "total_validos": 13389
+      },
+      "2014": {
+        "petismo": 0.0,
+        "bolsonarismo": 9.65,
+        "terceira_via": 90.35,
+        "branco_nulo": 719,
+        "saldo": -9.65,
+        "total_validos": 16296
+      },
+      "2018": {
+        "petismo": 75.4,
+        "bolsonarismo": 18.01,
+        "terceira_via": 6.59,
+        "branco_nulo": 534,
+        "saldo": 57.39,
+        "total_validos": 16947
+      },
+      "2022": {
+        "petismo": 77.06,
+        "bolsonarismo": 19.18,
+        "terceira_via": 3.76,
+        "branco_nulo": 464,
+        "saldo": 57.88,
+        "total_validos": 19011
+      }
+    },
+    "projecao_2026": {
+      "petismo": 74.49,
+      "bolsonarismo": 23.92,
+      "saldo": 50.58,
+      "intervalo_confianca": 32.89
+    },
+    "classificacao_2026": "Bastião Lulista",
+    "tendencia": {
+      "petismo": "crescente",
+      "bolsonarismo": "crescente"
+    }
+  }
+}
