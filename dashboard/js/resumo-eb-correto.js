@@ -14,19 +14,28 @@ async function initResumoEBCorreto() {
     console.log('🚀 Iniciando resumo correto de EB...');
 
     // Aguardar para garantir que o DOM está completamente pronto
-    await new Promise(resolve => setTimeout(resolve, 300));
+    await new Promise(resolve => {
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', resolve);
+        } else {
+            setTimeout(resolve, 500);
+        }
+    });
 
     try {
         // Carregar dados de 2010 (de analise_eb_completa)
         const resp2010 = await fetch('./data/ideologia/analise_eb_completa.json');
+        if (!resp2010.ok) throw new Error(`Erro ao carregar 2010: ${resp2010.status}`);
         const dados2010 = await resp2010.json();
 
         // Carregar dados de 2018 (de senador_2018_eb)
         const resp2018 = await fetch('./data/ideologia/senador_2018_eb.json');
+        if (!resp2018.ok) throw new Error(`Erro ao carregar 2018: ${resp2018.status}`);
         const dados2018 = await resp2018.json();
 
         // Carregar dados de brancos e nulos
         const respNulosBrancos = await fetch('./data/ideologia/votos_nulos_brancos_comparativo.json');
+        if (!respNulosBrancos.ok) throw new Error(`Erro ao carregar nulos/brancos: ${respNulosBrancos.status}`);
         const dadosNulosBrancos = await respNulosBrancos.json();
 
         resumoEBState.dados2010 = dados2010;
@@ -50,9 +59,18 @@ async function initResumoEBCorreto() {
 
 async function atualizarIndicadoresComRetry() {
     let tentativas = 0;
-    const maxTentativas = 10;
+    const maxTentativas = 20;
 
     while (tentativas < maxTentativas) {
+        // Verificar se o elemento existe
+        const resumoTab = document.getElementById('resumo');
+        if (!resumoTab) {
+            console.log('⏳ Tentativa', tentativas + 1, ': elemento #resumo ainda não pronto');
+            tentativas++;
+            await new Promise(resolve => setTimeout(resolve, 300));
+            continue;
+        }
+
         const sucesso = atualizarIndicadoresResumoCorreto();
         if (sucesso) {
             console.log('✓ Indicadores atualizados após', tentativas, 'tentativa(s)');
@@ -60,11 +78,12 @@ async function atualizarIndicadoresComRetry() {
         }
         tentativas++;
         console.log('⏳ Tentativa', tentativas, 'de atualizar indicadores...');
-        await new Promise(resolve => setTimeout(resolve, 500));
+        await new Promise(resolve => setTimeout(resolve, 300));
     }
 
     if (tentativas >= maxTentativas) {
         console.warn('⚠️  Não foi possível atualizar indicadores após', maxTentativas, 'tentativas');
+        console.warn('Verifique se o elemento #resumo existe no HTML');
     }
 }
 
