@@ -1,0 +1,3530 @@
+{
+  "2010": {
+    "municipios": {
+      "ALVARÃES": {
+        "calha": "Médio Solimões",
+        "votos_eb": 4277,
+        "percentual_eb": 41.05,
+        "votos_totais": 10418,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 254
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 240
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 233
+          }
+        ]
+      },
+      "AMATURÁ": {
+        "calha": "Alto Solimões",
+        "votos_eb": 2138,
+        "percentual_eb": 35.22,
+        "votos_totais": 6071,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 241
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 222
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 208
+          }
+        ]
+      },
+      "ANAMÃ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3160,
+        "percentual_eb": 40.82,
+        "votos_totais": 7741,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 201
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 200
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 195
+          }
+        ]
+      },
+      "ANORI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 5174,
+        "percentual_eb": 44.18,
+        "votos_totais": 11711,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 255
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 242
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 240
+          }
+        ]
+      },
+      "APUÍ": {
+        "calha": "Madeira",
+        "votos_eb": 2564,
+        "percentual_eb": 23.24,
+        "votos_totais": 11031,
+        "top3_candidatos": [
+          {
+            "nome": "JEFFERSON PRAIA BEZERRA",
+            "votos": 181
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 162
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 161
+          }
+        ]
+      },
+      "ATALAIA DO NORTE": {
+        "calha": "Alto Solimões",
+        "votos_eb": 3070,
+        "percentual_eb": 47.15,
+        "votos_totais": 6511,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 306
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 237
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 235
+          }
+        ]
+      },
+      "AUTAZES": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 11361,
+        "percentual_eb": 45.41,
+        "votos_totais": 25016,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 331
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 293
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 276
+          }
+        ]
+      },
+      "BARCELOS": {
+        "calha": "Rio Negro",
+        "votos_eb": 3274,
+        "percentual_eb": 33.45,
+        "votos_totais": 9787,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 183
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 175
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 172
+          }
+        ]
+      },
+      "BARREIRINHA": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 8178,
+        "percentual_eb": 42.23,
+        "votos_totais": 19365,
+        "top3_candidatos": [
+          {
+            "nome": "VOTO NULO",
+            "votos": 596
+          },
+          {
+            "nome": "VOTO NULO",
+            "votos": 522
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 253
+          }
+        ]
+      },
+      "BENJAMIN CONSTANT": {
+        "calha": "Alto Solimões",
+        "votos_eb": 10863,
+        "percentual_eb": 48.53,
+        "votos_totais": 22386,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 296
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 283
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 280
+          }
+        ]
+      },
+      "BERURI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 5007,
+        "percentual_eb": 44.99,
+        "votos_totais": 11129,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 263
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 259
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 249
+          }
+        ]
+      },
+      "BOA VISTA DO RAMOS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 5050,
+        "percentual_eb": 41.83,
+        "votos_totais": 12074,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 209
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 204
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 202
+          }
+        ]
+      },
+      "BOCA DO ACRE": {
+        "calha": "Purus",
+        "votos_eb": 8511,
+        "percentual_eb": 40.88,
+        "votos_totais": 20820,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 229
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 221
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          }
+        ]
+      },
+      "BORBA": {
+        "calha": "Madeira",
+        "votos_eb": 10635,
+        "percentual_eb": 46.65,
+        "votos_totais": 22796,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 311
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 255
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 244
+          }
+        ]
+      },
+      "CAAPIRANGA": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3646,
+        "percentual_eb": 44.3,
+        "votos_totais": 8231,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 241
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 232
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 230
+          }
+        ]
+      },
+      "CANUTAMA": {
+        "calha": "Purus",
+        "votos_eb": 2785,
+        "percentual_eb": 36.54,
+        "votos_totais": 7622,
+        "top3_candidatos": [
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 216
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 201
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 195
+          }
+        ]
+      },
+      "CARAUARI": {
+        "calha": "Juruá",
+        "votos_eb": 6403,
+        "percentual_eb": 37.22,
+        "votos_totais": 17205,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 178
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 177
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 176
+          }
+        ]
+      },
+      "CAREIRO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 9751,
+        "percentual_eb": 41.19,
+        "votos_totais": 23675,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 241
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 238
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 233
+          }
+        ]
+      },
+      "CAREIRO DA VÁRZEA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 8870,
+        "percentual_eb": 45.41,
+        "votos_totais": 19532,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 304
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 256
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 243
+          }
+        ]
+      },
+      "COARI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 19338,
+        "percentual_eb": 36.26,
+        "votos_totais": 53336,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 204
+          }
+        ]
+      },
+      "CODAJÁS": {
+        "calha": "Médio Solimões",
+        "votos_eb": 7261,
+        "percentual_eb": 43.12,
+        "votos_totais": 16838,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 270
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 255
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 250
+          }
+        ]
+      },
+      "EIRUNEPÉ": {
+        "calha": "Juruá",
+        "votos_eb": 7782,
+        "percentual_eb": 37.88,
+        "votos_totais": 20545,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 231
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 227
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 188
+          }
+        ]
+      },
+      "ENVIRA": {
+        "calha": "Juruá",
+        "votos_eb": 3325,
+        "percentual_eb": 28.55,
+        "votos_totais": 11647,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 160
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 153
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 148
+          }
+        ]
+      },
+      "FONTE BOA": {
+        "calha": "Médio Solimões",
+        "votos_eb": 6942,
+        "percentual_eb": 44.59,
+        "votos_totais": 15569,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 278
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 267
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 250
+          }
+        ]
+      },
+      "GUAJARÁ": {
+        "calha": "Juruá",
+        "votos_eb": 3007,
+        "percentual_eb": 47.15,
+        "votos_totais": 6377,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 191
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 138
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 136
+          }
+        ]
+      },
+      "HUMAITÁ": {
+        "calha": "Madeira",
+        "votos_eb": 11675,
+        "percentual_eb": 36.77,
+        "votos_totais": 31753,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 265
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 219
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          }
+        ]
+      },
+      "IPIXUNA": {
+        "calha": "Juruá",
+        "votos_eb": 2724,
+        "percentual_eb": 32.93,
+        "votos_totais": 8272,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 193
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 193
+          }
+        ]
+      },
+      "IRANDUBA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 16609,
+        "percentual_eb": 45.45,
+        "votos_totais": 36542,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 262
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 258
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 256
+          }
+        ]
+      },
+      "ITACOATIARA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 33376,
+        "percentual_eb": 42.25,
+        "votos_totais": 78996,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 300
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 293
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 285
+          }
+        ]
+      },
+      "ITAMARATI": {
+        "calha": "Juruá",
+        "votos_eb": 2743,
+        "percentual_eb": 40.79,
+        "votos_totais": 6724,
+        "top3_candidatos": [
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 284
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 264
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 249
+          }
+        ]
+      },
+      "ITAPIRANGA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 3979,
+        "percentual_eb": 45.79,
+        "votos_totais": 8690,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 251
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 250
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 248
+          }
+        ]
+      },
+      "JAPURÁ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 1620,
+        "percentual_eb": 39.06,
+        "votos_totais": 4147,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 208
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 201
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 183
+          }
+        ]
+      },
+      "JURUÁ": {
+        "calha": "Juruá",
+        "votos_eb": 1729,
+        "percentual_eb": 27.05,
+        "votos_totais": 6393,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 200
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 152
+          },
+          {
+            "nome": "ARTHUR VIRGILIO DO CARMO RIBEIRO NETO",
+            "votos": 127
+          }
+        ]
+      },
+      "JUTAÍ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 4932,
+        "percentual_eb": 46.09,
+        "votos_totais": 10701,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 230
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 224
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          }
+        ]
+      },
+      "LÁBREA": {
+        "calha": "Purus",
+        "votos_eb": 10173,
+        "percentual_eb": 42.84,
+        "votos_totais": 23747,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 253
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 246
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 239
+          }
+        ]
+      },
+      "MANACAPURU": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 26400,
+        "percentual_eb": 32.6,
+        "votos_totais": 80978,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 258
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 257
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 238
+          }
+        ]
+      },
+      "MANAQUIRI": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 6051,
+        "percentual_eb": 40.84,
+        "votos_totais": 14818,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 265
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 246
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 245
+          }
+        ]
+      },
+      "MANAUS": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 754309,
+        "percentual_eb": 42.84,
+        "votos_totais": 1760802,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 406
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 393
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 388
+          }
+        ]
+      },
+      "MANICORÉ": {
+        "calha": "Madeira",
+        "votos_eb": 10819,
+        "percentual_eb": 36.83,
+        "votos_totais": 29375,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 233
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 209
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 205
+          }
+        ]
+      },
+      "MARAÃ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 2890,
+        "percentual_eb": 35.98,
+        "votos_totais": 8033,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 169
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 166
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 165
+          }
+        ]
+      },
+      "MAUÉS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 15223,
+        "percentual_eb": 42.54,
+        "votos_totais": 35784,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 338
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 278
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 275
+          }
+        ]
+      },
+      "NHAMUNDÁ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 5716,
+        "percentual_eb": 38.0,
+        "votos_totais": 15042,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 242
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 221
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 200
+          }
+        ]
+      },
+      "NOVA OLINDA DO NORTE": {
+        "calha": "Madeira",
+        "votos_eb": 7562,
+        "percentual_eb": 42.69,
+        "votos_totais": 17712,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 259
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 247
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 244
+          }
+        ]
+      },
+      "NOVO AIRÃO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 4050,
+        "percentual_eb": 42.03,
+        "votos_totais": 9637,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 229
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 222
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          }
+        ]
+      },
+      "NOVO ARIPUANÃ": {
+        "calha": "Madeira",
+        "votos_eb": 4396,
+        "percentual_eb": 34.04,
+        "votos_totais": 12916,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 229
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 156
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 154
+          }
+        ]
+      },
+      "PARINTINS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 35717,
+        "percentual_eb": 43.53,
+        "votos_totais": 82059,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 293
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 282
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 277
+          }
+        ]
+      },
+      "PAUINI": {
+        "calha": "Purus",
+        "votos_eb": 3574,
+        "percentual_eb": 35.6,
+        "votos_totais": 10038,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 199
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 194
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 191
+          }
+        ]
+      },
+      "PRESIDENTE FIGUEIREDO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 8295,
+        "percentual_eb": 38.26,
+        "votos_totais": 21682,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 205
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 197
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 197
+          }
+        ]
+      },
+      "RIO PRETO DA EVA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 7677,
+        "percentual_eb": 44.55,
+        "votos_totais": 17231,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 282
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 260
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 252
+          }
+        ]
+      },
+      "SANTA ISABEL DO RIO NEGRO": {
+        "calha": "Rio Negro",
+        "votos_eb": 2748,
+        "percentual_eb": 42.72,
+        "votos_totais": 6433,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 234
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 212
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 212
+          }
+        ]
+      },
+      "SANTO ANTÔNIO DO IÇÁ": {
+        "calha": "Alto Solimões",
+        "votos_eb": 5208,
+        "percentual_eb": 37.36,
+        "votos_totais": 13939,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 256
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 228
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 206
+          }
+        ]
+      },
+      "SILVES": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 3922,
+        "percentual_eb": 45.12,
+        "votos_totais": 8693,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 274
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 267
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 259
+          }
+        ]
+      },
+      "SÃO GABRIEL DA CACHOEIRA": {
+        "calha": "Rio Negro",
+        "votos_eb": 13513,
+        "percentual_eb": 47.42,
+        "votos_totais": 28496,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 323
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 318
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 285
+          }
+        ]
+      },
+      "SÃO PAULO DE OLIVENÇA": {
+        "calha": "Alto Solimões",
+        "votos_eb": 8390,
+        "percentual_eb": 47.72,
+        "votos_totais": 17581,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 349
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 321
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 298
+          }
+        ]
+      },
+      "SÃO SEBASTIÃO DO UATUMÃ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 2820,
+        "percentual_eb": 41.18,
+        "votos_totais": 6848,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 298
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 243
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 231
+          }
+        ]
+      },
+      "TABATINGA": {
+        "calha": "Alto Solimões",
+        "votos_eb": 15957,
+        "percentual_eb": 47.75,
+        "votos_totais": 33420,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 310
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 302
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 300
+          }
+        ]
+      },
+      "TAPAUÁ": {
+        "calha": "Purus",
+        "votos_eb": 4062,
+        "percentual_eb": 33.19,
+        "votos_totais": 12240,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 169
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 161
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 160
+          }
+        ]
+      },
+      "TEFÉ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 18894,
+        "percentual_eb": 43.16,
+        "votos_totais": 43774,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 253
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 251
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 250
+          }
+        ]
+      },
+      "TONANTINS": {
+        "calha": "Alto Solimões",
+        "votos_eb": 4270,
+        "percentual_eb": 45.49,
+        "votos_totais": 9387,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 261
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 240
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 236
+          }
+        ]
+      },
+      "UARINI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3754,
+        "percentual_eb": 48.51,
+        "votos_totais": 7739,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 241
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 239
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 239
+          }
+        ]
+      },
+      "URUCARÁ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 3863,
+        "percentual_eb": 30.0,
+        "votos_totais": 12877,
+        "top3_candidatos": [
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 207
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 203
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 197
+          }
+        ]
+      },
+      "URUCURITUBA": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 4958,
+        "percentual_eb": 37.11,
+        "votos_totais": 13360,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 275
+          },
+          {
+            "nome": "VANESSA GRAZZIOTIN",
+            "votos": 215
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 211
+          }
+        ]
+      }
+    },
+    "zonas": {
+      "ALVARÃES_60": {
+        "municipio": "ALVARÃES",
+        "zona": 60,
+        "votos_eb": 4277,
+        "percentual_eb": 41.05,
+        "votos_totais": 10418
+      },
+      "AMATURÁ_22": {
+        "municipio": "AMATURÁ",
+        "zona": 22,
+        "votos_eb": 2138,
+        "percentual_eb": 35.22,
+        "votos_totais": 6071
+      },
+      "ANAMÃ_53": {
+        "municipio": "ANAMÃ",
+        "zona": 53,
+        "votos_eb": 3160,
+        "percentual_eb": 40.82,
+        "votos_totais": 7741
+      },
+      "ANORI_33": {
+        "municipio": "ANORI",
+        "zona": 33,
+        "votos_eb": 5174,
+        "percentual_eb": 44.18,
+        "votos_totais": 11711
+      },
+      "APUÍ_67": {
+        "municipio": "APUÍ",
+        "zona": 67,
+        "votos_eb": 2564,
+        "percentual_eb": 23.24,
+        "votos_totais": 11031
+      },
+      "ATALAIA DO NORTE_42": {
+        "municipio": "ATALAIA DO NORTE",
+        "zona": 42,
+        "votos_eb": 3070,
+        "percentual_eb": 47.15,
+        "votos_totais": 6511
+      },
+      "AUTAZES_35": {
+        "municipio": "AUTAZES",
+        "zona": 35,
+        "votos_eb": 11361,
+        "percentual_eb": 45.41,
+        "votos_totais": 25016
+      },
+      "BARCELOS_18": {
+        "municipio": "BARCELOS",
+        "zona": 18,
+        "votos_eb": 3274,
+        "percentual_eb": 33.45,
+        "votos_totais": 9787
+      },
+      "BARREIRINHA_26": {
+        "municipio": "BARREIRINHA",
+        "zona": 26,
+        "votos_eb": 8178,
+        "percentual_eb": 42.23,
+        "votos_totais": 19365
+      },
+      "BENJAMIN CONSTANT_20": {
+        "municipio": "BENJAMIN CONSTANT",
+        "zona": 20,
+        "votos_eb": 10863,
+        "percentual_eb": 48.53,
+        "votos_totais": 22386
+      },
+      "BERURI_54": {
+        "municipio": "BERURI",
+        "zona": 54,
+        "votos_eb": 5007,
+        "percentual_eb": 44.99,
+        "votos_totais": 11129
+      },
+      "BOA VISTA DO RAMOS_64": {
+        "municipio": "BOA VISTA DO RAMOS",
+        "zona": 64,
+        "votos_eb": 5050,
+        "percentual_eb": 41.83,
+        "votos_totais": 12074
+      },
+      "BOCA DO ACRE_14": {
+        "municipio": "BOCA DO ACRE",
+        "zona": 14,
+        "votos_eb": 8511,
+        "percentual_eb": 40.88,
+        "votos_totais": 20820
+      },
+      "BORBA_15": {
+        "municipio": "BORBA",
+        "zona": 15,
+        "votos_eb": 10635,
+        "percentual_eb": 46.65,
+        "votos_totais": 22796
+      },
+      "CAAPIRANGA_55": {
+        "municipio": "CAAPIRANGA",
+        "zona": 55,
+        "votos_eb": 3646,
+        "percentual_eb": 44.3,
+        "votos_totais": 8231
+      },
+      "CANUTAMA_13": {
+        "municipio": "CANUTAMA",
+        "zona": 13,
+        "votos_eb": 2785,
+        "percentual_eb": 36.54,
+        "votos_totais": 7622
+      },
+      "CARAUARI_21": {
+        "municipio": "CARAUARI",
+        "zona": 21,
+        "votos_eb": 6403,
+        "percentual_eb": 37.22,
+        "votos_totais": 17205
+      },
+      "CAREIRO_23": {
+        "municipio": "CAREIRO",
+        "zona": 23,
+        "votos_eb": 9751,
+        "percentual_eb": 41.19,
+        "votos_totais": 23675
+      },
+      "CAREIRO DA VÁRZEA_61": {
+        "municipio": "CAREIRO DA VÁRZEA",
+        "zona": 61,
+        "votos_eb": 8870,
+        "percentual_eb": 45.41,
+        "votos_totais": 19532
+      },
+      "COARI_8": {
+        "municipio": "COARI",
+        "zona": 8,
+        "votos_eb": 19338,
+        "percentual_eb": 36.26,
+        "votos_totais": 53336
+      },
+      "CODAJÁS_7": {
+        "municipio": "CODAJÁS",
+        "zona": 7,
+        "votos_eb": 7261,
+        "percentual_eb": 43.12,
+        "votos_totais": 16838
+      },
+      "EIRUNEPÉ_11": {
+        "municipio": "EIRUNEPÉ",
+        "zona": 11,
+        "votos_eb": 7782,
+        "percentual_eb": 37.88,
+        "votos_totais": 20545
+      },
+      "ENVIRA_46": {
+        "municipio": "ENVIRA",
+        "zona": 46,
+        "votos_eb": 3325,
+        "percentual_eb": 28.55,
+        "votos_totais": 11647
+      },
+      "FONTE BOA_10": {
+        "municipio": "FONTE BOA",
+        "zona": 10,
+        "votos_eb": 6942,
+        "percentual_eb": 44.59,
+        "votos_totais": 15569
+      },
+      "GUAJARÁ_45": {
+        "municipio": "GUAJARÁ",
+        "zona": 45,
+        "votos_eb": 3007,
+        "percentual_eb": 47.15,
+        "votos_totais": 6377
+      },
+      "HUMAITÁ_17": {
+        "municipio": "HUMAITÁ",
+        "zona": 17,
+        "votos_eb": 11675,
+        "percentual_eb": 36.77,
+        "votos_totais": 31753
+      },
+      "IPIXUNA_45": {
+        "municipio": "IPIXUNA",
+        "zona": 45,
+        "votos_eb": 2724,
+        "percentual_eb": 32.93,
+        "votos_totais": 8272
+      },
+      "IRANDUBA_56": {
+        "municipio": "IRANDUBA",
+        "zona": 56,
+        "votos_eb": 16609,
+        "percentual_eb": 45.45,
+        "votos_totais": 36542
+      },
+      "ITACOATIARA_3": {
+        "municipio": "ITACOATIARA",
+        "zona": 3,
+        "votos_eb": 33376,
+        "percentual_eb": 42.25,
+        "votos_totais": 78996
+      },
+      "ITAMARATI_69": {
+        "municipio": "ITAMARATI",
+        "zona": 69,
+        "votos_eb": 2743,
+        "percentual_eb": 40.79,
+        "votos_totais": 6724
+      },
+      "ITAPIRANGA_24": {
+        "municipio": "ITAPIRANGA",
+        "zona": 24,
+        "votos_eb": 3979,
+        "percentual_eb": 45.79,
+        "votos_totais": 8690
+      },
+      "JAPURÁ_48": {
+        "municipio": "JAPURÁ",
+        "zona": 48,
+        "votos_eb": 1620,
+        "percentual_eb": 39.06,
+        "votos_totais": 4147
+      },
+      "JURUÁ_50": {
+        "municipio": "JURUÁ",
+        "zona": 50,
+        "votos_eb": 1729,
+        "percentual_eb": 27.05,
+        "votos_totais": 6393
+      },
+      "JUTAÍ_41": {
+        "municipio": "JUTAÍ",
+        "zona": 41,
+        "votos_eb": 4932,
+        "percentual_eb": 46.09,
+        "votos_totais": 10701
+      },
+      "LÁBREA_12": {
+        "municipio": "LÁBREA",
+        "zona": 12,
+        "votos_eb": 10173,
+        "percentual_eb": 42.84,
+        "votos_totais": 23747
+      },
+      "MANACAPURU_6": {
+        "municipio": "MANACAPURU",
+        "zona": 6,
+        "votos_eb": 26400,
+        "percentual_eb": 32.6,
+        "votos_totais": 80978
+      },
+      "MANAQUIRI_66": {
+        "municipio": "MANAQUIRI",
+        "zona": 66,
+        "votos_eb": 6051,
+        "percentual_eb": 40.84,
+        "votos_totais": 14818
+      },
+      "MANAUS_1": {
+        "municipio": "MANAUS",
+        "zona": 1,
+        "votos_eb": 71039,
+        "percentual_eb": 37.72,
+        "votos_totais": 188347
+      },
+      "MANAUS_2": {
+        "municipio": "MANAUS",
+        "zona": 2,
+        "votos_eb": 36132,
+        "percentual_eb": 37.06,
+        "votos_totais": 97498
+      },
+      "MANAUS_31": {
+        "municipio": "MANAUS",
+        "zona": 31,
+        "votos_eb": 51401,
+        "percentual_eb": 44.8,
+        "votos_totais": 114742
+      },
+      "MANAUS_32": {
+        "municipio": "MANAUS",
+        "zona": 32,
+        "votos_eb": 46189,
+        "percentual_eb": 42.19,
+        "votos_totais": 109475
+      },
+      "MANAUS_37": {
+        "municipio": "MANAUS",
+        "zona": 37,
+        "votos_eb": 57043,
+        "percentual_eb": 41.61,
+        "votos_totais": 137074
+      },
+      "MANAUS_40": {
+        "municipio": "MANAUS",
+        "zona": 40,
+        "votos_eb": 50949,
+        "percentual_eb": 42.55,
+        "votos_totais": 119751
+      },
+      "MANAUS_58": {
+        "municipio": "MANAUS",
+        "zona": 58,
+        "votos_eb": 63533,
+        "percentual_eb": 43.02,
+        "votos_totais": 147666
+      },
+      "MANAUS_59": {
+        "municipio": "MANAUS",
+        "zona": 59,
+        "votos_eb": 75383,
+        "percentual_eb": 45.14,
+        "votos_totais": 167014
+      },
+      "MANAUS_62": {
+        "municipio": "MANAUS",
+        "zona": 62,
+        "votos_eb": 52820,
+        "percentual_eb": 42.92,
+        "votos_totais": 123065
+      },
+      "MANAUS_63": {
+        "municipio": "MANAUS",
+        "zona": 63,
+        "votos_eb": 44283,
+        "percentual_eb": 43.54,
+        "votos_totais": 101716
+      },
+      "MANAUS_65": {
+        "municipio": "MANAUS",
+        "zona": 65,
+        "votos_eb": 50384,
+        "percentual_eb": 44.72,
+        "votos_totais": 112662
+      },
+      "MANAUS_68": {
+        "municipio": "MANAUS",
+        "zona": 68,
+        "votos_eb": 88791,
+        "percentual_eb": 45.96,
+        "votos_totais": 193179
+      },
+      "MANAUS_70": {
+        "municipio": "MANAUS",
+        "zona": 70,
+        "votos_eb": 66362,
+        "percentual_eb": 44.65,
+        "votos_totais": 148613
+      },
+      "MANICORÉ_16": {
+        "municipio": "MANICORÉ",
+        "zona": 16,
+        "votos_eb": 10819,
+        "percentual_eb": 36.83,
+        "votos_totais": 29375
+      },
+      "MARAÃ_49": {
+        "municipio": "MARAÃ",
+        "zona": 49,
+        "votos_eb": 2890,
+        "percentual_eb": 35.98,
+        "votos_totais": 8033
+      },
+      "MAUÉS_5": {
+        "municipio": "MAUÉS",
+        "zona": 5,
+        "votos_eb": 15223,
+        "percentual_eb": 42.54,
+        "votos_totais": 35784
+      },
+      "NHAMUNDÁ_43": {
+        "municipio": "NHAMUNDÁ",
+        "zona": 43,
+        "votos_eb": 5716,
+        "percentual_eb": 38.0,
+        "votos_totais": 15042
+      },
+      "NOVA OLINDA DO NORTE_28": {
+        "municipio": "NOVA OLINDA DO NORTE",
+        "zona": 28,
+        "votos_eb": 7562,
+        "percentual_eb": 42.69,
+        "votos_totais": 17712
+      },
+      "NOVO AIRÃO_34": {
+        "municipio": "NOVO AIRÃO",
+        "zona": 34,
+        "votos_eb": 4050,
+        "percentual_eb": 42.03,
+        "votos_totais": 9637
+      },
+      "NOVO ARIPUANÃ_29": {
+        "municipio": "NOVO ARIPUANÃ",
+        "zona": 29,
+        "votos_eb": 4396,
+        "percentual_eb": 34.04,
+        "votos_totais": 12916
+      },
+      "PARINTINS_4": {
+        "municipio": "PARINTINS",
+        "zona": 4,
+        "votos_eb": 35717,
+        "percentual_eb": 43.53,
+        "votos_totais": 82059
+      },
+      "PAUINI_44": {
+        "municipio": "PAUINI",
+        "zona": 44,
+        "votos_eb": 3574,
+        "percentual_eb": 35.6,
+        "votos_totais": 10038
+      },
+      "PRESIDENTE FIGUEIREDO_51": {
+        "municipio": "PRESIDENTE FIGUEIREDO",
+        "zona": 51,
+        "votos_eb": 8295,
+        "percentual_eb": 38.26,
+        "votos_totais": 21682
+      },
+      "RIO PRETO DA EVA_52": {
+        "municipio": "RIO PRETO DA EVA",
+        "zona": 52,
+        "votos_eb": 7677,
+        "percentual_eb": 44.55,
+        "votos_totais": 17231
+      },
+      "SANTA ISABEL DO RIO NEGRO_30": {
+        "municipio": "SANTA ISABEL DO RIO NEGRO",
+        "zona": 30,
+        "votos_eb": 2748,
+        "percentual_eb": 42.72,
+        "votos_totais": 6433
+      },
+      "SANTO ANTÔNIO DO IÇÁ_47": {
+        "municipio": "SANTO ANTÔNIO DO IÇÁ",
+        "zona": 47,
+        "votos_eb": 5208,
+        "percentual_eb": 37.36,
+        "votos_totais": 13939
+      },
+      "SILVES_39": {
+        "municipio": "SILVES",
+        "zona": 39,
+        "votos_eb": 3922,
+        "percentual_eb": 45.12,
+        "votos_totais": 8693
+      },
+      "SÃO GABRIEL DA CACHOEIRA_19": {
+        "municipio": "SÃO GABRIEL DA CACHOEIRA",
+        "zona": 19,
+        "votos_eb": 13513,
+        "percentual_eb": 47.42,
+        "votos_totais": 28496
+      },
+      "SÃO PAULO DE OLIVENÇA_22": {
+        "municipio": "SÃO PAULO DE OLIVENÇA",
+        "zona": 22,
+        "votos_eb": 8390,
+        "percentual_eb": 47.72,
+        "votos_totais": 17581
+      },
+      "SÃO SEBASTIÃO DO UATUMÃ_57": {
+        "municipio": "SÃO SEBASTIÃO DO UATUMÃ",
+        "zona": 57,
+        "votos_eb": 2820,
+        "percentual_eb": 41.18,
+        "votos_totais": 6848
+      },
+      "TABATINGA_36": {
+        "municipio": "TABATINGA",
+        "zona": 36,
+        "votos_eb": 15957,
+        "percentual_eb": 47.75,
+        "votos_totais": 33420
+      },
+      "TAPAUÁ_38": {
+        "municipio": "TAPAUÁ",
+        "zona": 38,
+        "votos_eb": 4062,
+        "percentual_eb": 33.19,
+        "votos_totais": 12240
+      },
+      "TEFÉ_9": {
+        "municipio": "TEFÉ",
+        "zona": 9,
+        "votos_eb": 18894,
+        "percentual_eb": 43.16,
+        "votos_totais": 43774
+      },
+      "TONANTINS_47": {
+        "municipio": "TONANTINS",
+        "zona": 47,
+        "votos_eb": 4270,
+        "percentual_eb": 45.49,
+        "votos_totais": 9387
+      },
+      "UARINI_9": {
+        "municipio": "UARINI",
+        "zona": 9,
+        "votos_eb": 3754,
+        "percentual_eb": 48.51,
+        "votos_totais": 7739
+      },
+      "URUCARÁ_27": {
+        "municipio": "URUCARÁ",
+        "zona": 27,
+        "votos_eb": 3863,
+        "percentual_eb": 30.0,
+        "votos_totais": 12877
+      },
+      "URUCURITUBA_25": {
+        "municipio": "URUCURITUBA",
+        "zona": 25,
+        "votos_eb": 4958,
+        "percentual_eb": 37.11,
+        "votos_totais": 13360
+      }
+    }
+  },
+  "2022": {
+    "municipios": {
+      "ALVARÃES": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3574,
+        "percentual_eb": 22.19,
+        "votos_totais": 16109,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 212
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 200
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 196
+          }
+        ]
+      },
+      "MANACAPURU": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 40051,
+        "percentual_eb": 38.45,
+        "votos_totais": 104164,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 228
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 218
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          }
+        ]
+      },
+      "MANAUS": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 550579,
+        "percentual_eb": 26.41,
+        "votos_totais": 2085043,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 252
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 242
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 239
+          }
+        ]
+      },
+      "NOVO ARIPUANÃ": {
+        "calha": "Madeira",
+        "votos_eb": 7677,
+        "percentual_eb": 44.03,
+        "votos_totais": 17436,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 180
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 175
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 168
+          }
+        ]
+      },
+      "ITACOATIARA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 47772,
+        "percentual_eb": 48.03,
+        "votos_totais": 99456,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 170
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 169
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 168
+          }
+        ]
+      },
+      "TONANTINS": {
+        "calha": "Alto Solimões",
+        "votos_eb": 8026,
+        "percentual_eb": 53.19,
+        "votos_totais": 15089,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 218
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 215
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 212
+          }
+        ]
+      },
+      "BOA VISTA DO RAMOS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 7378,
+        "percentual_eb": 41.22,
+        "votos_totais": 17901,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 252
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 223
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 218
+          }
+        ]
+      },
+      "PARINTINS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 44223,
+        "percentual_eb": 44.07,
+        "votos_totais": 100338,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 212
+          }
+        ]
+      },
+      "HUMAITÁ": {
+        "calha": "Madeira",
+        "votos_eb": 11530,
+        "percentual_eb": 25.82,
+        "votos_totais": 44663,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 273
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 271
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 234
+          }
+        ]
+      },
+      "TEFÉ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 17976,
+        "percentual_eb": 28.84,
+        "votos_totais": 62333,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 226
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 212
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 212
+          }
+        ]
+      },
+      "UARINI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 5952,
+        "percentual_eb": 48.77,
+        "votos_totais": 12203,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 191
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 182
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 178
+          }
+        ]
+      },
+      "GUAJARÁ": {
+        "calha": "Juruá",
+        "votos_eb": 4146,
+        "percentual_eb": 28.98,
+        "votos_totais": 14305,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 185
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 184
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 177
+          }
+        ]
+      },
+      "CARAUARI": {
+        "calha": "Juruá",
+        "votos_eb": 13775,
+        "percentual_eb": 50.72,
+        "votos_totais": 27158,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 229
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 194
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 193
+          }
+        ]
+      },
+      "TABATINGA": {
+        "calha": "Alto Solimões",
+        "votos_eb": 21772,
+        "percentual_eb": 43.02,
+        "votos_totais": 50606,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 323
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 298
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 242
+          }
+        ]
+      },
+      "SÃO PAULO DE OLIVENÇA": {
+        "calha": "Alto Solimões",
+        "votos_eb": 8970,
+        "percentual_eb": 32.07,
+        "votos_totais": 27966,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 280
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 245
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 226
+          }
+        ]
+      },
+      "ANORI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 8031,
+        "percentual_eb": 54.75,
+        "votos_totais": 14668,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 214
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 208
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 205
+          }
+        ]
+      },
+      "RIO PRETO DA EVA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 7602,
+        "percentual_eb": 29.86,
+        "votos_totais": 25455,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 167
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 156
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 151
+          }
+        ]
+      },
+      "PRESIDENTE FIGUEIREDO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 9193,
+        "percentual_eb": 27.85,
+        "votos_totais": 33013,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 203
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 198
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 196
+          }
+        ]
+      },
+      "MANAQUIRI": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 10148,
+        "percentual_eb": 51.97,
+        "votos_totais": 19525,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 191
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 184
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 177
+          }
+        ]
+      },
+      "ITAMARATI": {
+        "calha": "Juruá",
+        "votos_eb": 6958,
+        "percentual_eb": 73.65,
+        "votos_totais": 9447,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 399
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 293
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 212
+          }
+        ]
+      },
+      "MANICORÉ": {
+        "calha": "Madeira",
+        "votos_eb": 12891,
+        "percentual_eb": 28.28,
+        "votos_totais": 45591,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 280
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 274
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 273
+          }
+        ]
+      },
+      "BOCA DO ACRE": {
+        "calha": "Purus",
+        "votos_eb": 7266,
+        "percentual_eb": 24.63,
+        "votos_totais": 29501,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 224
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 223
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 221
+          }
+        ]
+      },
+      "TAPAUÁ": {
+        "calha": "Purus",
+        "votos_eb": 6352,
+        "percentual_eb": 36.33,
+        "votos_totais": 17484,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 170
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 164
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 164
+          }
+        ]
+      },
+      "APUÍ": {
+        "calha": "Madeira",
+        "votos_eb": 2356,
+        "percentual_eb": 16.07,
+        "votos_totais": 14665,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 284
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 281
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 255
+          }
+        ]
+      },
+      "CAREIRO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 14333,
+        "percentual_eb": 45.85,
+        "votos_totais": 31262,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 170
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 166
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 162
+          }
+        ]
+      },
+      "PAUINI": {
+        "calha": "Purus",
+        "votos_eb": 4174,
+        "percentual_eb": 29.53,
+        "votos_totais": 14133,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 200
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 199
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 198
+          }
+        ]
+      },
+      "COARI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 13902,
+        "percentual_eb": 21.57,
+        "votos_totais": 64461,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 248
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 234
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 214
+          }
+        ]
+      },
+      "IRANDUBA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 17536,
+        "percentual_eb": 31.88,
+        "votos_totais": 54999,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 181
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 167
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 166
+          }
+        ]
+      },
+      "SILVES": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 6992,
+        "percentual_eb": 59.03,
+        "votos_totais": 11844,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 290
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 230
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 218
+          }
+        ]
+      },
+      "NHAMUNDÁ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 8253,
+        "percentual_eb": 39.76,
+        "votos_totais": 20759,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 230
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 204
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 185
+          }
+        ]
+      },
+      "BARREIRINHA": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 13455,
+        "percentual_eb": 43.52,
+        "votos_totais": 30915,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 253
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 218
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 204
+          }
+        ]
+      },
+      "BENJAMIN CONSTANT": {
+        "calha": "Alto Solimões",
+        "votos_eb": 14828,
+        "percentual_eb": 46.7,
+        "votos_totais": 31755,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 267
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 253
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 246
+          }
+        ]
+      },
+      "AMATURÁ": {
+        "calha": "Alto Solimões",
+        "votos_eb": 3278,
+        "percentual_eb": 32.99,
+        "votos_totais": 9935,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 217
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 216
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 211
+          }
+        ]
+      },
+      "AUTAZES": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 10313,
+        "percentual_eb": 26.48,
+        "votos_totais": 38951,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 291
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 283
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 277
+          }
+        ]
+      },
+      "MAUÉS": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 15856,
+        "percentual_eb": 32.09,
+        "votos_totais": 49414,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 220
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 216
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 216
+          }
+        ]
+      },
+      "URUCURITUBA": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 6838,
+        "percentual_eb": 38.4,
+        "votos_totais": 17806,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 209
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 207
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 199
+          }
+        ]
+      },
+      "NOVA OLINDA DO NORTE": {
+        "calha": "Madeira",
+        "votos_eb": 14014,
+        "percentual_eb": 53.67,
+        "votos_totais": 26109,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 164
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 153
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 152
+          }
+        ]
+      },
+      "FONTE BOA": {
+        "calha": "Médio Solimões",
+        "votos_eb": 11204,
+        "percentual_eb": 51.75,
+        "votos_totais": 21651,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 176
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 174
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 173
+          }
+        ]
+      },
+      "CAAPIRANGA": {
+        "calha": "Médio Solimões",
+        "votos_eb": 4338,
+        "percentual_eb": 34.32,
+        "votos_totais": 12639,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 223
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 210
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 203
+          }
+        ]
+      },
+      "SÃO GABRIEL DA CACHOEIRA": {
+        "calha": "Rio Negro",
+        "votos_eb": 21953,
+        "percentual_eb": 53.45,
+        "votos_totais": 41075,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 233
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 221
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 217
+          }
+        ]
+      },
+      "ATALAIA DO NORTE": {
+        "calha": "Alto Solimões",
+        "votos_eb": 4066,
+        "percentual_eb": 35.19,
+        "votos_totais": 11554,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 250
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 249
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 148
+          }
+        ]
+      },
+      "BORBA": {
+        "calha": "Madeira",
+        "votos_eb": 12512,
+        "percentual_eb": 40.45,
+        "votos_totais": 30932,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 309
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 297
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 278
+          }
+        ]
+      },
+      "SANTA ISABEL DO RIO NEGRO": {
+        "calha": "Rio Negro",
+        "votos_eb": 2990,
+        "percentual_eb": 29.86,
+        "votos_totais": 10014,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 175
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 159
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 159
+          }
+        ]
+      },
+      "LÁBREA": {
+        "calha": "Purus",
+        "votos_eb": 22259,
+        "percentual_eb": 63.16,
+        "votos_totais": 35242,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 196
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 191
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 188
+          }
+        ]
+      },
+      "EIRUNEPÉ": {
+        "calha": "Juruá",
+        "votos_eb": 13743,
+        "percentual_eb": 49.79,
+        "votos_totais": 27603,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 178
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 174
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 172
+          }
+        ]
+      },
+      "NOVO AIRÃO": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 3305,
+        "percentual_eb": 20.59,
+        "votos_totais": 16048,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 219
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 215
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 214
+          }
+        ]
+      },
+      "MARAÃ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3646,
+        "percentual_eb": 33.82,
+        "votos_totais": 10781,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 187
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 180
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 180
+          }
+        ]
+      },
+      "BARCELOS": {
+        "calha": "Rio Negro",
+        "votos_eb": 6592,
+        "percentual_eb": 46.65,
+        "votos_totais": 14132,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 198
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 187
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 156
+          }
+        ]
+      },
+      "SÃO SEBASTIÃO DO UATUMÃ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 3449,
+        "percentual_eb": 34.71,
+        "votos_totais": 9937,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 193
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 183
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 172
+          }
+        ]
+      },
+      "CODAJÁS": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3778,
+        "percentual_eb": 17.58,
+        "votos_totais": 21485,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 215
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 214
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 204
+          }
+        ]
+      },
+      "ANAMÃ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 4750,
+        "percentual_eb": 40.37,
+        "votos_totais": 11765,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 159
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 154
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 153
+          }
+        ]
+      },
+      "JURUÁ": {
+        "calha": "Juruá",
+        "votos_eb": 4407,
+        "percentual_eb": 46.24,
+        "votos_totais": 9530,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 176
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 173
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 157
+          }
+        ]
+      },
+      "CAREIRO DA VÁRZEA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 9250,
+        "percentual_eb": 40.16,
+        "votos_totais": 23032,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 193
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 190
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 188
+          }
+        ]
+      },
+      "BERURI": {
+        "calha": "Médio Solimões",
+        "votos_eb": 3196,
+        "percentual_eb": 17.59,
+        "votos_totais": 18173,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 267
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 245
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 240
+          }
+        ]
+      },
+      "SANTO ANTÔNIO DO IÇÁ": {
+        "calha": "Alto Solimões",
+        "votos_eb": 13526,
+        "percentual_eb": 57.15,
+        "votos_totais": 23667,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 237
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 216
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 201
+          }
+        ]
+      },
+      "JUTAÍ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 9643,
+        "percentual_eb": 54.86,
+        "votos_totais": 17576,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 208
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 195
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 189
+          }
+        ]
+      },
+      "ITAPIRANGA": {
+        "calha": "Região Metropolitana de Manaus",
+        "votos_eb": 6015,
+        "percentual_eb": 50.43,
+        "votos_totais": 11928,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 197
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 184
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 183
+          }
+        ]
+      },
+      "CANUTAMA": {
+        "calha": "Purus",
+        "votos_eb": 4038,
+        "percentual_eb": 31.42,
+        "votos_totais": 12852,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 218
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 206
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 202
+          }
+        ]
+      },
+      "JAPURÁ": {
+        "calha": "Médio Solimões",
+        "votos_eb": 1088,
+        "percentual_eb": 18.12,
+        "votos_totais": 6006,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 227
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 223
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 208
+          }
+        ]
+      },
+      "IPIXUNA": {
+        "calha": "Juruá",
+        "votos_eb": 7836,
+        "percentual_eb": 55.88,
+        "votos_totais": 14023,
+        "top3_candidatos": [
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 184
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 174
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 171
+          }
+        ]
+      },
+      "ENVIRA": {
+        "calha": "Juruá",
+        "votos_eb": 5549,
+        "percentual_eb": 39.4,
+        "votos_totais": 14085,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 167
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 157
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 154
+          }
+        ]
+      },
+      "URUCARÁ": {
+        "calha": "Baixo Amazonas",
+        "votos_eb": 5812,
+        "percentual_eb": 35.23,
+        "votos_totais": 16498,
+        "top3_candidatos": [
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 188
+          },
+          {
+            "nome": "WILSON MIRANDA LIMA",
+            "votos": 182
+          },
+          {
+            "nome": "CARLOS EDUARDO DE SOUZA BRAGA",
+            "votos": 177
+          }
+        ]
+      }
+    },
+    "zonas": {
+      "ALVARÃES_60": {
+        "municipio": "ALVARÃES",
+        "zona": 60,
+        "votos_eb": 3574,
+        "percentual_eb": 22.19,
+        "votos_totais": 16109
+      },
+      "MANACAPURU_6": {
+        "municipio": "MANACAPURU",
+        "zona": 6,
+        "votos_eb": 40051,
+        "percentual_eb": 38.45,
+        "votos_totais": 104164
+      },
+      "MANAUS_2": {
+        "municipio": "MANAUS",
+        "zona": 2,
+        "votos_eb": 31235,
+        "percentual_eb": 23.05,
+        "votos_totais": 135515
+      },
+      "MANAUS_40": {
+        "municipio": "MANAUS",
+        "zona": 40,
+        "votos_eb": 44093,
+        "percentual_eb": 23.86,
+        "votos_totais": 184770
+      },
+      "MANAUS_32": {
+        "municipio": "MANAUS",
+        "zona": 32,
+        "votos_eb": 49788,
+        "percentual_eb": 27.66,
+        "votos_totais": 179994
+      },
+      "MANAUS_31": {
+        "municipio": "MANAUS",
+        "zona": 31,
+        "votos_eb": 35178,
+        "percentual_eb": 29.43,
+        "votos_totais": 119513
+      },
+      "MANAUS_62": {
+        "municipio": "MANAUS",
+        "zona": 62,
+        "votos_eb": 49129,
+        "percentual_eb": 25.24,
+        "votos_totais": 194643
+      },
+      "MANAUS_65": {
+        "municipio": "MANAUS",
+        "zona": 65,
+        "votos_eb": 49455,
+        "percentual_eb": 27.91,
+        "votos_totais": 177211
+      },
+      "MANAUS_70": {
+        "municipio": "MANAUS",
+        "zona": 70,
+        "votos_eb": 40517,
+        "percentual_eb": 25.34,
+        "votos_totais": 159895
+      },
+      "MANAUS_1": {
+        "municipio": "MANAUS",
+        "zona": 1,
+        "votos_eb": 39884,
+        "percentual_eb": 27.12,
+        "votos_totais": 147080
+      },
+      "MANAUS_63": {
+        "municipio": "MANAUS",
+        "zona": 63,
+        "votos_eb": 51948,
+        "percentual_eb": 27.38,
+        "votos_totais": 189760
+      },
+      "MANAUS_37": {
+        "municipio": "MANAUS",
+        "zona": 37,
+        "votos_eb": 37561,
+        "percentual_eb": 26.38,
+        "votos_totais": 142387
+      },
+      "MANAUS_68": {
+        "municipio": "MANAUS",
+        "zona": 68,
+        "votos_eb": 36013,
+        "percentual_eb": 28.67,
+        "votos_totais": 125617
+      },
+      "MANAUS_58": {
+        "municipio": "MANAUS",
+        "zona": 58,
+        "votos_eb": 40705,
+        "percentual_eb": 23.44,
+        "votos_totais": 173641
+      },
+      "MANAUS_59": {
+        "municipio": "MANAUS",
+        "zona": 59,
+        "votos_eb": 45073,
+        "percentual_eb": 29.08,
+        "votos_totais": 155017
+      },
+      "NOVO ARIPUANÃ_29": {
+        "municipio": "NOVO ARIPUANÃ",
+        "zona": 29,
+        "votos_eb": 7677,
+        "percentual_eb": 44.03,
+        "votos_totais": 17436
+      },
+      "ITACOATIARA_3": {
+        "municipio": "ITACOATIARA",
+        "zona": 3,
+        "votos_eb": 47772,
+        "percentual_eb": 48.03,
+        "votos_totais": 99456
+      },
+      "TONANTINS_47": {
+        "municipio": "TONANTINS",
+        "zona": 47,
+        "votos_eb": 8026,
+        "percentual_eb": 53.19,
+        "votos_totais": 15089
+      },
+      "BOA VISTA DO RAMOS_5": {
+        "municipio": "BOA VISTA DO RAMOS",
+        "zona": 5,
+        "votos_eb": 7378,
+        "percentual_eb": 41.22,
+        "votos_totais": 17901
+      },
+      "PARINTINS_4": {
+        "municipio": "PARINTINS",
+        "zona": 4,
+        "votos_eb": 44223,
+        "percentual_eb": 44.07,
+        "votos_totais": 100338
+      },
+      "HUMAITÁ_17": {
+        "municipio": "HUMAITÁ",
+        "zona": 17,
+        "votos_eb": 11530,
+        "percentual_eb": 25.82,
+        "votos_totais": 44663
+      },
+      "TEFÉ_9": {
+        "municipio": "TEFÉ",
+        "zona": 9,
+        "votos_eb": 17976,
+        "percentual_eb": 28.84,
+        "votos_totais": 62333
+      },
+      "UARINI_60": {
+        "municipio": "UARINI",
+        "zona": 60,
+        "votos_eb": 5952,
+        "percentual_eb": 48.77,
+        "votos_totais": 12203
+      },
+      "GUAJARÁ_45": {
+        "municipio": "GUAJARÁ",
+        "zona": 45,
+        "votos_eb": 4146,
+        "percentual_eb": 28.98,
+        "votos_totais": 14305
+      },
+      "CARAUARI_21": {
+        "municipio": "CARAUARI",
+        "zona": 21,
+        "votos_eb": 13775,
+        "percentual_eb": 50.72,
+        "votos_totais": 27158
+      },
+      "TABATINGA_36": {
+        "municipio": "TABATINGA",
+        "zona": 36,
+        "votos_eb": 21772,
+        "percentual_eb": 43.02,
+        "votos_totais": 50606
+      },
+      "SÃO PAULO DE OLIVENÇA_22": {
+        "municipio": "SÃO PAULO DE OLIVENÇA",
+        "zona": 22,
+        "votos_eb": 8970,
+        "percentual_eb": 32.07,
+        "votos_totais": 27966
+      },
+      "ANORI_33": {
+        "municipio": "ANORI",
+        "zona": 33,
+        "votos_eb": 8031,
+        "percentual_eb": 54.75,
+        "votos_totais": 14668
+      },
+      "RIO PRETO DA EVA_68": {
+        "municipio": "RIO PRETO DA EVA",
+        "zona": 68,
+        "votos_eb": 7602,
+        "percentual_eb": 29.86,
+        "votos_totais": 25455
+      },
+      "PRESIDENTE FIGUEIREDO_51": {
+        "municipio": "PRESIDENTE FIGUEIREDO",
+        "zona": 51,
+        "votos_eb": 9193,
+        "percentual_eb": 27.85,
+        "votos_totais": 33013
+      },
+      "MANAQUIRI_23": {
+        "municipio": "MANAQUIRI",
+        "zona": 23,
+        "votos_eb": 10148,
+        "percentual_eb": 51.97,
+        "votos_totais": 19525
+      },
+      "ITAMARATI_69": {
+        "municipio": "ITAMARATI",
+        "zona": 69,
+        "votos_eb": 6958,
+        "percentual_eb": 73.65,
+        "votos_totais": 9447
+      },
+      "MANICORÉ_16": {
+        "municipio": "MANICORÉ",
+        "zona": 16,
+        "votos_eb": 12891,
+        "percentual_eb": 28.28,
+        "votos_totais": 45591
+      },
+      "BOCA DO ACRE_14": {
+        "municipio": "BOCA DO ACRE",
+        "zona": 14,
+        "votos_eb": 7266,
+        "percentual_eb": 24.63,
+        "votos_totais": 29501
+      },
+      "TAPAUÁ_38": {
+        "municipio": "TAPAUÁ",
+        "zona": 38,
+        "votos_eb": 6352,
+        "percentual_eb": 36.33,
+        "votos_totais": 17484
+      },
+      "APUÍ_67": {
+        "municipio": "APUÍ",
+        "zona": 67,
+        "votos_eb": 2356,
+        "percentual_eb": 16.07,
+        "votos_totais": 14665
+      },
+      "CAREIRO_23": {
+        "municipio": "CAREIRO",
+        "zona": 23,
+        "votos_eb": 14333,
+        "percentual_eb": 45.85,
+        "votos_totais": 31262
+      },
+      "PAUINI_44": {
+        "municipio": "PAUINI",
+        "zona": 44,
+        "votos_eb": 4174,
+        "percentual_eb": 29.53,
+        "votos_totais": 14133
+      },
+      "COARI_8": {
+        "municipio": "COARI",
+        "zona": 8,
+        "votos_eb": 13902,
+        "percentual_eb": 21.57,
+        "votos_totais": 64461
+      },
+      "IRANDUBA_56": {
+        "municipio": "IRANDUBA",
+        "zona": 56,
+        "votos_eb": 17536,
+        "percentual_eb": 31.88,
+        "votos_totais": 54999
+      },
+      "SILVES_24": {
+        "municipio": "SILVES",
+        "zona": 24,
+        "votos_eb": 6992,
+        "percentual_eb": 59.03,
+        "votos_totais": 11844
+      },
+      "NHAMUNDÁ_43": {
+        "municipio": "NHAMUNDÁ",
+        "zona": 43,
+        "votos_eb": 8253,
+        "percentual_eb": 39.76,
+        "votos_totais": 20759
+      },
+      "BARREIRINHA_26": {
+        "municipio": "BARREIRINHA",
+        "zona": 26,
+        "votos_eb": 13455,
+        "percentual_eb": 43.52,
+        "votos_totais": 30915
+      },
+      "BENJAMIN CONSTANT_20": {
+        "municipio": "BENJAMIN CONSTANT",
+        "zona": 20,
+        "votos_eb": 14828,
+        "percentual_eb": 46.7,
+        "votos_totais": 31755
+      },
+      "AMATURÁ_22": {
+        "municipio": "AMATURÁ",
+        "zona": 22,
+        "votos_eb": 3278,
+        "percentual_eb": 32.99,
+        "votos_totais": 9935
+      },
+      "AUTAZES_35": {
+        "municipio": "AUTAZES",
+        "zona": 35,
+        "votos_eb": 10313,
+        "percentual_eb": 26.48,
+        "votos_totais": 38951
+      },
+      "MAUÉS_5": {
+        "municipio": "MAUÉS",
+        "zona": 5,
+        "votos_eb": 15856,
+        "percentual_eb": 32.09,
+        "votos_totais": 49414
+      },
+      "URUCURITUBA_3": {
+        "municipio": "URUCURITUBA",
+        "zona": 3,
+        "votos_eb": 6838,
+        "percentual_eb": 38.4,
+        "votos_totais": 17806
+      },
+      "NOVA OLINDA DO NORTE_35": {
+        "municipio": "NOVA OLINDA DO NORTE",
+        "zona": 35,
+        "votos_eb": 14014,
+        "percentual_eb": 53.67,
+        "votos_totais": 26109
+      },
+      "FONTE BOA_10": {
+        "municipio": "FONTE BOA",
+        "zona": 10,
+        "votos_eb": 11204,
+        "percentual_eb": 51.75,
+        "votos_totais": 21651
+      },
+      "CAAPIRANGA_6": {
+        "municipio": "CAAPIRANGA",
+        "zona": 6,
+        "votos_eb": 4338,
+        "percentual_eb": 34.32,
+        "votos_totais": 12639
+      },
+      "SÃO GABRIEL DA CACHOEIRA_19": {
+        "municipio": "SÃO GABRIEL DA CACHOEIRA",
+        "zona": 19,
+        "votos_eb": 21953,
+        "percentual_eb": 53.45,
+        "votos_totais": 41075
+      },
+      "ATALAIA DO NORTE_42": {
+        "municipio": "ATALAIA DO NORTE",
+        "zona": 42,
+        "votos_eb": 4066,
+        "percentual_eb": 35.19,
+        "votos_totais": 11554
+      },
+      "BORBA_15": {
+        "municipio": "BORBA",
+        "zona": 15,
+        "votos_eb": 12512,
+        "percentual_eb": 40.45,
+        "votos_totais": 30932
+      },
+      "SANTA ISABEL DO RIO NEGRO_30": {
+        "municipio": "SANTA ISABEL DO RIO NEGRO",
+        "zona": 30,
+        "votos_eb": 2990,
+        "percentual_eb": 29.86,
+        "votos_totais": 10014
+      },
+      "LÁBREA_12": {
+        "municipio": "LÁBREA",
+        "zona": 12,
+        "votos_eb": 22259,
+        "percentual_eb": 63.16,
+        "votos_totais": 35242
+      },
+      "EIRUNEPÉ_11": {
+        "municipio": "EIRUNEPÉ",
+        "zona": 11,
+        "votos_eb": 13743,
+        "percentual_eb": 49.79,
+        "votos_totais": 27603
+      },
+      "NOVO AIRÃO_34": {
+        "municipio": "NOVO AIRÃO",
+        "zona": 34,
+        "votos_eb": 3305,
+        "percentual_eb": 20.59,
+        "votos_totais": 16048
+      },
+      "MARAÃ_49": {
+        "municipio": "MARAÃ",
+        "zona": 49,
+        "votos_eb": 3646,
+        "percentual_eb": 33.82,
+        "votos_totais": 10781
+      },
+      "BARCELOS_18": {
+        "municipio": "BARCELOS",
+        "zona": 18,
+        "votos_eb": 6592,
+        "percentual_eb": 46.65,
+        "votos_totais": 14132
+      },
+      "SÃO SEBASTIÃO DO UATUMÃ_27": {
+        "municipio": "SÃO SEBASTIÃO DO UATUMÃ",
+        "zona": 27,
+        "votos_eb": 3449,
+        "percentual_eb": 34.71,
+        "votos_totais": 9937
+      },
+      "CODAJÁS_7": {
+        "municipio": "CODAJÁS",
+        "zona": 7,
+        "votos_eb": 3778,
+        "percentual_eb": 17.58,
+        "votos_totais": 21485
+      },
+      "ANAMÃ_6": {
+        "municipio": "ANAMÃ",
+        "zona": 6,
+        "votos_eb": 4750,
+        "percentual_eb": 40.37,
+        "votos_totais": 11765
+      },
+      "JURUÁ_50": {
+        "municipio": "JURUÁ",
+        "zona": 50,
+        "votos_eb": 4407,
+        "percentual_eb": 46.24,
+        "votos_totais": 9530
+      },
+      "CAREIRO DA VÁRZEA_31": {
+        "municipio": "CAREIRO DA VÁRZEA",
+        "zona": 31,
+        "votos_eb": 9250,
+        "percentual_eb": 40.16,
+        "votos_totais": 23032
+      },
+      "BERURI_54": {
+        "municipio": "BERURI",
+        "zona": 54,
+        "votos_eb": 3196,
+        "percentual_eb": 17.59,
+        "votos_totais": 18173
+      },
+      "SANTO ANTÔNIO DO IÇÁ_47": {
+        "municipio": "SANTO ANTÔNIO DO IÇÁ",
+        "zona": 47,
+        "votos_eb": 13526,
+        "percentual_eb": 57.15,
+        "votos_totais": 23667
+      },
+      "JUTAÍ_41": {
+        "municipio": "JUTAÍ",
+        "zona": 41,
+        "votos_eb": 9643,
+        "percentual_eb": 54.86,
+        "votos_totais": 17576
+      },
+      "ITAPIRANGA_24": {
+        "municipio": "ITAPIRANGA",
+        "zona": 24,
+        "votos_eb": 6015,
+        "percentual_eb": 50.43,
+        "votos_totais": 11928
+      },
+      "CANUTAMA_13": {
+        "municipio": "CANUTAMA",
+        "zona": 13,
+        "votos_eb": 4038,
+        "percentual_eb": 31.42,
+        "votos_totais": 12852
+      },
+      "JAPURÁ_48": {
+        "municipio": "JAPURÁ",
+        "zona": 48,
+        "votos_eb": 1088,
+        "percentual_eb": 18.12,
+        "votos_totais": 6006
+      },
+      "IPIXUNA_45": {
+        "municipio": "IPIXUNA",
+        "zona": 45,
+        "votos_eb": 7836,
+        "percentual_eb": 55.88,
+        "votos_totais": 14023
+      },
+      "ENVIRA_46": {
+        "municipio": "ENVIRA",
+        "zona": 46,
+        "votos_eb": 5549,
+        "percentual_eb": 39.4,
+        "votos_totais": 14085
+      },
+      "URUCARÁ_27": {
+        "municipio": "URUCARÁ",
+        "zona": 27,
+        "votos_eb": 5812,
+        "percentual_eb": 35.23,
+        "votos_totais": 16498
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "📊 Esclarecimento sobre Percentuais de Eduardo Braga",
+  "nota_importante": "TODOS os percentuais de Eduardo Braga são calculados sobre VOTOS VÁLIDOS, não votos totais",
+  "exemplo": {
+    "municipio": "Manaus",
+    "ano": 2010,
+    "votos_eb": 754309,
+    "votos_validos": 1757215,
+    "votos_brancos": 72357,
+    "votos_nulos": 107482,
+    "votos_totais": 1937054,
+    "calculo": {
+      "formula": "% EB = (votos_eb / votos_validos) × 100",
+      "calculo": "754.309 / 1.757.215 × 100",
+      "resultado": "42.93%"
+    },
+    "comparacao": {
+      "percentual_sobre_validos": "42.93% ✅ CORRETO",
+      "percentual_sobre_totais": "38.94% ❌ INCORRETO (mas não é usado)"
+    }
+  },
+  "estrutura_json": {
+    "votos_eb": "Votos que Eduardo Braga recebeu",
+    "votos_validos": "Base do cálculo percentual (válidos apenas)",
+    "votos_totais": "Mesmo que votos_validos (mantido para compatibilidade)",
+    "percentual_eb": "% EB calculado sobre votos_validos",
+    "votos_brancos": "Não incluídos no percentual",
+    "votos_nulos": "Não incluídos no percentual"
+  }
+}

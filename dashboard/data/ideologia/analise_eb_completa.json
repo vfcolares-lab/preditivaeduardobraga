@@ -1,0 +1,1676 @@
+{
+  "ALVARÃES": {
+    "nome": "ALVARÃES",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 41.06,
+        "votos_eb": 4277,
+        "votos_validos": 10417,
+        "votos_totais": 10417
+      },
+      "2022": {
+        "percentual_eb": 22.19,
+        "votos_eb": 3574,
+        "votos_validos": 16109,
+        "votos_totais": 16109
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 29.27,
+      "pct_2010": 41.06,
+      "pct_2018": 31.62,
+      "pct_2022": 22.19,
+      "tendencia": -18.87,
+      "nota_2018": "interpolado"
+    }
+  },
+  "AMATURÁ": {
+    "nome": "AMATURÁ",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 35.22,
+        "votos_eb": 2138,
+        "votos_validos": 6071,
+        "votos_totais": 6071
+      },
+      "2022": {
+        "percentual_eb": 32.99,
+        "votos_eb": 3278,
+        "votos_validos": 9935,
+        "votos_totais": 9935
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 33.83,
+      "pct_2010": 35.22,
+      "pct_2018": 34.11,
+      "pct_2022": 32.99,
+      "tendencia": -2.23,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ANAMÃ": {
+    "nome": "ANAMÃ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 40.83,
+        "votos_eb": 3160,
+        "votos_validos": 7740,
+        "votos_totais": 7740
+      },
+      "2022": {
+        "percentual_eb": 40.37,
+        "votos_eb": 4750,
+        "votos_validos": 11765,
+        "votos_totais": 11765
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 40.54,
+      "pct_2010": 40.83,
+      "pct_2018": 40.6,
+      "pct_2022": 40.37,
+      "tendencia": -0.46,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ANORI": {
+    "nome": "ANORI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 44.19,
+        "votos_eb": 5174,
+        "votos_validos": 11708,
+        "votos_totais": 11708
+      },
+      "2022": {
+        "percentual_eb": 54.75,
+        "votos_eb": 8031,
+        "votos_validos": 14668,
+        "votos_totais": 14668
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 50.79,
+      "pct_2010": 44.19,
+      "pct_2018": 49.47,
+      "pct_2022": 54.75,
+      "tendencia": 10.56,
+      "nota_2018": "interpolado"
+    }
+  },
+  "APUÍ": {
+    "nome": "APUÍ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 23.25,
+        "votos_eb": 2564,
+        "votos_validos": 11030,
+        "votos_totais": 11030
+      },
+      "2022": {
+        "percentual_eb": 16.07,
+        "votos_eb": 2356,
+        "votos_validos": 14665,
+        "votos_totais": 14665
+      }
+    },
+    "classificacao": {
+      "classificacao": "Bastião Anti-Eduardista",
+      "media_ponderada": 18.76,
+      "pct_2010": 23.25,
+      "pct_2018": 19.66,
+      "pct_2022": 16.07,
+      "tendencia": -7.18,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ATALAIA DO NORTE": {
+    "nome": "ATALAIA DO NORTE",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 47.17,
+        "votos_eb": 3070,
+        "votos_validos": 6508,
+        "votos_totais": 6508
+      },
+      "2022": {
+        "percentual_eb": 35.19,
+        "votos_eb": 4066,
+        "votos_validos": 11554,
+        "votos_totais": 11554
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 39.68,
+      "pct_2010": 47.17,
+      "pct_2018": 41.18,
+      "pct_2022": 35.19,
+      "tendencia": -11.98,
+      "nota_2018": "interpolado"
+    }
+  },
+  "AUTAZES": {
+    "nome": "AUTAZES",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.43,
+        "votos_eb": 11361,
+        "votos_validos": 25005,
+        "votos_totais": 25005
+      },
+      "2022": {
+        "percentual_eb": 26.48,
+        "votos_eb": 10313,
+        "votos_validos": 38951,
+        "votos_totais": 38951
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 33.59,
+      "pct_2010": 45.43,
+      "pct_2018": 35.96,
+      "pct_2022": 26.48,
+      "tendencia": -18.95,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BARCELOS": {
+    "nome": "BARCELOS",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "percentual_eb": 33.46,
+        "votos_eb": 3274,
+        "votos_validos": 9785,
+        "votos_totais": 9785
+      },
+      "2022": {
+        "percentual_eb": 46.65,
+        "votos_eb": 6592,
+        "votos_validos": 14132,
+        "votos_totais": 14132
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 41.7,
+      "pct_2010": 33.46,
+      "pct_2018": 40.06,
+      "pct_2022": 46.65,
+      "tendencia": 13.19,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BARREIRINHA": {
+    "nome": "BARREIRINHA",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.24,
+        "votos_eb": 8178,
+        "votos_validos": 19361,
+        "votos_totais": 19361
+      },
+      "2022": {
+        "percentual_eb": 43.52,
+        "votos_eb": 13455,
+        "votos_validos": 30915,
+        "votos_totais": 30915
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 43.04,
+      "pct_2010": 42.24,
+      "pct_2018": 42.88,
+      "pct_2022": 43.52,
+      "tendencia": 1.28,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BENJAMIN CONSTANT": {
+    "nome": "BENJAMIN CONSTANT",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 48.53,
+        "votos_eb": 10863,
+        "votos_validos": 22384,
+        "votos_totais": 22384
+      },
+      "2022": {
+        "percentual_eb": 46.7,
+        "votos_eb": 14828,
+        "votos_validos": 31755,
+        "votos_totais": 31755
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 47.39,
+      "pct_2010": 48.53,
+      "pct_2018": 47.62,
+      "pct_2022": 46.7,
+      "tendencia": -1.83,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BERURI": {
+    "nome": "BERURI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 44.99,
+        "votos_eb": 5007,
+        "votos_validos": 11128,
+        "votos_totais": 11128
+      },
+      "2022": {
+        "percentual_eb": 17.59,
+        "votos_eb": 3196,
+        "votos_validos": 18173,
+        "votos_totais": 18173
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 27.86,
+      "pct_2010": 44.99,
+      "pct_2018": 31.29,
+      "pct_2022": 17.59,
+      "tendencia": -27.4,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BOA VISTA DO RAMOS": {
+    "nome": "BOA VISTA DO RAMOS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 41.83,
+        "votos_eb": 5050,
+        "votos_validos": 12072,
+        "votos_totais": 12072
+      },
+      "2022": {
+        "percentual_eb": 41.22,
+        "votos_eb": 7378,
+        "votos_validos": 17901,
+        "votos_totais": 17901
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 41.45,
+      "pct_2010": 41.83,
+      "pct_2018": 41.52,
+      "pct_2022": 41.22,
+      "tendencia": -0.61,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BOCA DO ACRE": {
+    "nome": "BOCA DO ACRE",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 40.89,
+        "votos_eb": 8511,
+        "votos_validos": 20814,
+        "votos_totais": 20814
+      },
+      "2022": {
+        "percentual_eb": 24.63,
+        "votos_eb": 7266,
+        "votos_validos": 29501,
+        "votos_totais": 29501
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 30.73,
+      "pct_2010": 40.89,
+      "pct_2018": 32.76,
+      "pct_2022": 24.63,
+      "tendencia": -16.26,
+      "nota_2018": "interpolado"
+    }
+  },
+  "BORBA": {
+    "nome": "BORBA",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 46.67,
+        "votos_eb": 10635,
+        "votos_validos": 22789,
+        "votos_totais": 22789
+      },
+      "2022": {
+        "percentual_eb": 40.45,
+        "votos_eb": 12512,
+        "votos_validos": 30932,
+        "votos_totais": 30932
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 42.78,
+      "pct_2010": 46.67,
+      "pct_2018": 43.56,
+      "pct_2022": 40.45,
+      "tendencia": -6.22,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CAAPIRANGA": {
+    "nome": "CAAPIRANGA",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 44.3,
+        "votos_eb": 3646,
+        "votos_validos": 8231,
+        "votos_totais": 8231
+      },
+      "2022": {
+        "percentual_eb": 34.32,
+        "votos_eb": 4338,
+        "votos_validos": 12639,
+        "votos_totais": 12639
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 38.06,
+      "pct_2010": 44.3,
+      "pct_2018": 39.31,
+      "pct_2022": 34.32,
+      "tendencia": -9.98,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CANUTAMA": {
+    "nome": "CANUTAMA",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 36.54,
+        "votos_eb": 2785,
+        "votos_validos": 7621,
+        "votos_totais": 7621
+      },
+      "2022": {
+        "percentual_eb": 31.42,
+        "votos_eb": 4038,
+        "votos_validos": 12852,
+        "votos_totais": 12852
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 33.34,
+      "pct_2010": 36.54,
+      "pct_2018": 33.98,
+      "pct_2022": 31.42,
+      "tendencia": -5.12,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CARAUARI": {
+    "nome": "CARAUARI",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 37.22,
+        "votos_eb": 6403,
+        "votos_validos": 17204,
+        "votos_totais": 17204
+      },
+      "2022": {
+        "percentual_eb": 50.72,
+        "votos_eb": 13775,
+        "votos_validos": 27158,
+        "votos_totais": 27158
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 45.66,
+      "pct_2010": 37.22,
+      "pct_2018": 43.97,
+      "pct_2022": 50.72,
+      "tendencia": 13.5,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CAREIRO": {
+    "nome": "CAREIRO",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 41.19,
+        "votos_eb": 9751,
+        "votos_validos": 23672,
+        "votos_totais": 23672
+      },
+      "2022": {
+        "percentual_eb": 45.85,
+        "votos_eb": 14333,
+        "votos_validos": 31262,
+        "votos_totais": 31262
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 44.1,
+      "pct_2010": 41.19,
+      "pct_2018": 43.52,
+      "pct_2022": 45.85,
+      "tendencia": 4.66,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CAREIRO DA VÁRZEA": {
+    "nome": "CAREIRO DA VÁRZEA",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.44,
+        "votos_eb": 8870,
+        "votos_validos": 19522,
+        "votos_totais": 19522
+      },
+      "2022": {
+        "percentual_eb": 40.16,
+        "votos_eb": 9250,
+        "votos_validos": 23032,
+        "votos_totais": 23032
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 42.14,
+      "pct_2010": 45.44,
+      "pct_2018": 42.8,
+      "pct_2022": 40.16,
+      "tendencia": -5.28,
+      "nota_2018": "interpolado"
+    }
+  },
+  "COARI": {
+    "nome": "COARI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 36.27,
+        "votos_eb": 19338,
+        "votos_validos": 53320,
+        "votos_totais": 53320
+      },
+      "2022": {
+        "percentual_eb": 21.57,
+        "votos_eb": 13902,
+        "votos_validos": 64461,
+        "votos_totais": 64461
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 27.08,
+      "pct_2010": 36.27,
+      "pct_2018": 28.92,
+      "pct_2022": 21.57,
+      "tendencia": -14.7,
+      "nota_2018": "interpolado"
+    }
+  },
+  "CODAJÁS": {
+    "nome": "CODAJÁS",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 43.13,
+        "votos_eb": 7261,
+        "votos_validos": 16835,
+        "votos_totais": 16835
+      },
+      "2022": {
+        "percentual_eb": 17.58,
+        "votos_eb": 3778,
+        "votos_validos": 21485,
+        "votos_totais": 21485
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 27.16,
+      "pct_2010": 43.13,
+      "pct_2018": 30.36,
+      "pct_2022": 17.58,
+      "tendencia": -25.55,
+      "nota_2018": "interpolado"
+    }
+  },
+  "EIRUNEPÉ": {
+    "nome": "EIRUNEPÉ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 37.89,
+        "votos_eb": 7782,
+        "votos_validos": 20541,
+        "votos_totais": 20541
+      },
+      "2022": {
+        "percentual_eb": 49.79,
+        "votos_eb": 13743,
+        "votos_validos": 27603,
+        "votos_totais": 27603
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 45.33,
+      "pct_2010": 37.89,
+      "pct_2018": 43.84,
+      "pct_2022": 49.79,
+      "tendencia": 11.9,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ENVIRA": {
+    "nome": "ENVIRA",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 28.55,
+        "votos_eb": 3325,
+        "votos_validos": 11647,
+        "votos_totais": 11647
+      },
+      "2022": {
+        "percentual_eb": 39.4,
+        "votos_eb": 5549,
+        "votos_validos": 14085,
+        "votos_totais": 14085
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 35.33,
+      "pct_2010": 28.55,
+      "pct_2018": 33.98,
+      "pct_2022": 39.4,
+      "tendencia": 10.85,
+      "nota_2018": "interpolado"
+    }
+  },
+  "FONTE BOA": {
+    "nome": "FONTE BOA",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 44.61,
+        "votos_eb": 6942,
+        "votos_validos": 15563,
+        "votos_totais": 15563
+      },
+      "2022": {
+        "percentual_eb": 51.75,
+        "votos_eb": 11204,
+        "votos_validos": 21651,
+        "votos_totais": 21651
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 49.07,
+      "pct_2010": 44.61,
+      "pct_2018": 48.18,
+      "pct_2022": 51.75,
+      "tendencia": 7.14,
+      "nota_2018": "interpolado"
+    }
+  },
+  "GUAJARÁ": {
+    "nome": "GUAJARÁ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 47.15,
+        "votos_eb": 3007,
+        "votos_validos": 6377,
+        "votos_totais": 6377
+      },
+      "2022": {
+        "percentual_eb": 28.98,
+        "votos_eb": 4146,
+        "votos_validos": 14305,
+        "votos_totais": 14305
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 35.79,
+      "pct_2010": 47.15,
+      "pct_2018": 38.06,
+      "pct_2022": 28.98,
+      "tendencia": -18.17,
+      "nota_2018": "interpolado"
+    }
+  },
+  "HUMAITÁ": {
+    "nome": "HUMAITÁ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 36.81,
+        "votos_eb": 11675,
+        "votos_validos": 31721,
+        "votos_totais": 31721
+      },
+      "2022": {
+        "percentual_eb": 25.82,
+        "votos_eb": 11530,
+        "votos_validos": 44663,
+        "votos_totais": 44663
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 29.94,
+      "pct_2010": 36.81,
+      "pct_2018": 31.32,
+      "pct_2022": 25.82,
+      "tendencia": -10.99,
+      "nota_2018": "interpolado"
+    }
+  },
+  "IPIXUNA": {
+    "nome": "IPIXUNA",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 32.93,
+        "votos_eb": 2724,
+        "votos_validos": 8271,
+        "votos_totais": 8271
+      },
+      "2022": {
+        "percentual_eb": 55.88,
+        "votos_eb": 7836,
+        "votos_validos": 14023,
+        "votos_totais": 14023
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 47.27,
+      "pct_2010": 32.93,
+      "pct_2018": 44.4,
+      "pct_2022": 55.88,
+      "tendencia": 22.95,
+      "nota_2018": "interpolado"
+    }
+  },
+  "IRANDUBA": {
+    "nome": "IRANDUBA",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.5,
+        "votos_eb": 16609,
+        "votos_validos": 36505,
+        "votos_totais": 36505
+      },
+      "2022": {
+        "percentual_eb": 31.88,
+        "votos_eb": 17536,
+        "votos_validos": 54999,
+        "votos_totais": 54999
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 36.99,
+      "pct_2010": 45.5,
+      "pct_2018": 38.69,
+      "pct_2022": 31.88,
+      "tendencia": -13.62,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ITACOATIARA": {
+    "nome": "ITACOATIARA",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.27,
+        "votos_eb": 33376,
+        "votos_validos": 78965,
+        "votos_totais": 78965
+      },
+      "2022": {
+        "percentual_eb": 48.03,
+        "votos_eb": 47772,
+        "votos_validos": 99456,
+        "votos_totais": 99456
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 45.87,
+      "pct_2010": 42.27,
+      "pct_2018": 45.15,
+      "pct_2022": 48.03,
+      "tendencia": 5.76,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ITAMARATI": {
+    "nome": "ITAMARATI",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 40.79,
+        "votos_eb": 2743,
+        "votos_validos": 6724,
+        "votos_totais": 6724
+      },
+      "2022": {
+        "percentual_eb": 73.65,
+        "votos_eb": 6958,
+        "votos_validos": 9447,
+        "votos_totais": 9447
+      }
+    },
+    "classificacao": {
+      "classificacao": "Bastião Eduardista",
+      "media_ponderada": 61.33,
+      "pct_2010": 40.79,
+      "pct_2018": 57.22,
+      "pct_2022": 73.65,
+      "tendencia": 32.86,
+      "nota_2018": "interpolado"
+    }
+  },
+  "ITAPIRANGA": {
+    "nome": "ITAPIRANGA",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.79,
+        "votos_eb": 3979,
+        "votos_validos": 8690,
+        "votos_totais": 8690
+      },
+      "2022": {
+        "percentual_eb": 50.43,
+        "votos_eb": 6015,
+        "votos_validos": 11928,
+        "votos_totais": 11928
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 48.69,
+      "pct_2010": 45.79,
+      "pct_2018": 48.11,
+      "pct_2022": 50.43,
+      "tendencia": 4.64,
+      "nota_2018": "interpolado"
+    }
+  },
+  "JAPURÁ": {
+    "nome": "JAPURÁ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 39.09,
+        "votos_eb": 1620,
+        "votos_validos": 4144,
+        "votos_totais": 4144
+      },
+      "2022": {
+        "percentual_eb": 18.12,
+        "votos_eb": 1088,
+        "votos_validos": 6006,
+        "votos_totais": 6006
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 25.98,
+      "pct_2010": 39.09,
+      "pct_2018": 28.61,
+      "pct_2022": 18.12,
+      "tendencia": -20.97,
+      "nota_2018": "interpolado"
+    }
+  },
+  "JURUÁ": {
+    "nome": "JURUÁ",
+    "calha": "Juruá",
+    "historico": {
+      "2010": {
+        "percentual_eb": 27.05,
+        "votos_eb": 1729,
+        "votos_validos": 6393,
+        "votos_totais": 6393
+      },
+      "2022": {
+        "percentual_eb": 46.24,
+        "votos_eb": 4407,
+        "votos_validos": 9530,
+        "votos_totais": 9530
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 39.04,
+      "pct_2010": 27.05,
+      "pct_2018": 36.65,
+      "pct_2022": 46.24,
+      "tendencia": 19.19,
+      "nota_2018": "interpolado"
+    }
+  },
+  "JUTAÍ": {
+    "nome": "JUTAÍ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 46.12,
+        "votos_eb": 4932,
+        "votos_validos": 10695,
+        "votos_totais": 10695
+      },
+      "2022": {
+        "percentual_eb": 54.86,
+        "votos_eb": 9643,
+        "votos_validos": 17576,
+        "votos_totais": 17576
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 51.58,
+      "pct_2010": 46.12,
+      "pct_2018": 50.49,
+      "pct_2022": 54.86,
+      "tendencia": 8.74,
+      "nota_2018": "interpolado"
+    }
+  },
+  "LÁBREA": {
+    "nome": "LÁBREA",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.86,
+        "votos_eb": 10173,
+        "votos_validos": 23738,
+        "votos_totais": 23738
+      },
+      "2022": {
+        "percentual_eb": 63.16,
+        "votos_eb": 22259,
+        "votos_validos": 35242,
+        "votos_totais": 35242
+      }
+    },
+    "classificacao": {
+      "classificacao": "Bastião Eduardista",
+      "media_ponderada": 55.55,
+      "pct_2010": 42.86,
+      "pct_2018": 53.01,
+      "pct_2022": 63.16,
+      "tendencia": 20.3,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MANACAPURU": {
+    "nome": "MANACAPURU",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 32.61,
+        "votos_eb": 26400,
+        "votos_validos": 80959,
+        "votos_totais": 80959
+      },
+      "2022": {
+        "percentual_eb": 38.45,
+        "votos_eb": 40051,
+        "votos_validos": 104164,
+        "votos_totais": 104164
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 36.26,
+      "pct_2010": 32.61,
+      "pct_2018": 35.53,
+      "pct_2022": 38.45,
+      "tendencia": 5.84,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MANAQUIRI": {
+    "nome": "MANAQUIRI",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 40.85,
+        "votos_eb": 6051,
+        "votos_validos": 14814,
+        "votos_totais": 14814
+      },
+      "2022": {
+        "percentual_eb": 51.97,
+        "votos_eb": 10148,
+        "votos_validos": 19525,
+        "votos_totais": 19525
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 47.8,
+      "pct_2010": 40.85,
+      "pct_2018": 46.41,
+      "pct_2022": 51.97,
+      "tendencia": 11.12,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MANAUS": {
+    "nome": "MANAUS",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.93,
+        "votos_eb": 754309,
+        "votos_validos": 1757215,
+        "votos_totais": 1757215
+      },
+      "2022": {
+        "percentual_eb": 26.41,
+        "votos_eb": 550579,
+        "votos_validos": 2085043,
+        "votos_totais": 2085043
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 32.6,
+      "pct_2010": 42.93,
+      "pct_2018": 34.67,
+      "pct_2022": 26.41,
+      "tendencia": -16.52,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MANICORÉ": {
+    "nome": "MANICORÉ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 36.84,
+        "votos_eb": 10819,
+        "votos_validos": 29368,
+        "votos_totais": 29368
+      },
+      "2022": {
+        "percentual_eb": 28.28,
+        "votos_eb": 12891,
+        "votos_validos": 45591,
+        "votos_totais": 45591
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 31.49,
+      "pct_2010": 36.84,
+      "pct_2018": 32.56,
+      "pct_2022": 28.28,
+      "tendencia": -8.56,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MARAÃ": {
+    "nome": "MARAÃ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 36.0,
+        "votos_eb": 2890,
+        "votos_validos": 8028,
+        "votos_totais": 8028
+      },
+      "2022": {
+        "percentual_eb": 33.82,
+        "votos_eb": 3646,
+        "votos_validos": 10781,
+        "votos_totais": 10781
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 34.64,
+      "pct_2010": 36.0,
+      "pct_2018": 34.91,
+      "pct_2022": 33.82,
+      "tendencia": -2.18,
+      "nota_2018": "interpolado"
+    }
+  },
+  "MAUÉS": {
+    "nome": "MAUÉS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.55,
+        "votos_eb": 15223,
+        "votos_validos": 35773,
+        "votos_totais": 35773
+      },
+      "2022": {
+        "percentual_eb": 32.09,
+        "votos_eb": 15856,
+        "votos_validos": 49414,
+        "votos_totais": 49414
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 36.01,
+      "pct_2010": 42.55,
+      "pct_2018": 37.32,
+      "pct_2022": 32.09,
+      "tendencia": -10.46,
+      "nota_2018": "interpolado"
+    }
+  },
+  "NHAMUNDÁ": {
+    "nome": "NHAMUNDÁ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 38.01,
+        "votos_eb": 5716,
+        "votos_validos": 15040,
+        "votos_totais": 15040
+      },
+      "2022": {
+        "percentual_eb": 39.76,
+        "votos_eb": 8253,
+        "votos_validos": 20759,
+        "votos_totais": 20759
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 39.1,
+      "pct_2010": 38.01,
+      "pct_2018": 38.88,
+      "pct_2022": 39.76,
+      "tendencia": 1.75,
+      "nota_2018": "interpolado"
+    }
+  },
+  "NOVA OLINDA DO NORTE": {
+    "nome": "NOVA OLINDA DO NORTE",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.72,
+        "votos_eb": 7562,
+        "votos_validos": 17703,
+        "votos_totais": 17703
+      },
+      "2022": {
+        "percentual_eb": 53.67,
+        "votos_eb": 14014,
+        "votos_validos": 26109,
+        "votos_totais": 26109
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 49.56,
+      "pct_2010": 42.72,
+      "pct_2018": 48.2,
+      "pct_2022": 53.67,
+      "tendencia": 10.95,
+      "nota_2018": "interpolado"
+    }
+  },
+  "NOVO AIRÃO": {
+    "nome": "NOVO AIRÃO",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.03,
+        "votos_eb": 4050,
+        "votos_validos": 9635,
+        "votos_totais": 9635
+      },
+      "2022": {
+        "percentual_eb": 20.59,
+        "votos_eb": 3305,
+        "votos_validos": 16048,
+        "votos_totais": 16048
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 28.63,
+      "pct_2010": 42.03,
+      "pct_2018": 31.31,
+      "pct_2022": 20.59,
+      "tendencia": -21.44,
+      "nota_2018": "interpolado"
+    }
+  },
+  "NOVO ARIPUANÃ": {
+    "nome": "NOVO ARIPUANÃ",
+    "calha": "Madeira",
+    "historico": {
+      "2010": {
+        "percentual_eb": 34.04,
+        "votos_eb": 4396,
+        "votos_validos": 12914,
+        "votos_totais": 12914
+      },
+      "2022": {
+        "percentual_eb": 44.03,
+        "votos_eb": 7677,
+        "votos_validos": 17436,
+        "votos_totais": 17436
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 40.28,
+      "pct_2010": 34.04,
+      "pct_2018": 39.03,
+      "pct_2022": 44.03,
+      "tendencia": 9.99,
+      "nota_2018": "interpolado"
+    }
+  },
+  "PARINTINS": {
+    "nome": "PARINTINS",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 43.54,
+        "votos_eb": 35717,
+        "votos_validos": 82031,
+        "votos_totais": 82031
+      },
+      "2022": {
+        "percentual_eb": 44.07,
+        "votos_eb": 44223,
+        "votos_validos": 100338,
+        "votos_totais": 100338
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 43.87,
+      "pct_2010": 43.54,
+      "pct_2018": 43.8,
+      "pct_2022": 44.07,
+      "tendencia": 0.53,
+      "nota_2018": "interpolado"
+    }
+  },
+  "PAUINI": {
+    "nome": "PAUINI",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 35.61,
+        "votos_eb": 3574,
+        "votos_validos": 10037,
+        "votos_totais": 10037
+      },
+      "2022": {
+        "percentual_eb": 29.53,
+        "votos_eb": 4174,
+        "votos_validos": 14133,
+        "votos_totais": 14133
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 31.81,
+      "pct_2010": 35.61,
+      "pct_2018": 32.57,
+      "pct_2022": 29.53,
+      "tendencia": -6.08,
+      "nota_2018": "interpolado"
+    }
+  },
+  "PRESIDENTE FIGUEIREDO": {
+    "nome": "PRESIDENTE FIGUEIREDO",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 38.3,
+        "votos_eb": 8295,
+        "votos_validos": 21659,
+        "votos_totais": 21659
+      },
+      "2022": {
+        "percentual_eb": 27.85,
+        "votos_eb": 9193,
+        "votos_validos": 33013,
+        "votos_totais": 33013
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 31.77,
+      "pct_2010": 38.3,
+      "pct_2018": 33.08,
+      "pct_2022": 27.85,
+      "tendencia": -10.45,
+      "nota_2018": "interpolado"
+    }
+  },
+  "RIO PRETO DA EVA": {
+    "nome": "RIO PRETO DA EVA",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 44.58,
+        "votos_eb": 7677,
+        "votos_validos": 17220,
+        "votos_totais": 17220
+      },
+      "2022": {
+        "percentual_eb": 29.86,
+        "votos_eb": 7602,
+        "votos_validos": 25455,
+        "votos_totais": 25455
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 35.38,
+      "pct_2010": 44.58,
+      "pct_2018": 37.22,
+      "pct_2022": 29.86,
+      "tendencia": -14.72,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SANTA ISABEL DO RIO NEGRO": {
+    "nome": "SANTA ISABEL DO RIO NEGRO",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "percentual_eb": 42.72,
+        "votos_eb": 2748,
+        "votos_validos": 6433,
+        "votos_totais": 6433
+      },
+      "2022": {
+        "percentual_eb": 29.86,
+        "votos_eb": 2990,
+        "votos_validos": 10014,
+        "votos_totais": 10014
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 34.68,
+      "pct_2010": 42.72,
+      "pct_2018": 36.29,
+      "pct_2022": 29.86,
+      "tendencia": -12.86,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SANTO ANTÔNIO DO IÇÁ": {
+    "nome": "SANTO ANTÔNIO DO IÇÁ",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 37.37,
+        "votos_eb": 5208,
+        "votos_validos": 13938,
+        "votos_totais": 13938
+      },
+      "2022": {
+        "percentual_eb": 57.15,
+        "votos_eb": 13526,
+        "votos_validos": 23667,
+        "votos_totais": 23667
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 49.73,
+      "pct_2010": 37.37,
+      "pct_2018": 47.26,
+      "pct_2022": 57.15,
+      "tendencia": 19.78,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SILVES": {
+    "nome": "SILVES",
+    "calha": "Região Metropolitana de Manaus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.13,
+        "votos_eb": 3922,
+        "votos_validos": 8691,
+        "votos_totais": 8691
+      },
+      "2022": {
+        "percentual_eb": 59.03,
+        "votos_eb": 6992,
+        "votos_validos": 11844,
+        "votos_totais": 11844
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 53.82,
+      "pct_2010": 45.13,
+      "pct_2018": 52.08,
+      "pct_2022": 59.03,
+      "tendencia": 13.9,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SÃO GABRIEL DA CACHOEIRA": {
+    "nome": "SÃO GABRIEL DA CACHOEIRA",
+    "calha": "Rio Negro",
+    "historico": {
+      "2010": {
+        "percentual_eb": 47.42,
+        "votos_eb": 13513,
+        "votos_validos": 28495,
+        "votos_totais": 28495
+      },
+      "2022": {
+        "percentual_eb": 53.45,
+        "votos_eb": 21953,
+        "votos_validos": 41075,
+        "votos_totais": 41075
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 51.19,
+      "pct_2010": 47.42,
+      "pct_2018": 50.44,
+      "pct_2022": 53.45,
+      "tendencia": 6.03,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SÃO PAULO DE OLIVENÇA": {
+    "nome": "SÃO PAULO DE OLIVENÇA",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 47.73,
+        "votos_eb": 8390,
+        "votos_validos": 17578,
+        "votos_totais": 17578
+      },
+      "2022": {
+        "percentual_eb": 32.07,
+        "votos_eb": 8970,
+        "votos_validos": 27966,
+        "votos_totais": 27966
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 37.94,
+      "pct_2010": 47.73,
+      "pct_2018": 39.9,
+      "pct_2022": 32.07,
+      "tendencia": -15.66,
+      "nota_2018": "interpolado"
+    }
+  },
+  "SÃO SEBASTIÃO DO UATUMÃ": {
+    "nome": "SÃO SEBASTIÃO DO UATUMÃ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 41.19,
+        "votos_eb": 2820,
+        "votos_validos": 6847,
+        "votos_totais": 6847
+      },
+      "2022": {
+        "percentual_eb": 34.71,
+        "votos_eb": 3449,
+        "votos_validos": 9937,
+        "votos_totais": 9937
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 37.14,
+      "pct_2010": 41.19,
+      "pct_2018": 37.95,
+      "pct_2022": 34.71,
+      "tendencia": -6.48,
+      "nota_2018": "interpolado"
+    }
+  },
+  "TABATINGA": {
+    "nome": "TABATINGA",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 47.76,
+        "votos_eb": 15957,
+        "votos_validos": 33410,
+        "votos_totais": 33410
+      },
+      "2022": {
+        "percentual_eb": 43.02,
+        "votos_eb": 21772,
+        "votos_validos": 50606,
+        "votos_totais": 50606
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 44.8,
+      "pct_2010": 47.76,
+      "pct_2018": 45.39,
+      "pct_2022": 43.02,
+      "tendencia": -4.74,
+      "nota_2018": "interpolado"
+    }
+  },
+  "TAPAUÁ": {
+    "nome": "TAPAUÁ",
+    "calha": "Purus",
+    "historico": {
+      "2010": {
+        "percentual_eb": 33.19,
+        "votos_eb": 4062,
+        "votos_validos": 12239,
+        "votos_totais": 12239
+      },
+      "2022": {
+        "percentual_eb": 36.33,
+        "votos_eb": 6352,
+        "votos_validos": 17484,
+        "votos_totais": 17484
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 35.15,
+      "pct_2010": 33.19,
+      "pct_2018": 34.76,
+      "pct_2022": 36.33,
+      "tendencia": 3.14,
+      "nota_2018": "interpolado"
+    }
+  },
+  "TEFÉ": {
+    "nome": "TEFÉ",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 43.17,
+        "votos_eb": 18894,
+        "votos_validos": 43762,
+        "votos_totais": 43762
+      },
+      "2022": {
+        "percentual_eb": 28.84,
+        "votos_eb": 17976,
+        "votos_validos": 62333,
+        "votos_totais": 62333
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 34.21,
+      "pct_2010": 43.17,
+      "pct_2018": 36.01,
+      "pct_2022": 28.84,
+      "tendencia": -14.33,
+      "nota_2018": "interpolado"
+    }
+  },
+  "TONANTINS": {
+    "nome": "TONANTINS",
+    "calha": "Alto Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 45.49,
+        "votos_eb": 4270,
+        "votos_validos": 9386,
+        "votos_totais": 9386
+      },
+      "2022": {
+        "percentual_eb": 53.19,
+        "votos_eb": 8026,
+        "votos_validos": 15089,
+        "votos_totais": 15089
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 50.3,
+      "pct_2010": 45.49,
+      "pct_2018": 49.34,
+      "pct_2022": 53.19,
+      "tendencia": 7.7,
+      "nota_2018": "interpolado"
+    }
+  },
+  "UARINI": {
+    "nome": "UARINI",
+    "calha": "Médio Solimões",
+    "historico": {
+      "2010": {
+        "percentual_eb": 48.51,
+        "votos_eb": 3754,
+        "votos_validos": 7738,
+        "votos_totais": 7738
+      },
+      "2022": {
+        "percentual_eb": 48.77,
+        "votos_eb": 5952,
+        "votos_validos": 12203,
+        "votos_totais": 12203
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Eduardista",
+      "media_ponderada": 48.67,
+      "pct_2010": 48.51,
+      "pct_2018": 48.64,
+      "pct_2022": 48.77,
+      "tendencia": 0.26,
+      "nota_2018": "interpolado"
+    }
+  },
+  "URUCARÁ": {
+    "nome": "URUCARÁ",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 30.01,
+        "votos_eb": 3863,
+        "votos_validos": 12874,
+        "votos_totais": 12874
+      },
+      "2022": {
+        "percentual_eb": 35.23,
+        "votos_eb": 5812,
+        "votos_validos": 16498,
+        "votos_totais": 16498
+      }
+    },
+    "classificacao": {
+      "classificacao": "Tendência Anti-Eduardista",
+      "media_ponderada": 33.27,
+      "pct_2010": 30.01,
+      "pct_2018": 32.62,
+      "pct_2022": 35.23,
+      "tendencia": 5.22,
+      "nota_2018": "interpolado"
+    }
+  },
+  "URUCURITUBA": {
+    "nome": "URUCURITUBA",
+    "calha": "Baixo Amazonas",
+    "historico": {
+      "2010": {
+        "percentual_eb": 37.13,
+        "votos_eb": 4958,
+        "votos_validos": 13353,
+        "votos_totais": 13353
+      },
+      "2022": {
+        "percentual_eb": 38.4,
+        "votos_eb": 6838,
+        "votos_validos": 17806,
+        "votos_totais": 17806
+      }
+    },
+    "classificacao": {
+      "classificacao": "Swing / Competitivo",
+      "media_ponderada": 37.92,
+      "pct_2010": 37.13,
+      "pct_2018": 37.76,
+      "pct_2022": 38.4,
+      "tendencia": 1.27,
+      "nota_2018": "interpolado"
+    }
+  }
+}

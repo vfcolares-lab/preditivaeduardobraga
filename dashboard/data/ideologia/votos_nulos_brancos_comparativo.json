@@ -1,0 +1,90 @@
+{
+  "disponibilidade": "Nota: Dados de 2018 incluem apenas Presidente para AM",
+  "dados_2010": {
+    "Governador": {
+      "votos_geral": 1621948,
+      "votos_validos": 1477948,
+      "votos_brancos": 30023,
+      "votos_nulos": 113977,
+      "pct_validos": 91.12,
+      "pct_brancos": 1.85,
+      "pct_nulos": 7.03
+    },
+    "Senador (2ª vaga)": {
+      "votos_geral": 3243896,
+      "votos_validos": 2940331,
+      "votos_brancos": 93851,
+      "votos_nulos": 209714,
+      "pct_validos": 90.64,
+      "pct_brancos": 2.89,
+      "pct_nulos": 6.46
+    },
+    "Cargo 6": {
+      "votos_geral": 1621947,
+      "votos_validos": 1440635,
+      "votos_brancos": 49665,
+      "votos_nulos": 131647,
+      "pct_validos": 88.82,
+      "pct_brancos": 3.06,
+      "pct_nulos": 8.12
+    },
+    "Cargo 7": {
+      "votos_geral": 1621947,
+      "votos_validos": 1443362,
+      "votos_brancos": 41046,
+      "votos_nulos": 137539,
+      "pct_validos": 88.99,
+      "pct_brancos": 2.53,
+      "pct_nulos": 8.48
+    }
+  },
+  "dados_2018": {
+    "Presidente": {
+      "votos_geral": 3868157,
+      "votos_validos": 3614837,
+      "votos_brancos": 58363,
+      "votos_nulos": 194957,
+      "pct_validos": 93.45,
+      "pct_brancos": 1.51,
+      "pct_nulos": 5.04
+    }
+  },
+  "dados_2022": {
+    "Governador": {
+      "votos_geral": 4175954,
+      "votos_validos": 3748690,
+      "votos_brancos": 131164,
+      "votos_nulos": 296100,
+      "pct_validos": 89.77,
+      "pct_brancos": 3.14,
+      "pct_nulos": 7.09
+    },
+    "Senador (2ª vaga)": {
+      "votos_geral": 2110875,
+      "votos_validos": 1892770,
+      "votos_brancos": 90811,
+      "votos_nulos": 127294,
+      "pct_validos": 89.67,
+      "pct_brancos": 4.3,
+      "pct_nulos": 6.03
+    },
+    "Cargo 6": {
+      "votos_geral": 2110875,
+      "votos_validos": 1993495,
+      "votos_brancos": 67701,
+      "votos_nulos": 49679,
+      "pct_validos": 94.44,
+      "pct_brancos": 3.21,
+      "pct_nulos": 2.35
+    },
+    "Cargo 7": {
+      "votos_geral": 2110875,
+      "votos_validos": 1972345,
+      "votos_brancos": 63514,
+      "votos_nulos": 75016,
+      "pct_validos": 93.44,
+      "pct_brancos": 3.01,
+      "pct_nulos": 3.55
+    }
+  }
+}

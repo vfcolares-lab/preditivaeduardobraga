@@ -1,0 +1,24 @@
+{
+  "data_processamento": "2026-04-08T22:05:00.379031",
+  "periodo": "2010-2022",
+  "projecao": "2026",
+  "cargos_analisados": [
+    "Presidente",
+    "Governador",
+    "Senador 1ª Vaga",
+    "Senador 2ª Vaga"
+  ],
+  "eleicoes": [
+    2010,
+    2014,
+    2018,
+    2022
+  ],
+  "clasificacoes": [
+    "Bastião Lulista",
+    "Tendência Lulista",
+    "Swing / Dividido",
+    "Tendência Bolsonarista",
+    "Bastião Bolsonarista"
+  ]
+}

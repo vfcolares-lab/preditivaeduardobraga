@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Eleitoral Amazonas 2010 x 2018</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+
+    <!-- Chart.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <h1>📊 Dashboard Eleitoral Comparativo</h1>
+                <p class="subtitle">Amazonas - 2010 vs 2018 | Análise de Eduardo Braga (Senado)</p>
+            </div>
+            <div class="header-controls">
+                <button id="toggleTheme" class="btn btn-icon" title="Alternar tema">🌙</button>
+            </div>
+        </header>
+
+        <!-- Tab Navigation -->
+        <nav class="tab-navigation">
+            <div class="tab-container">
+                <button class="tab-btn active" data-tab="resumo">📌 Resumo</button>
+                <button class="tab-btn" data-tab="mapa">🗺️ Mapa</button>
+                <button class="tab-btn" data-tab="comparativo">📈 Comparativo</button>
+                <button class="tab-btn" data-tab="filtros">🎯 Filtros Cruzados</button>
+                <button class="tab-btn" data-tab="senatorial">👥 Dupla Senatorial</button>
+                <button class="tab-btn" data-tab="chapas">🗳️ Chapas Prováveis</button>
+                <span style="border-left: 1px solid #ddd; margin: 0 5px;"></span>
+                <button class="tab-btn" data-tab="ideologia">🔴🔵 Evolução Ideológica</button>
+                <button class="tab-btn" data-tab="projecao-2026">🎯 Projeção 2026</button>
+                <button class="tab-btn" data-tab="eb-ideologia">📊 EB vs Ideologia</button>
+                <button class="tab-btn" data-tab="eb-classificacao">📈 Classificação Eduardista</button>
+                <button class="tab-btn" data-tab="mapa-eleitoral">🗺️ Mapa Interativo</button>
+                <button class="tab-btn" data-tab="validacao">✓ Validação Cruzada</button>
+                <button class="tab-btn" data-tab="dados">📋 Dados Brutos</button>
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+
+            <!-- ============ RESUMO TAB ============ -->
+            <section id="resumo" class="tab-content active">
+                <div class="content-section">
+                    <h2>Indicadores-Chave 2010 vs 2018</h2>
+                    <div class="indicators-grid">
+                        <div class="indicator-card">
+                            <h3>Votos de Eduardo Braga</h3>
+                            <div class="indicator-value">
+                                <span class="value-2010">—</span>
+                                <span class="vs">vs</span>
+                                <span class="value-2018">—</span>
+                            </div>
+                            <div class="indicator-detail">Votos absolutos (2010 vs 2018)</div>
+                        </div>
+
+                        <div class="indicator-card">
+                            <h3>% de Votos Válidos</h3>
+                            <div class="indicator-value">
+                                <span class="value-2010">—</span>
+                                <span class="vs">vs</span>
+                                <span class="value-2018">—</span>
+                            </div>
+                            <div class="indicator-detail">Percentual do total válido</div>
+                        </div>
+
+                        <div class="indicator-card">
+                            <h3>Urnas Ganhas (1º lugar)</h3>
+                            <div class="indicator-value">
+                                <span class="value-2010">—</span>
+                                <span class="vs">vs</span>
+                                <span class="value-2018">—</span>
+                            </div>
+                            <div class="indicator-detail">% de seções onde EB venceu</div>
+                        </div>
+
+                        <div class="indicator-card">
+                            <h3>Variação (2010 → 2018)</h3>
+                            <div class="indicator-value" id="variation">—</div>
+                            <div class="indicator-detail">Crescimento/queda em pontos %</div>
+                        </div>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Ranking: Top 5 Crescimento vs Queda por Município</h3>
+                    <div class="ranking-grid">
+                        <div>
+                            <h4>🟢 Mais Crescimento</h4>
+                            <ol id="top-growth" class="ranking-list">
+                                <li>Carregando...</li>
+                            </ol>
+                        </div>
+                        <div>
+                            <h4>🔴 Mais Queda</h4>
+                            <ol id="top-decline" class="ranking-list">
+                                <li>Carregando...</li>
+                            </ol>
+                        </div>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Gráficos de Análise</h3>
+                    <div class="charts-grid">
+                        <div style="width: 100%; max-width: 600px;">
+                            <h4>Votos Absolutos e Percentuais</h4>
+                            <canvas id="chartVotesComparison" width="400" height="200"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="charts-grid">
+                        <div style="width: 100%; max-width: 400px;">
+                            <h4>Taxa de Eleição (Seções onde EB ganhou)</h4>
+                            <canvas id="chartWinRate" width="300" height="300"></canvas>
+                        </div>
+                        <div style="width: 100%; max-width: 600px;">
+                            <h4>Força de EB por Calha (%)</h4>
+                            <canvas id="chartStrengthByRegion" width="400" height="200"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Seção de Votos Nulos e Brancos -->
+                <div id="resumo-nulos-brancos" class="content-section">
+                    <!-- Carregado dinamicamente -->
+                </div>
+            </section>
+
+            <!-- ============ MAPA TAB ============ -->
+            <section id="mapa" class="tab-content">
+                <div class="map-controls">
+                    <div class="control-group">
+                        <label for="mapMode">Modo de Coloração:</label>
+                        <select id="mapMode">
+                            <option value="eb_absolute">Votos Absolutos de EB</option>
+                            <option value="eb_percentage">Percentual de EB (%)</option>
+                            <option value="top_candidate">Candidato Mais Votado</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="mapYear">Ano:</label>
+                        <select id="mapYear">
+                            <option value="2010">2010</option>
+                            <option value="2018">2018</option>
+                        </select>
+                    </div>
+                    <div style="font-size: 0.85rem; color: #666; margin-top: 1rem;">
+                        💡 Clique em um município para detalhes. Passe o mouse para destacar.
+                    </div>
+                </div>
+                <div id="map" class="map-container"></div>
+                <div id="mapLegend" class="map-legend"></div>
+            </section>
+
+            <!-- ============ COMPARATIVO TAB ============ -->
+            <section id="comparativo" class="tab-content">
+                <div class="content-section">
+                    <h2>Comparativo 2010 vs 2018</h2>
+
+                    <h3>Mapas Lado a Lado</h3>
+                    <div class="maps-comparison">
+                        <div class="map-wrapper">
+                            <h4>2010</h4>
+                            <div id="map2010" class="map-container-small"></div>
+                        </div>
+                        <div class="map-wrapper">
+                            <h4>2018</h4>
+                            <div id="map2018" class="map-container-small"></div>
+                        </div>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Votos por Município (Top 15) - 2010 vs 2018</h3>
+                    <div class="charts-grid">
+                        <canvas id="chartMunicipalityComparison" width="400" height="600"></canvas>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Dados Comparativos</h3>
+                    <div class="table-wrapper">
+                        <table id="comparisonTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Município</th>
+                                    <th>Votos 2010</th>
+                                    <th>% 2010</th>
+                                    <th>Votos 2018</th>
+                                    <th>% 2018</th>
+                                    <th>Variação (votos)</th>
+                                    <th>Variação (%)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="comparisonTableBody">
+                                <tr><td colspan="7" style="text-align:center;">Carregando...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ FILTROS CRUZADOS TAB ============ -->
+            <section id="filtros" class="tab-content">
+                <div class="filtros-container">
+                    <!-- Left Panel: Filters -->
+                    <aside class="filters-panel">
+                        <h3>Filtros Cruzados</h3>
+
+                        <div class="filter-group">
+                            <label>Nível de Análise:</label>
+                            <div class="radio-group">
+                                <label><input type="radio" name="analysisLevel" value="section" checked> Por Seção</label>
+                                <label><input type="radio" name="analysisLevel" value="municipality"> Por Município</label>
+                                <label><input type="radio" name="analysisLevel" value="region"> Por Calha</label>
+                            </div>
+                        </div>
+
+                        <div class="filter-group">
+                            <label>Ano:</label>
+                            <select id="filterYear">
+                                <option value="2010">2010</option>
+                                <option value="2018">2018</option>
+                            </select>
+                        </div>
+
+                        <!-- PRESIDENTE -->
+                        <div class="filter-block">
+                            <h4>🗳️ PRESIDENTE</h4>
+                            <select id="filterPresident" class="candidate-select">
+                                <option value="">— Todos (ignorar)</option>
+                            </select>
+                            <div style="display:none" id="presidentOptions">
+                                <label>Condição:</label>
+                                <div class="radio-group">
+                                    <label><input type="radio" name="presidentCondition" value="any" checked> Qualquer</label>
+                                    <label><input type="radio" name="presidentCondition" value="won"> Ganhou</label>
+                                    <label><input type="radio" name="presidentCondition" value="lost"> Perdeu</label>
+                                </div>
+                                <label>% Mínima:</label>
+                                <input type="range" id="presidentMin" min="0" max="100" value="0" class="slider">
+                                <span id="presidentMinValue">0%</span>
+                            </div>
+                        </div>
+
+                        <!-- GOVERNADOR -->
+                        <div class="filter-block">
+                            <h4>🏛️ GOVERNADOR</h4>
+                            <select id="filterGovernor" class="candidate-select">
+                                <option value="">— Todos (ignorar)</option>
+                            </select>
+                            <div style="display:none" id="governorOptions">
+                                <label>Condição:</label>
+                                <div class="radio-group">
+                                    <label><input type="radio" name="governorCondition" value="any" checked> Qualquer</label>
+                                    <label><input type="radio" name="governorCondition" value="won"> Ganhou</label>
+                                    <label><input type="radio" name="governorCondition" value="lost"> Perdeu</label>
+                                </div>
+                                <label>% Mínima:</label>
+                                <input type="range" id="governorMin" min="0" max="100" value="0" class="slider">
+                                <span id="governorMinValue">0%</span>
+                            </div>
+                        </div>
+
+                        <!-- SENADOR 1 -->
+                        <div class="filter-block">
+                            <h4>👤 SENADOR 1ª VAGA</h4>
+                            <select id="filterSenator1" class="candidate-select">
+                                <option value="">— Todos (ignorar)</option>
+                            </select>
+                            <div style="display:none" id="senator1Options">
+                                <label>Condição:</label>
+                                <div class="radio-group">
+                                    <label><input type="radio" name="senator1Condition" value="any" checked> Qualquer</label>
+                                    <label><input type="radio" name="senator1Condition" value="won"> Ganhou</label>
+                                    <label><input type="radio" name="senator1Condition" value="lost"> Perdeu</label>
+                                </div>
+                                <label>% Mínima:</label>
+                                <input type="range" id="senator1Min" min="0" max="100" value="0" class="slider">
+                                <span id="senator1MinValue">0%</span>
+                            </div>
+                        </div>
+
+                        <!-- SENADOR 2 -->
+                        <div class="filter-block">
+                            <h4>👥 SENADOR 2ª VAGA</h4>
+                            <select id="filterSenator2" class="candidate-select">
+                                <option value="">— Todos (ignorar)</option>
+                            </select>
+                            <div style="display:none" id="senator2Options">
+                                <label>Condição:</label>
+                                <div class="radio-group">
+                                    <label><input type="radio" name="senator2Condition" value="any" checked> Qualquer</label>
+                                    <label><input type="radio" name="senator2Condition" value="won"> Ganhou</label>
+                                    <label><input type="radio" name="senator2Condition" value="lost"> Perdeu</label>
+                                </div>
+                                <label>% Mínima:</label>
+                                <input type="range" id="senator2Min" min="0" max="100" value="0" class="slider">
+                                <span id="senator2MinValue">0%</span>
+                            </div>
+                        </div>
+
+                        <div class="filter-actions">
+                            <button id="applyFilters" class="btn btn-primary">✓ Aplicar Filtros</button>
+                            <button id="clearFilters" class="btn btn-secondary">✕ Limpar</button>
+                        </div>
+                    </aside>
+
+                    <!-- Right Panel: Results -->
+                    <div class="filters-results">
+                        <div id="filterStats" class="filter-stats" style="display:none;">
+                            <h4>Resultado dos Filtros</h4>
+                            <p id="statsText">—</p>
+                        </div>
+
+                        <h4>Distribuição por Calha</h4>
+                        <canvas id="chartFilterDistribution" width="400" height="200"></canvas>
+
+                        <h4 style="margin-top: 2rem;">Resultados Encontrados</h4>
+                        <div class="table-wrapper">
+                            <table id="filterResultsTable" class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Município</th>
+                                        <th>Zona</th>
+                                        <th>Seção</th>
+                                        <th>Candidatos</th>
+                                        <th>Votos</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="filterResultsTableBody">
+                                    <tr><td colspan="5" style="text-align:center;">Aplique os filtros para ver resultados</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="export-buttons">
+                            <button class="btn btn-small" id="exportFilterCSV">📥 CSV</button>
+                            <button class="btn btn-small" id="exportFilterPDF">📄 PDF</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ DUPLA SENATORIAL TAB ============ -->
+            <section id="senatorial" class="tab-content">
+                <div class="content-section">
+                    <h2>Análise da Dupla Senatorial</h2>
+                    <p class="text-info">Análise de coincidência entre Eduardo Braga (EB) e Plínio Valério (ou outro candidato em 2010)</p>
+
+                    <div class="charts-grid">
+                        <div>
+                            <h3>Padrões de Voto (2018)</h3>
+                            <canvas id="chartSenatorialPair"></canvas>
+                        </div>
+                        <div>
+                            <h3>Por Município</h3>
+                            <canvas id="chartSenatorialByMunicipality"></canvas>
+                        </div>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Resumo Executivo</h3>
+                    <div class="info-box">
+                        <p>EB + Plínio ambos no top 2 (1º e 2º lugar, qualquer ordem): <strong id="senatorialTogether">—</strong></p>
+                        <p>EB NÃO ficou em 1º nem em 2º lugar: <strong id="senatorialEBOnly">—</strong></p>
+                        <p>Plínio NÃO ficou em 1º nem em 2º lugar: <strong id="senatorialOtherFirst">—</strong></p>
+                        <p>Ambos NÃO ficaram no top 2: <strong id="senatorialNeither">—</strong></p>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Desempenho de EB por Município</h3>
+                    <p class="text-info">Quantas seções Eduardo Braga ficou em 1º lugar, 2º lugar, ou fora do top 2 em cada município</p>
+                    <div class="table-wrapper">
+                        <div id="senatorialVoteTypeTable"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ CHAPAS PROVÁVEIS TAB ============ -->
+            <section id="chapas" class="tab-content">
+                <div class="content-section">
+                    <h2>Estimativa de Chapas Prováveis</h2>
+                    <p class="text-info">Combinação de voto mais provável entre Presidente, Governador e Senador</p>
+
+                    <h3>Top 10 Chapas Mais Frequentes (2010)</h3>
+                    <canvas id="chartBallots2010" width="400" height="300"></canvas>
+
+                    <h3 style="margin-top: 2rem;">Top 10 Chapas Mais Frequentes (2018)</h3>
+                    <canvas id="chartBallots2018" width="400" height="300"></canvas>
+
+                    <h3 style="margin-top: 2rem;">Distribuição de Chapas por Calha</h3>
+                    <div class="table-wrapper">
+                        <table id="ballotsByRegionTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Calha</th>
+                                    <th>Chapa Mais Comum</th>
+                                    <th>Frequência</th>
+                                    <th>Inclui EB</th>
+                                </tr>
+                            </thead>
+                            <tbody id="ballotsByRegionTableBody">
+                                <tr><td colspan="4" style="text-align:center;">Carregando...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Análise de Chapas com Branco/Nulo no Senado (2018)</h3>
+                    <p class="text-info">Combinações mais frequentes de votação: Presidente + Governador + Status do Senado (candidato, branco ou nulo)</p>
+                    <p class="text-info">Mostra em quantas seções cada combinação ocorreu e em quantas EB estava no top 2</p>
+                    <div class="table-wrapper">
+                        <div id="blankSenateCombinations"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ CLASSIFICAÇÃO EDUARDISTA TAB ============ -->
+            <section id="eb-classificacao" class="tab-content">
+                <div class="content-section">
+                    <h2>📈 Classificação Eduardista 2018-2022</h2>
+                    <p style="margin-bottom: 1rem; color: #666;">
+                        Análise de desempenho de Eduardo Braga em eleições (Senador 2018 e Governador 2022).
+                        Classificação por município: Bastião/Tendência/Swing/Anti-Eduardista.
+                    </p>
+
+                    <div id="eb-classificacao-controles"></div>
+                    <div id="eb-classificacao-resultado"></div>
+                </div>
+            </section>
+
+            <!-- ============ MAPA ELEITORAL INTERATIVO TAB ============ -->
+            <section id="mapa-eleitoral" class="tab-content">
+                <div class="content-section">
+                    <h2>🗺️ Mapa Eleitoral Interativo</h2>
+                    <p style="margin-bottom: 1rem; color: #666;">
+                        Explore os resultados eleitorais do Amazonas por município. Selecione a eleição e o modo de visualização.
+                    </p>
+
+                    <div id="mapa-controles"></div>
+                    <div id="map-container"></div>
+                </div>
+            </section>
+
+            <!-- ============ VALIDAÇÃO CRUZADA TAB ============ -->
+            <section id="validacao" class="tab-content">
+                <div class="content-section">
+                    <h2>✓ Validação Cruzada: Evolução Ideológica vs Mapa Interativo</h2>
+                    <p style="margin-bottom: 1rem; color: #666;">
+                        Valide que os dados da Evolução Ideológica e Mapa Interativo estão sincronizados e corretos.
+                    </p>
+
+                    <div id="validacao-controles"></div>
+                    <div id="validacao-resultado"></div>
+                </div>
+            </section>
+
+            <!-- ============ DADOS BRUTOS TAB ============ -->
+            <section id="dados" class="tab-content">
+                <div class="content-section">
+                    <h2>Dados Brutos</h2>
+
+                    <div class="search-controls">
+                        <input type="text" id="searchRaw" placeholder="🔍 Buscar por seção, zona ou município...">
+                        <select id="tableYear">
+                            <option value="2010">2010</option>
+                            <option value="2018">2018</option>
+                        </select>
+                    </div>
+
+                    <div class="table-wrapper">
+                        <table id="rawDataTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Município</th>
+                                    <th>Zona</th>
+                                    <th>Seção</th>
+                                    <th>Presidente (mais votado)</th>
+                                    <th>Governador (mais votado)</th>
+                                    <th>Senador 1 (mais votado)</th>
+                                    <th>Senador 2 (mais votado)</th>
+                                    <th>Eleitores Aptos</th>
+                                    <th>Comparecimento</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rawDataTableBody">
+                                <tr><td colspan="9" style="text-align:center;">Carregando...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="pagination">
+                        <button id="prevPage" class="btn btn-small">← Anterior</button>
+                        <span id="pageInfo">Página 1</span>
+                        <button id="nextPage" class="btn btn-small">Próxima →</button>
+                    </div>
+
+                    <div class="export-buttons">
+                        <button class="btn" id="exportRawCSV">📥 Baixar CSV</button>
+                        <button class="btn" id="exportRawPDF">📄 Baixar PDF</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ EVOLUÇÃO IDEOLÓGICA TAB ============ -->
+            <section id="ideologia" class="tab-content">
+                <div class="content-section">
+                    <h2>Evolução Ideológica 2010-2022</h2>
+                    <p class="text-info">Análise de evolução do perfil ideológico (Petismo vs Bolsonarismo) por município</p>
+
+                    <div style="margin: 20px 0;">
+                        <h3>Evolução Temporal Estadual</h3>
+                        <canvas id="evolutionChart" style="max-height: 300px; margin-bottom: 2rem;"></canvas>
+                    </div>
+
+                    <div style="margin: 20px 0;">
+                        <h3>Ideologia Média por Calha</h3>
+                        <canvas id="calhaChart" style="max-height: 400px; margin-bottom: 2rem;"></canvas>
+                    </div>
+
+                    <div style="margin: 20px 0;">
+                        <h3>Saldo vs Volatilidade</h3>
+                        <canvas id="volatilityChart" style="max-height: 400px;"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ PROJEÇÃO 2026 TAB ============ -->
+            <section id="projecao-2026" class="tab-content">
+                <div class="content-section">
+                    <h2>Projeção Ideológica 2026</h2>
+                    <p class="text-info">Classificação preditiva dos municípios baseada em tendência linear 2010-2022</p>
+
+                    <div style="margin: 20px 0;">
+                        <h3>Distribuição de Classificações</h3>
+                        <canvas id="classificationChart" style="max-height: 300px;"></canvas>
+                    </div>
+
+                    <h3 style="margin-top: 2rem;">Classificações Preditivas</h3>
+                    <div class="classification-grid" id="classificationGrid"></div>
+
+                    <h3 style="margin-top: 2rem;">Municípios Swing (Prioridade de Campanha)</h3>
+                    <div class="table-wrapper">
+                        <table id="swingTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Município</th>
+                                    <th>Calha</th>
+                                    <th>Petismo 2026</th>
+                                    <th>Bolsonarismo 2026</th>
+                                    <th>Saldo Projetado</th>
+                                    <th>Tendência</th>
+                                </tr>
+                            </thead>
+                            <tbody id="swingTableBody">
+                                <tr><td colspan="6" style="text-align:center;">Carregando...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ============ EB vs IDEOLOGIA TAB ============ -->
+            <section id="eb-ideologia" class="tab-content">
+                <div class="content-section">
+                    <h2>Eduardo Braga vs Perfil Ideológico</h2>
+                    <p class="text-info">Correlação entre votação de EB (2018) e perfil ideológico da seção eleitoral</p>
+
+                    <h3>Scatter Plot - EB vs Bolsonarismo 2018</h3>
+                    <canvas id="ebScatterChart" style="max-height: 400px;"></canvas>
+
+                    <h3 style="margin-top: 2rem;">Desempenho de EB por Faixa Ideológica (2018)</h3>
+                    <div class="table-wrapper">
+                        <table id="ebPerformanceTable" class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Faixa Ideológica</th>
+                                    <th>Seções</th>
+                                    <th>% médio EB</th>
+                                    <th>Votos EB Totais</th>
+                                </tr>
+                            </thead>
+                            <tbody id="ebPerformanceTableBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>Dados: Tribunal Superior Eleitoral (TSE) | Geolocalização: IBGE</p>
+            <p style="font-size: 0.85rem; margin-top: 0.5rem;">Dashboard v1.0 - Amazonas 2010 vs 2018</p>
+        </footer>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+    <!-- jsPDF for PDF export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="js/charts.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/export.js"></script>
+
+    <!-- Ideology Analysis JS -->
+    <script src="js/ideology-charts.js"></script>
+    <script src="js/ideology-tables.js"></script>
+    <script src="js/eb-analysis.js"></script>
+
+    <!-- Mapa Eleitoral Interativo -->
+    <script src="js/mapa-eleitoral.js"></script>
+
+    <!-- Validação Cruzada -->
+    <script src="js/validacao-cruzada.js"></script>
+
+    <!-- Classificação Eduardista -->
+    <script src="js/eb-classificacao.js"></script>
+
+    <!-- Resumo de Votos Nulos e Brancos -->
+    <script src="js/resumo-nulos-brancos.js"></script>
+
+    <!-- Resumo Correto de Eduardo Braga -->
+    <script src="js/resumo-eb-correto.js"></script>
+
+    <script>
+        // Inicializar quando as abas forem clicadas
+        document.addEventListener('DOMContentLoaded', function() {
+            // Inicializar resumo CORRETO de EB na aba Resumo
+            window.initResumoEBCorreto();
+
+            // Inicializar resumo de nulos e brancos na aba Resumo
+            window.initResumoNulosBrancos();
+
+            const mapaBtns = document.querySelectorAll('[data-tab="mapa-eleitoral"]');
+            mapaBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    setTimeout(() => window.initMapaEleitoral(), 100);
+                });
+            });
+
+            const validacaoBtns = document.querySelectorAll('[data-tab="validacao"]');
+            validacaoBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    setTimeout(() => window.initValidacaoCruzada(), 100);
+                });
+            });
+
+            const ebClassBtns = document.querySelectorAll('[data-tab="eb-classificacao"]');
+            ebClassBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    setTimeout(() => window.initEBClassificacao(), 100);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
