@@ -15,7 +15,7 @@ async function initValidacaoCruzada() {
     console.log('⏳ Carregando dados para validação cruzada...');
 
     try {
-        const response = await fetch('/data/ideologia/evolucao_municipios.json');
+        const response = await fetch('./data/ideologia/evolucao_municipios.json');
         validacaoState.dados = await response.json();
 
         setupControlesValidacao();

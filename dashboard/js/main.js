@@ -42,34 +42,34 @@ async function loadData() {
         };
 
         updateStatus('⏳ Carregando candidatos 2010...');
-        const candidates2010 = await fetch('/data/processed/candidates_2010.json').then(r => r.json());
+        const candidates2010 = await fetch('./data/processed/candidates_2010.json').then(r => r.json());
 
         updateStatus('⏳ Carregando candidatos 2018...');
-        const candidates2018 = await fetch('/data/processed/candidates_2018.json').then(r => r.json());
+        const candidates2018 = await fetch('./data/processed/candidates_2018.json').then(r => r.json());
         appState.data.candidates = { 2010: candidates2010, 2018: candidates2018 };
 
         updateStatus('⏳ Carregando seções 2010 (~11MB)...');
-        const sections2010 = await fetch('/data/processed/sections_2010.json').then(r => r.json());
+        const sections2010 = await fetch('./data/processed/sections_2010.json').then(r => r.json());
 
         updateStatus('⏳ Carregando seções 2018 (~19MB)...');
-        const sections2018 = await fetch('/data/processed/sections_2018.json').then(r => r.json());
+        const sections2018 = await fetch('./data/processed/sections_2018.json').then(r => r.json());
         appState.data.sections = {
             2010: sections2010.sections,
             2018: sections2018.sections
         };
 
         updateStatus('⏳ Carregando municípios 2010...');
-        const municipalities2010 = await fetch('/data/processed/municipalities_2010.json').then(r => r.json());
+        const municipalities2010 = await fetch('./data/processed/municipalities_2010.json').then(r => r.json());
 
         updateStatus('⏳ Carregando municípios 2018...');
-        const municipalities2018 = await fetch('/data/processed/municipalities_2018.json').then(r => r.json());
+        const municipalities2018 = await fetch('./data/processed/municipalities_2018.json').then(r => r.json());
         appState.data.municipalities = {
             2010: municipalities2010.municipalities,
             2018: municipalities2018.municipalities
         };
 
         updateStatus('⏳ Carregando mapa (GeoJSON)...');
-        const geojson = await fetch('/data/reference/amazonas_enriched.geojson').then(r => r.json());
+        const geojson = await fetch('./data/reference/amazonas_enriched.geojson').then(r => r.json());
         appState.data.geojson = geojson;
 
         const endTime = performance.now();

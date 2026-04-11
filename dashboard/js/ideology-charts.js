@@ -23,8 +23,8 @@ async function initCharts() {
     try {
         // Load data
         const [municipios, secoes] = await Promise.all([
-            fetch('/data/ideologia/evolucao_municipios.json').then(r => r.json()),
-            fetch('/data/ideologia/evolucao_secoes.json').then(r => r.json()),
+            fetch('./data/ideologia/evolucao_municipios.json').then(r => r.json()),
+            fetch('./data/ideologia/evolucao_secoes.json').then(r => r.json()),
         ]);
 
         chartsState.municipalitiesData = municipios;

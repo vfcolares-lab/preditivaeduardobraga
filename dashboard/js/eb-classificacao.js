@@ -16,7 +16,7 @@ async function initEBClassificacao() {
 
     try {
         // Carregar dados de análise completa (2010-2022)
-        const respCompleta = await fetch('/data/ideologia/analise_eb_completa.json');
+        const respCompleta = await fetch('./data/ideologia/analise_eb_completa.json');
         const dadosCompleta = await respCompleta.json();
 
         ebClassificacaoState.dados = dadosCompleta;

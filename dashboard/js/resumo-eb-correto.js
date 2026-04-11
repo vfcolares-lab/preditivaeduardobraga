@@ -18,15 +18,15 @@ async function initResumoEBCorreto() {
 
     try {
         // Carregar dados de 2010 (de analise_eb_completa)
-        const resp2010 = await fetch('/data/ideologia/analise_eb_completa.json');
+        const resp2010 = await fetch('./data/ideologia/analise_eb_completa.json');
         const dados2010 = await resp2010.json();
 
         // Carregar dados de 2018 (de senador_2018_eb)
-        const resp2018 = await fetch('/data/ideologia/senador_2018_eb.json');
+        const resp2018 = await fetch('./data/ideologia/senador_2018_eb.json');
         const dados2018 = await resp2018.json();
 
         // Carregar dados de brancos e nulos
-        const respNulosBrancos = await fetch('/data/ideologia/votos_nulos_brancos_comparativo.json');
+        const respNulosBrancos = await fetch('./data/ideologia/votos_nulos_brancos_comparativo.json');
         const dadosNulosBrancos = await respNulosBrancos.json();
 
         resumoEBState.dados2010 = dados2010;

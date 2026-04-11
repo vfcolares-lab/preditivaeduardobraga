@@ -19,8 +19,8 @@ const tablesState = {
 async function initTables() {
     try {
         const [secoes, municipios] = await Promise.all([
-            fetch('/data/ideologia/evolucao_secoes.json').then(r => r.json()),
-            fetch('/data/ideologia/evolucao_municipios.json').then(r => r.json()),
+            fetch('./data/ideologia/evolucao_secoes.json').then(r => r.json()),
+            fetch('./data/ideologia/evolucao_municipios.json').then(r => r.json()),
         ]);
 
         tablesState.secoesData = secoes;

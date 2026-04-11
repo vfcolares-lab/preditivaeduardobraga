@@ -14,7 +14,7 @@ async function initResumoNulosBrancos() {
     console.log('⏳ Carregando resumo de votos nulos e brancos...');
 
     try {
-        const resp = await fetch('/data/ideologia/votos_nulos_brancos_comparativo.json');
+        const resp = await fetch('./data/ideologia/votos_nulos_brancos_comparativo.json');
         const dados = await resp.json();
 
         resumoNulosBrancosState.dados = dados;

@@ -21,7 +21,7 @@ async function initEBAnalysis() {
     }
 
     try {
-        const ebData = await fetch('/data/ideologia/eb_analise_2018.json').then(r => r.json());
+        const ebData = await fetch('./data/ideologia/eb_analise_2018.json').then(r => r.json());
         ebState.ebData = ebData;
 
         console.log(`✓ EB dados carregados: ${Object.keys(ebData).length} seções`);

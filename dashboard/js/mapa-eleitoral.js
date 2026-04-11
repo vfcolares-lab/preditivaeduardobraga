@@ -30,11 +30,11 @@ async function initMapaEleitoral() {
 
     try {
         // Carregar dados geográficos
-        const geoResponse = await fetch('/dashboard/data/municipios_am_geo.json');
+        const geoResponse = await fetch('./data/municipios_am_geo.json');
         mapaState.municipiosGeo = await geoResponse.json();
 
         // Carregar dados eleitorais
-        const eletResponse = await fetch('/data/ideologia/evolucao_municipios.json');
+        const eletResponse = await fetch('./data/ideologia/evolucao_municipios.json');
         mapaState.dadosEleitoral = await eletResponse.json();
 
         // Inicializar mapa
